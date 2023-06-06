@@ -1,0 +1,305 @@
+INFO  02:52:09,286 - #2 program
+INFO  02:52:09,286 - #8 Program
+INFO  02:52:09,286 - #20 {
+INFO  02:52:09,286 - #5 const
+INFO  02:52:09,286 - #8 int
+INFO  02:52:09,286 - #8 a
+INFO  02:52:09,286 - #24 =
+INFO  02:52:09,286 - #9 5
+INFO  02:52:09,286 - #27 ;
+INFO  02:52:09,286 - #6 void
+INFO  02:52:09,296 - #8 test
+INFO  02:52:09,296 - #29 (
+INFO  02:52:09,297 - #30 )
+INFO  02:52:09,297 - #20 {
+INFO  02:52:09,297 - #8 bool
+INFO  02:52:09,297 - #8 c
+INFO  02:52:09,297 - #27 ;
+INFO  02:52:09,297 - #8 c
+INFO  02:52:09,298 - #24 =
+INFO  02:52:09,299 - #9 10
+INFO  02:52:09,299 - #27 ;
+INFO  02:52:09,299 - #8 c
+INFO  02:52:09,300 - #25 ++
+INFO  02:52:09,300 - #27 ;
+INFO  02:52:09,300 - #21 }
+INFO  02:52:09,300 - #6 void
+INFO  02:52:09,301 - #8 main
+INFO  02:52:09,301 - #29 (
+INFO  02:52:09,301 - #30 )
+INFO  02:52:09,301 - #20 {
+INFO  02:52:09,301 - #21 }
+INFO  02:52:09,301 - #21 }
+INFO  02:52:09,315 - Pronadjen tip int u tabeli simbola na liniji 2
+INFO  02:52:09,315 - Deklarisana konstanta a na liniji 2
+ERROR 02:52:09,315 - Semanticka greska - nije pronadjen tip bool u tabeli simbola!
+INFO  02:52:09,315 - Deklarisana promenljiva c na liniji 5
+INFO  03:11:07,424 - #2 program
+INFO  03:11:07,424 - #8 Program
+INFO  03:11:07,424 - #20 {
+INFO  03:11:07,424 - #5 const
+INFO  03:11:07,424 - #8 int
+INFO  03:11:07,424 - #8 a
+INFO  03:11:07,424 - #24 =
+INFO  03:11:07,424 - #9 5
+INFO  03:11:07,424 - #27 ;
+INFO  03:11:07,424 - #6 void
+INFO  03:11:07,424 - #8 test
+INFO  03:11:07,424 - #29 (
+INFO  03:11:07,424 - #30 )
+INFO  03:11:07,424 - #20 {
+INFO  03:11:07,424 - #8 bool
+INFO  03:11:07,424 - #8 c
+INFO  03:11:07,424 - #27 ;
+INFO  03:11:07,424 - #8 c
+INFO  03:11:07,434 - #24 =
+INFO  03:11:07,435 - #9 10
+INFO  03:11:07,435 - #27 ;
+INFO  03:11:07,436 - #8 c
+INFO  03:11:07,436 - #25 ++
+INFO  03:11:07,436 - #27 ;
+INFO  03:11:07,437 - #21 }
+INFO  03:11:07,437 - #6 void
+INFO  03:11:07,438 - #8 main
+INFO  03:11:07,438 - #29 (
+INFO  03:11:07,438 - #30 )
+INFO  03:11:07,438 - #20 {
+INFO  03:11:07,438 - #21 }
+INFO  03:11:07,438 - #21 }
+INFO  03:11:07,453 - Pronadjen tip int u tabeli simbola na liniji 2
+INFO  03:11:07,453 - Deklarisana konstanta a na liniji 2
+ERROR 03:11:07,453 - Semanticka greska - nije pronadjen tip bool u tabeli simbola!
+INFO  03:11:07,453 - Deklarisana promenljiva c na liniji 5
+ERROR 03:11:07,454 - Semanticka greska - nekompatibilni tipovi za dodelu vrednosti na liniji 6!
+INFO  03:11:07,454 - Obradjuje se funkcija test na liniji 4
+INFO  03:11:07,454 - Obradjuje se funkcija main na liniji 10
+INFO  03:19:02,376 - #2 program
+INFO  03:19:02,376 - #8 Program
+INFO  03:19:02,376 - #20 {
+INFO  03:19:02,376 - #5 const
+INFO  03:19:02,376 - #8 int
+INFO  03:19:02,376 - #8 a
+INFO  03:19:02,376 - #24 =
+INFO  03:19:02,376 - #9 5
+INFO  03:19:02,376 - #27 ;
+INFO  03:19:02,376 - #6 void
+INFO  03:19:02,376 - #8 test
+INFO  03:19:02,376 - #29 (
+INFO  03:19:02,376 - #30 )
+INFO  03:19:02,376 - #20 {
+INFO  03:19:02,376 - #8 bool
+INFO  03:19:02,376 - #8 c
+INFO  03:19:02,376 - #27 ;
+INFO  03:19:02,376 - #8 c
+INFO  03:19:02,376 - #24 =
+INFO  03:19:02,376 - #9 10
+INFO  03:19:02,376 - #27 ;
+INFO  03:19:02,376 - #8 c
+INFO  03:19:02,376 - #25 ++
+INFO  03:19:02,376 - #27 ;
+INFO  03:19:02,376 - #21 }
+INFO  03:19:02,376 - #6 void
+INFO  03:19:02,376 - #8 main
+INFO  03:19:02,376 - #29 (
+INFO  03:19:02,376 - #30 )
+INFO  03:19:02,376 - #20 {
+INFO  03:19:02,376 - #21 }
+INFO  03:19:02,376 - #21 }
+INFO  03:19:02,396 - Pronadjen tip int u tabeli simbola na liniji 2
+INFO  03:19:02,396 - Deklarisana konstanta a na liniji 2
+ERROR 03:19:02,396 - Semanticka greska - nije pronadjen tip bool u tabeli simbola!
+INFO  03:19:02,396 - Deklarisana promenljiva c na liniji 5
+ERROR 03:19:02,396 - Semanticka greska - nekompatibilni tipovi za dodelu vrednosti na liniji 6!
+ERROR 03:19:02,396 - Semanticka greska - nekompatibilni tip za inkrement na liniji 7!
+INFO  03:19:02,396 - Obradjuje se funkcija test na liniji 4
+INFO  03:19:02,396 - Obradjuje se funkcija main na liniji 10
+INFO  03:21:21,055 - #2 program
+INFO  03:21:21,055 - #8 Program
+INFO  03:21:21,055 - #20 {
+INFO  03:21:21,055 - #5 const
+INFO  03:21:21,055 - #8 int
+INFO  03:21:21,055 - #8 a
+INFO  03:21:21,055 - #24 =
+INFO  03:21:21,055 - #9 5
+INFO  03:21:21,055 - #27 ;
+INFO  03:21:21,055 - #6 void
+INFO  03:21:21,067 - #8 test
+INFO  03:21:21,067 - #29 (
+INFO  03:21:21,067 - #30 )
+INFO  03:21:21,067 - #20 {
+INFO  03:21:21,067 - #8 int
+INFO  03:21:21,067 - #8 c
+INFO  03:21:21,068 - #27 ;
+INFO  03:21:21,068 - #8 c
+INFO  03:21:21,069 - #24 =
+INFO  03:21:21,069 - #9 10
+INFO  03:21:21,069 - #27 ;
+INFO  03:21:21,070 - #8 c
+INFO  03:21:21,071 - #25 ++
+INFO  03:21:21,071 - #27 ;
+INFO  03:21:21,071 - #21 }
+INFO  03:21:21,071 - #6 void
+INFO  03:21:21,072 - #8 main
+INFO  03:21:21,072 - #29 (
+INFO  03:21:21,072 - #30 )
+INFO  03:21:21,072 - #20 {
+INFO  03:21:21,072 - #21 }
+INFO  03:21:21,073 - #21 }
+INFO  03:21:21,087 - Pronadjen tip int u tabeli simbola na liniji 2
+INFO  03:21:21,087 - Deklarisana konstanta a na liniji 2
+INFO  03:21:21,087 - Pronadjen tip int u tabeli simbola na liniji 5
+INFO  03:21:21,087 - Deklarisana promenljiva c na liniji 5
+INFO  03:21:21,087 - Obradjuje se funkcija test na liniji 4
+INFO  03:21:21,087 - Obradjuje se funkcija main na liniji 10
+INFO  03:26:26,099 - #2 program
+INFO  03:26:26,099 - #8 Program
+INFO  03:26:26,099 - #20 {
+INFO  03:26:26,099 - #5 const
+INFO  03:26:26,099 - #8 int
+INFO  03:26:26,099 - #8 a
+INFO  03:26:26,099 - #24 =
+INFO  03:26:26,099 - #9 5
+INFO  03:26:26,099 - #27 ;
+INFO  03:26:26,099 - #6 void
+INFO  03:26:26,099 - #8 test
+INFO  03:26:26,099 - #29 (
+INFO  03:26:26,099 - #30 )
+INFO  03:26:26,099 - #20 {
+INFO  03:26:26,099 - #8 int
+INFO  03:26:26,099 - #8 c
+INFO  03:26:26,099 - #27 ;
+INFO  03:26:26,099 - #8 c
+INFO  03:26:26,099 - #24 =
+INFO  03:26:26,099 - #9 10
+INFO  03:26:26,099 - #27 ;
+INFO  03:26:26,099 - #8 c
+INFO  03:26:26,099 - #25 ++
+INFO  03:26:26,099 - #27 ;
+INFO  03:26:26,099 - #21 }
+INFO  03:26:26,099 - #6 void
+INFO  03:26:26,099 - #8 main
+INFO  03:26:26,099 - #29 (
+INFO  03:26:26,099 - #30 )
+INFO  03:26:26,099 - #20 {
+INFO  03:26:26,099 - #21 }
+INFO  03:26:26,099 - #21 }
+INFO  03:26:26,119 - Pronadjen tip int u tabeli simbola na liniji 2
+INFO  03:26:26,119 - Deklarisana konstanta a na liniji 2
+INFO  03:26:26,119 - Pronadjen tip int u tabeli simbola na liniji 5
+INFO  03:26:26,119 - Deklarisana promenljiva c na liniji 5
+INFO  03:26:26,119 - Obradjuje se funkcija test na liniji 4
+INFO  03:26:26,119 - Obradjuje se funkcija main na liniji 10
+INFO  03:28:02,265 - #2 program
+INFO  03:28:02,265 - #8 Program
+INFO  03:28:02,265 - #20 {
+INFO  03:28:02,266 - #5 const
+INFO  03:28:02,267 - #8 int
+INFO  03:28:02,267 - #8 a
+INFO  03:28:02,268 - #24 =
+INFO  03:28:02,268 - #9 5
+INFO  03:28:02,269 - #27 ;
+INFO  03:28:02,269 - #6 void
+INFO  03:28:02,272 - #8 test
+INFO  03:28:02,272 - #29 (
+INFO  03:28:02,272 - #30 )
+INFO  03:28:02,272 - #20 {
+INFO  03:28:02,273 - #8 int
+INFO  03:28:02,273 - #8 c
+INFO  03:28:02,273 - #27 ;
+INFO  03:28:02,273 - #8 c
+INFO  03:28:02,275 - #24 =
+INFO  03:28:02,275 - #9 10
+INFO  03:28:02,275 - #27 ;
+INFO  03:28:02,276 - #8 c
+INFO  03:28:02,276 - #25 ++
+INFO  03:28:02,276 - #27 ;
+INFO  03:28:02,277 - #21 }
+INFO  03:28:02,277 - #6 void
+INFO  03:28:02,278 - #8 main
+INFO  03:28:02,278 - #29 (
+INFO  03:28:02,278 - #30 )
+INFO  03:28:02,278 - #20 {
+INFO  03:28:02,278 - #21 }
+INFO  03:28:02,278 - #21 }
+INFO  03:28:02,296 - Pronadjen tip int u tabeli simbola na liniji 2
+INFO  03:28:02,296 - Deklarisana konstanta a na liniji 2
+INFO  03:28:02,296 - Pronadjen tip int u tabeli simbola na liniji 5
+INFO  03:28:02,296 - Deklarisana promenljiva c na liniji 5
+INFO  03:28:02,297 - Obradjuje se funkcija test na liniji 4
+INFO  03:28:02,297 - Obradjuje se funkcija main na liniji 10
+INFO  03:29:42,102 - #2 program
+INFO  03:29:42,102 - #8 Program
+INFO  03:29:42,102 - #20 {
+INFO  03:29:42,102 - #5 const
+INFO  03:29:42,102 - #8 int
+INFO  03:29:42,102 - #8 a
+INFO  03:29:42,102 - #24 =
+INFO  03:29:42,102 - #9 5
+INFO  03:29:42,102 - #27 ;
+INFO  03:29:42,102 - #6 void
+INFO  03:29:42,102 - #8 test
+INFO  03:29:42,102 - #29 (
+INFO  03:29:42,102 - #30 )
+INFO  03:29:42,102 - #20 {
+INFO  03:29:42,102 - #8 int
+INFO  03:29:42,102 - #8 c
+INFO  03:29:42,102 - #27 ;
+INFO  03:29:42,102 - #8 c
+INFO  03:29:42,102 - #24 =
+INFO  03:29:42,102 - #9 10
+INFO  03:29:42,102 - #27 ;
+INFO  03:29:42,102 - #8 c
+INFO  03:29:42,102 - #25 ++
+INFO  03:29:42,112 - #27 ;
+INFO  03:29:42,112 - #21 }
+INFO  03:29:42,112 - #6 void
+INFO  03:29:42,113 - #8 main
+INFO  03:29:42,113 - #29 (
+INFO  03:29:42,113 - #30 )
+INFO  03:29:42,113 - #20 {
+INFO  03:29:42,113 - #21 }
+INFO  03:29:42,113 - #21 }
+INFO  03:29:42,124 - Pronadjen tip int u tabeli simbola na liniji 2
+INFO  03:29:42,124 - Deklarisana konstanta a na liniji 2
+INFO  03:29:42,124 - Pronadjen tip int u tabeli simbola na liniji 5
+INFO  03:29:42,124 - Deklarisana promenljiva c na liniji 5
+INFO  03:29:42,124 - Obradjuje se funkcija test na liniji 4
+INFO  03:29:42,125 - Obradjuje se funkcija main na liniji 10
+INFO  03:34:28,980 - #2 program
+INFO  03:34:28,981 - #8 Program
+INFO  03:34:28,981 - #20 {
+INFO  03:34:28,982 - #5 const
+INFO  03:34:28,982 - #8 int
+INFO  03:34:28,982 - #8 a
+INFO  03:34:28,983 - #24 =
+INFO  03:34:28,984 - #9 5
+INFO  03:34:28,984 - #27 ;
+INFO  03:34:28,984 - #6 void
+INFO  03:34:28,986 - #8 test
+INFO  03:34:28,986 - #29 (
+INFO  03:34:28,986 - #30 )
+INFO  03:34:28,987 - #20 {
+INFO  03:34:28,987 - #8 int
+INFO  03:34:28,987 - #8 c
+INFO  03:34:28,987 - #27 ;
+INFO  03:34:28,987 - #8 c
+INFO  03:34:28,989 - #24 =
+INFO  03:34:28,989 - #9 10
+INFO  03:34:28,989 - #27 ;
+INFO  03:34:28,990 - #8 c
+INFO  03:34:28,990 - #25 ++
+INFO  03:34:28,990 - #27 ;
+INFO  03:34:28,991 - #21 }
+INFO  03:34:28,991 - #6 void
+INFO  03:34:28,992 - #8 main
+INFO  03:34:28,992 - #29 (
+INFO  03:34:28,992 - #30 )
+INFO  03:34:28,992 - #20 {
+INFO  03:34:28,992 - #21 }
+INFO  03:34:28,992 - #21 }
+INFO  03:34:29,008 - Pronadjen tip int u tabeli simbola na liniji 2
+INFO  03:34:29,010 - Deklarisana konstanta a na liniji 2
+INFO  03:34:29,010 - Pronadjen tip int u tabeli simbola na liniji 5
+INFO  03:34:29,010 - Deklarisana promenljiva c na liniji 5
+INFO  03:34:29,010 - Obradjuje se funkcija test na liniji 4
+INFO  03:34:29,011 - Obradjuje se funkcija main na liniji 10

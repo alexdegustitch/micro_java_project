@@ -1,0 +1,1649 @@
+INFO  02:06:43,929 - Obrada ulaznog fajla test\program.mj
+INFO  02:06:44,024 - #2 program
+INFO  02:06:44,024 - #8 Program
+INFO  02:06:44,024 - #5 const
+INFO  02:06:44,025 - #8 int
+INFO  02:06:44,026 - #8 c
+INFO  02:06:44,027 - #23 =
+INFO  02:06:44,027 - #9 10
+INFO  02:06:44,027 - #27 ,
+INFO  02:06:44,028 - #8 d
+INFO  02:06:44,028 - #23 =
+INFO  02:06:44,029 - #9 99
+INFO  02:06:44,029 - #27 ,
+INFO  02:06:44,029 - #8 g
+INFO  02:06:44,029 - #23 =
+INFO  02:06:44,029 - #9 2
+INFO  02:06:44,029 - #26 ;
+INFO  02:06:44,029 - #8 int
+INFO  02:06:44,030 - #8 e
+INFO  02:06:44,031 - #26 ;
+INFO  02:06:44,031 - #8 char
+INFO  02:06:44,032 - #8 z
+INFO  02:06:44,032 - #21 [
+INFO  02:06:44,032 - #22 ]
+INFO  02:06:44,032 - #26 ;
+INFO  02:06:44,033 - #19 {
+INFO  02:06:44,033 - #6 void
+INFO  02:06:44,033 - #8 main
+INFO  02:06:44,033 - #28 (
+INFO  02:06:44,034 - #29 )
+INFO  02:06:44,034 - #8 int
+INFO  02:06:44,034 - #8 x
+INFO  02:06:44,034 - #27 ,
+INFO  02:06:44,034 - #8 y
+INFO  02:06:44,034 - #26 ;
+INFO  02:06:44,035 - #19 {
+INFO  02:06:44,035 - #8 x
+INFO  02:06:44,035 - #23 =
+INFO  02:06:44,035 - #9 1
+INFO  02:06:44,035 - #26 ;
+INFO  02:06:44,036 - #4 read
+INFO  02:06:44,036 - #28 (
+INFO  02:06:44,036 - #8 y
+INFO  02:06:44,036 - #29 )
+INFO  02:06:44,037 - #26 ;
+INFO  02:06:44,037 - #3 print
+INFO  02:06:44,037 - #28 (
+INFO  02:06:44,037 - #8 x
+INFO  02:06:44,037 - #14 +
+INFO  02:06:44,037 - #9 4
+INFO  02:06:44,039 - #29 )
+INFO  02:06:44,040 - #26 ;
+INFO  02:06:44,041 - #3 print
+INFO  02:06:44,041 - #28 (
+INFO  02:06:44,041 - #8 y
+INFO  02:06:44,041 - #29 )
+INFO  02:06:44,041 - #26 ;
+INFO  02:06:44,041 - #8 e
+INFO  02:06:44,041 - #23 =
+INFO  02:06:44,042 - #9 3
+INFO  02:06:44,042 - #26 ;
+INFO  02:06:44,042 - #8 e
+INFO  02:06:44,042 - #23 =
+INFO  02:06:44,042 - #15 -
+INFO  02:06:44,042 - #28 (
+INFO  02:06:44,042 - #8 d
+INFO  02:06:44,042 - #17 /
+INFO  02:06:44,042 - #9 11
+INFO  02:06:44,044 - #15 -
+INFO  02:06:44,045 - #8 c
+INFO  02:06:44,046 - #29 )
+INFO  02:06:44,047 - #16 *
+INFO  02:06:44,047 - #8 e
+INFO  02:06:44,048 - #14 +
+INFO  02:06:44,048 - #8 y
+INFO  02:06:44,048 - #16 *
+INFO  02:06:44,048 - #8 y
+INFO  02:06:44,050 - #15 -
+INFO  02:06:44,050 - #8 y
+INFO  02:06:44,050 - #14 +
+INFO  02:06:44,050 - #9 1
+INFO  02:06:44,051 - #26 ;
+INFO  02:06:44,051 - #8 e
+INFO  02:06:44,051 - #24 ++
+INFO  02:06:44,051 - #26 ;
+INFO  02:06:44,051 - #3 print
+INFO  02:06:44,052 - #28 (
+INFO  02:06:44,052 - #8 e
+INFO  02:06:44,052 - #29 )
+INFO  02:06:44,052 - #26 ;
+INFO  02:06:44,052 - #8 z
+INFO  02:06:44,052 - #23 =
+INFO  02:06:44,052 - #7 new
+INFO  02:06:44,052 - #8 char
+INFO  02:06:44,052 - #21 [
+INFO  02:06:44,053 - #9 4
+INFO  02:06:44,053 - #22 ]
+INFO  02:06:44,053 - #26 ;
+INFO  02:06:44,053 - #8 z
+INFO  02:06:44,053 - #21 [
+INFO  02:06:44,053 - #9 0
+INFO  02:06:44,053 - #22 ]
+INFO  02:06:44,053 - #23 =
+INFO  02:06:44,053 - #8 chr
+INFO  02:06:44,054 - #28 (
+INFO  02:06:44,054 - #9 72
+INFO  02:06:44,054 - #29 )
+INFO  02:06:44,054 - #26 ;
+INFO  02:06:44,054 - #8 z
+INFO  02:06:44,054 - #21 [
+INFO  02:06:44,054 - #9 1
+INFO  02:06:44,054 - #22 ]
+INFO  02:06:44,054 - #23 =
+INFO  02:06:44,054 - #10 O
+INFO  02:06:44,055 - #26 ;
+INFO  02:06:44,055 - #8 z
+INFO  02:06:44,055 - #21 [
+INFO  02:06:44,055 - #8 g
+INFO  02:06:44,055 - #22 ]
+INFO  02:06:44,055 - #23 =
+INFO  02:06:44,055 - #10 M
+INFO  02:06:44,055 - #26 ;
+INFO  02:06:44,055 - #8 z
+INFO  02:06:44,055 - #21 [
+INFO  02:06:44,055 - #8 x
+INFO  02:06:44,056 - #14 +
+INFO  02:06:44,056 - #9 4
+INFO  02:06:44,056 - #22 ]
+INFO  02:06:44,056 - #23 =
+INFO  02:06:44,056 - #8 chr
+INFO  02:06:44,056 - #28 (
+INFO  02:06:44,056 - #8 ord
+INFO  02:06:44,056 - #28 (
+INFO  02:06:44,056 - #10 A
+INFO  02:06:44,056 - #29 )
+INFO  02:06:44,056 - #14 +
+INFO  02:06:44,057 - #9 4
+INFO  02:06:44,057 - #29 )
+INFO  02:06:44,057 - #26 ;
+INFO  02:06:44,057 - #3 print
+INFO  02:06:44,057 - #28 (
+INFO  02:06:44,057 - #8 z
+INFO  02:06:44,057 - #21 [
+INFO  02:06:44,057 - #9 0
+INFO  02:06:44,057 - #22 ]
+INFO  02:06:44,057 - #29 )
+INFO  02:06:44,058 - #26 ;
+INFO  02:06:44,058 - #3 print
+INFO  02:06:44,058 - #28 (
+INFO  02:06:44,058 - #8 z
+INFO  02:06:44,058 - #21 [
+INFO  02:06:44,058 - #9 1
+INFO  02:06:44,058 - #22 ]
+INFO  02:06:44,058 - #29 )
+INFO  02:06:44,058 - #26 ;
+INFO  02:06:44,058 - #3 print
+INFO  02:06:44,058 - #28 (
+INFO  02:06:44,058 - #8 z
+INFO  02:06:44,058 - #21 [
+INFO  02:06:44,058 - #8 g
+INFO  02:06:44,058 - #22 ]
+INFO  02:06:44,059 - #29 )
+INFO  02:06:44,059 - #26 ;
+INFO  02:06:44,059 - #3 print
+INFO  02:06:44,059 - #28 (
+INFO  02:06:44,059 - #8 z
+INFO  02:06:44,059 - #21 [
+INFO  02:06:44,059 - #8 x
+INFO  02:06:44,059 - #14 +
+INFO  02:06:44,059 - #9 4
+INFO  02:06:44,059 - #22 ]
+INFO  02:06:44,059 - #29 )
+INFO  02:06:44,059 - #26 ;
+INFO  02:06:44,060 - #3 print
+INFO  02:06:44,060 - #28 (
+INFO  02:06:44,060 - #8 len
+INFO  02:06:44,060 - #28 (
+INFO  02:06:44,060 - #8 z
+INFO  02:06:44,060 - #29 )
+INFO  02:06:44,060 - #29 )
+INFO  02:06:44,060 - #26 ;
+INFO  02:06:44,060 - #20 }
+INFO  02:06:44,060 - #20 }
+INFO  02:06:44,062 - =====================SINTAKSNO_STABLO=========================
+INFO  02:06:44,067 - 
+Program_0(
+  Program_name(
+   Program
+  ) [Program_name]
+  Program_con_vars_multi(
+    Program_con_vars_multi(
+      Program_con_vars_single(
+        Part_const_decl(
+          Const_declaration(
+            Type(
+             int
+            ) [Type]
+            Const_multi(
+              Const_multi(
+                Const_single(
+                  Const_part(
+                   c
+                    Val_Num_const(
+                     10
+                    ) [Val_Num_const]
+                  ) [Const_part]
+                ) [Const_single]
+                Const_part(
+                 d
+                  Val_Num_const(
+                   99
+                  ) [Val_Num_const]
+                ) [Const_part]
+              ) [Const_multi]
+              Const_part(
+               g
+                Val_Num_const(
+                 2
+                ) [Val_Num_const]
+              ) [Const_part]
+            ) [Const_multi]
+          ) [Const_declaration]
+        ) [Part_const_decl]
+      ) [Program_con_vars_single]
+      Part_var_decl(
+        Var_declaration(
+          Type(
+           int
+          ) [Type]
+          Var_single(
+            Var_normal(
+             e
+            ) [Var_normal]
+          ) [Var_single]
+        ) [Var_declaration]
+      ) [Part_var_decl]
+    ) [Program_con_vars_multi]
+    Part_var_decl(
+      Var_declaration(
+        Type(
+         char
+        ) [Type]
+        Var_single(
+          Var_array(
+           z
+          ) [Var_array]
+        ) [Var_single]
+      ) [Var_declaration]
+    ) [Part_var_decl]
+  ) [Program_con_vars_multi]
+  Program_methods_single(
+    Meth_void_decl(
+      Meth_void_4(
+        Method_void_name(
+         main
+        ) [Method_void_name]
+        Var_decl_single(
+          Var_declaration(
+            Type(
+             int
+            ) [Type]
+            Var_multi(
+              Var_single(
+                Var_normal(
+                 x
+                ) [Var_normal]
+              ) [Var_single]
+              Var_normal(
+               y
+              ) [Var_normal]
+            ) [Var_multi]
+          ) [Var_declaration]
+        ) [Var_decl_single]
+        Statement_multi(
+          Statement_multi(
+            Statement_multi(
+              Statement_multi(
+                Statement_multi(
+                  Statement_multi(
+                    Statement_multi(
+                      Statement_multi(
+                        Statement_multi(
+                          Statement_multi(
+                            Statement_multi(
+                              Statement_multi(
+                                Statement_multi(
+                                  Statement_multi(
+                                    Statement_multi(
+                                      Statement_multi(
+                                        Statement_multi(
+                                          Statement_single(
+                                            Stmt_design(
+                                              Assignment(
+                                                Designator_1(
+                                                 x
+                                                ) [Designator_1]
+                                                Expr_term_single(
+                                                  Term_single(
+                                                    Factor_num_const(
+                                                     1
+                                                    ) [Factor_num_const]
+                                                  ) [Term_single]
+                                                ) [Expr_term_single]
+                                              ) [Assignment]
+                                            ) [Stmt_design]
+                                          ) [Statement_single]
+                                          Stmt_Read(
+                                            Designator_1(
+                                             y
+                                            ) [Designator_1]
+                                          ) [Stmt_Read]
+                                        ) [Statement_multi]
+                                        Stmt_print_1(
+                                          Expr_term_multi(
+                                            Term_single(
+                                              Factor_designator(
+                                                Designator_1(
+                                                 x
+                                                ) [Designator_1]
+                                              ) [Factor_designator]
+                                            ) [Term_single]
+                                            More_term_single(
+                                              More_term_part(
+                                                Add_op_plus(
+                                                ) [Add_op_plus]
+                                                Term_single(
+                                                  Factor_num_const(
+                                                   4
+                                                  ) [Factor_num_const]
+                                                ) [Term_single]
+                                              ) [More_term_part]
+                                            ) [More_term_single]
+                                          ) [Expr_term_multi]
+                                        ) [Stmt_print_1]
+                                      ) [Statement_multi]
+                                      Stmt_print_1(
+                                        Expr_term_single(
+                                          Term_single(
+                                            Factor_designator(
+                                              Designator_1(
+                                               y
+                                              ) [Designator_1]
+                                            ) [Factor_designator]
+                                          ) [Term_single]
+                                        ) [Expr_term_single]
+                                      ) [Stmt_print_1]
+                                    ) [Statement_multi]
+                                    Stmt_design(
+                                      Assignment(
+                                        Designator_1(
+                                         e
+                                        ) [Designator_1]
+                                        Expr_term_single(
+                                          Term_single(
+                                            Factor_num_const(
+                                             3
+                                            ) [Factor_num_const]
+                                          ) [Term_single]
+                                        ) [Expr_term_single]
+                                      ) [Assignment]
+                                    ) [Stmt_design]
+                                  ) [Statement_multi]
+                                  Stmt_design(
+                                    Assignment(
+                                      Designator_1(
+                                       e
+                                      ) [Designator_1]
+                                      Expr_neg_term_multi(
+                                        Term_multi(
+                                          Factor_expr(
+                                            Expr_term_multi(
+                                              Term_multi(
+                                                Factor_designator(
+                                                  Designator_1(
+                                                   d
+                                                  ) [Designator_1]
+                                                ) [Factor_designator]
+                                                More_factor_single(
+                                                  More_factor_part(
+                                                    Mul_op_div(
+                                                    ) [Mul_op_div]
+                                                    Factor_num_const(
+                                                     11
+                                                    ) [Factor_num_const]
+                                                  ) [More_factor_part]
+                                                ) [More_factor_single]
+                                              ) [Term_multi]
+                                              More_term_single(
+                                                More_term_part(
+                                                  Add_op_minus(
+                                                  ) [Add_op_minus]
+                                                  Term_single(
+                                                    Factor_designator(
+                                                      Designator_1(
+                                                       c
+                                                      ) [Designator_1]
+                                                    ) [Factor_designator]
+                                                  ) [Term_single]
+                                                ) [More_term_part]
+                                              ) [More_term_single]
+                                            ) [Expr_term_multi]
+                                          ) [Factor_expr]
+                                          More_factor_single(
+                                            More_factor_part(
+                                              Mul_op_mul(
+                                              ) [Mul_op_mul]
+                                              Factor_designator(
+                                                Designator_1(
+                                                 e
+                                                ) [Designator_1]
+                                              ) [Factor_designator]
+                                            ) [More_factor_part]
+                                          ) [More_factor_single]
+                                        ) [Term_multi]
+                                        More_term_multi(
+                                          More_term_multi(
+                                            More_term_single(
+                                              More_term_part(
+                                                Add_op_plus(
+                                                ) [Add_op_plus]
+                                                Term_multi(
+                                                  Factor_designator(
+                                                    Designator_1(
+                                                     y
+                                                    ) [Designator_1]
+                                                  ) [Factor_designator]
+                                                  More_factor_single(
+                                                    More_factor_part(
+                                                      Mul_op_mul(
+                                                      ) [Mul_op_mul]
+                                                      Factor_designator(
+                                                        Designator_1(
+                                                         y
+                                                        ) [Designator_1]
+                                                      ) [Factor_designator]
+                                                    ) [More_factor_part]
+                                                  ) [More_factor_single]
+                                                ) [Term_multi]
+                                              ) [More_term_part]
+                                            ) [More_term_single]
+                                            More_term_part(
+                                              Add_op_minus(
+                                              ) [Add_op_minus]
+                                              Term_single(
+                                                Factor_designator(
+                                                  Designator_1(
+                                                   y
+                                                  ) [Designator_1]
+                                                ) [Factor_designator]
+                                              ) [Term_single]
+                                            ) [More_term_part]
+                                          ) [More_term_multi]
+                                          More_term_part(
+                                            Add_op_plus(
+                                            ) [Add_op_plus]
+                                            Term_single(
+                                              Factor_num_const(
+                                               1
+                                              ) [Factor_num_const]
+                                            ) [Term_single]
+                                          ) [More_term_part]
+                                        ) [More_term_multi]
+                                      ) [Expr_neg_term_multi]
+                                    ) [Assignment]
+                                  ) [Stmt_design]
+                                ) [Statement_multi]
+                                Stmt_design(
+                                  Increment(
+                                    Designator_1(
+                                     e
+                                    ) [Designator_1]
+                                  ) [Increment]
+                                ) [Stmt_design]
+                              ) [Statement_multi]
+                              Stmt_print_1(
+                                Expr_term_single(
+                                  Term_single(
+                                    Factor_designator(
+                                      Designator_1(
+                                       e
+                                      ) [Designator_1]
+                                    ) [Factor_designator]
+                                  ) [Term_single]
+                                ) [Expr_term_single]
+                              ) [Stmt_print_1]
+                            ) [Statement_multi]
+                            Stmt_design(
+                              Assignment(
+                                Designator_1(
+                                 z
+                                ) [Designator_1]
+                                Expr_term_single(
+                                  Term_single(
+                                    Factor_new_array(
+                                      Type(
+                                       char
+                                      ) [Type]
+                                      Expr_term_single(
+                                        Term_single(
+                                          Factor_num_const(
+                                           4
+                                          ) [Factor_num_const]
+                                        ) [Term_single]
+                                      ) [Expr_term_single]
+                                    ) [Factor_new_array]
+                                  ) [Term_single]
+                                ) [Expr_term_single]
+                              ) [Assignment]
+                            ) [Stmt_design]
+                          ) [Statement_multi]
+                          Stmt_design(
+                            Assignment(
+                              Designator_0(
+                               z
+                                Expr_term_single(
+                                  Term_single(
+                                    Factor_num_const(
+                                     0
+                                    ) [Factor_num_const]
+                                  ) [Term_single]
+                                ) [Expr_term_single]
+                              ) [Designator_0]
+                              Expr_term_single(
+                                Term_single(
+                                  Factor_meth_call(
+                                    Designator_1(
+                                     chr
+                                    ) [Designator_1]
+                                    Act_Pars_Single(
+                                      Expr_term_single(
+                                        Term_single(
+                                          Factor_num_const(
+                                           72
+                                          ) [Factor_num_const]
+                                        ) [Term_single]
+                                      ) [Expr_term_single]
+                                    ) [Act_Pars_Single]
+                                  ) [Factor_meth_call]
+                                ) [Term_single]
+                              ) [Expr_term_single]
+                            ) [Assignment]
+                          ) [Stmt_design]
+                        ) [Statement_multi]
+                        Stmt_design(
+                          Assignment(
+                            Designator_0(
+                             z
+                              Expr_term_single(
+                                Term_single(
+                                  Factor_num_const(
+                                   1
+                                  ) [Factor_num_const]
+                                ) [Term_single]
+                              ) [Expr_term_single]
+                            ) [Designator_0]
+                            Expr_term_single(
+                              Term_single(
+                                Factor_char_const(
+                                 O
+                                ) [Factor_char_const]
+                              ) [Term_single]
+                            ) [Expr_term_single]
+                          ) [Assignment]
+                        ) [Stmt_design]
+                      ) [Statement_multi]
+                      Stmt_design(
+                        Assignment(
+                          Designator_0(
+                           z
+                            Expr_term_single(
+                              Term_single(
+                                Factor_designator(
+                                  Designator_1(
+                                   g
+                                  ) [Designator_1]
+                                ) [Factor_designator]
+                              ) [Term_single]
+                            ) [Expr_term_single]
+                          ) [Designator_0]
+                          Expr_term_single(
+                            Term_single(
+                              Factor_char_const(
+                               M
+                              ) [Factor_char_const]
+                            ) [Term_single]
+                          ) [Expr_term_single]
+                        ) [Assignment]
+                      ) [Stmt_design]
+                    ) [Statement_multi]
+                    Stmt_design(
+                      Assignment(
+                        Designator_0(
+                         z
+                          Expr_term_multi(
+                            Term_single(
+                              Factor_designator(
+                                Designator_1(
+                                 x
+                                ) [Designator_1]
+                              ) [Factor_designator]
+                            ) [Term_single]
+                            More_term_single(
+                              More_term_part(
+                                Add_op_plus(
+                                ) [Add_op_plus]
+                                Term_single(
+                                  Factor_num_const(
+                                   4
+                                  ) [Factor_num_const]
+                                ) [Term_single]
+                              ) [More_term_part]
+                            ) [More_term_single]
+                          ) [Expr_term_multi]
+                        ) [Designator_0]
+                        Expr_term_single(
+                          Term_single(
+                            Factor_meth_call(
+                              Designator_1(
+                               chr
+                              ) [Designator_1]
+                              Act_Pars_Single(
+                                Expr_term_multi(
+                                  Term_single(
+                                    Factor_meth_call(
+                                      Designator_1(
+                                       ord
+                                      ) [Designator_1]
+                                      Act_Pars_Single(
+                                        Expr_term_single(
+                                          Term_single(
+                                            Factor_char_const(
+                                             A
+                                            ) [Factor_char_const]
+                                          ) [Term_single]
+                                        ) [Expr_term_single]
+                                      ) [Act_Pars_Single]
+                                    ) [Factor_meth_call]
+                                  ) [Term_single]
+                                  More_term_single(
+                                    More_term_part(
+                                      Add_op_plus(
+                                      ) [Add_op_plus]
+                                      Term_single(
+                                        Factor_num_const(
+                                         4
+                                        ) [Factor_num_const]
+                                      ) [Term_single]
+                                    ) [More_term_part]
+                                  ) [More_term_single]
+                                ) [Expr_term_multi]
+                              ) [Act_Pars_Single]
+                            ) [Factor_meth_call]
+                          ) [Term_single]
+                        ) [Expr_term_single]
+                      ) [Assignment]
+                    ) [Stmt_design]
+                  ) [Statement_multi]
+                  Stmt_print_1(
+                    Expr_term_single(
+                      Term_single(
+                        Factor_designator(
+                          Designator_0(
+                           z
+                            Expr_term_single(
+                              Term_single(
+                                Factor_num_const(
+                                 0
+                                ) [Factor_num_const]
+                              ) [Term_single]
+                            ) [Expr_term_single]
+                          ) [Designator_0]
+                        ) [Factor_designator]
+                      ) [Term_single]
+                    ) [Expr_term_single]
+                  ) [Stmt_print_1]
+                ) [Statement_multi]
+                Stmt_print_1(
+                  Expr_term_single(
+                    Term_single(
+                      Factor_designator(
+                        Designator_0(
+                         z
+                          Expr_term_single(
+                            Term_single(
+                              Factor_num_const(
+                               1
+                              ) [Factor_num_const]
+                            ) [Term_single]
+                          ) [Expr_term_single]
+                        ) [Designator_0]
+                      ) [Factor_designator]
+                    ) [Term_single]
+                  ) [Expr_term_single]
+                ) [Stmt_print_1]
+              ) [Statement_multi]
+              Stmt_print_1(
+                Expr_term_single(
+                  Term_single(
+                    Factor_designator(
+                      Designator_0(
+                       z
+                        Expr_term_single(
+                          Term_single(
+                            Factor_designator(
+                              Designator_1(
+                               g
+                              ) [Designator_1]
+                            ) [Factor_designator]
+                          ) [Term_single]
+                        ) [Expr_term_single]
+                      ) [Designator_0]
+                    ) [Factor_designator]
+                  ) [Term_single]
+                ) [Expr_term_single]
+              ) [Stmt_print_1]
+            ) [Statement_multi]
+            Stmt_print_1(
+              Expr_term_single(
+                Term_single(
+                  Factor_designator(
+                    Designator_0(
+                     z
+                      Expr_term_multi(
+                        Term_single(
+                          Factor_designator(
+                            Designator_1(
+                             x
+                            ) [Designator_1]
+                          ) [Factor_designator]
+                        ) [Term_single]
+                        More_term_single(
+                          More_term_part(
+                            Add_op_plus(
+                            ) [Add_op_plus]
+                            Term_single(
+                              Factor_num_const(
+                               4
+                              ) [Factor_num_const]
+                            ) [Term_single]
+                          ) [More_term_part]
+                        ) [More_term_single]
+                      ) [Expr_term_multi]
+                    ) [Designator_0]
+                  ) [Factor_designator]
+                ) [Term_single]
+              ) [Expr_term_single]
+            ) [Stmt_print_1]
+          ) [Statement_multi]
+          Stmt_print_1(
+            Expr_term_single(
+              Term_single(
+                Factor_meth_call(
+                  Designator_1(
+                   len
+                  ) [Designator_1]
+                  Act_Pars_Single(
+                    Expr_term_single(
+                      Term_single(
+                        Factor_designator(
+                          Designator_1(
+                           z
+                          ) [Designator_1]
+                        ) [Factor_designator]
+                      ) [Term_single]
+                    ) [Expr_term_single]
+                  ) [Act_Pars_Single]
+                ) [Factor_meth_call]
+              ) [Term_single]
+            ) [Expr_term_single]
+          ) [Stmt_print_1]
+        ) [Statement_multi]
+      ) [Meth_void_4]
+    ) [Meth_void_decl]
+  ) [Program_methods_single]
+) [Program_0]
+INFO  02:06:44,069 - ==============================================================
+INFO  02:06:44,084 - Pocetak obrade programa Program na liniji 1
+INFO  02:06:44,084 - Pronadjen tip int u tabeli simbola na liniji 2
+INFO  02:06:44,085 - Deklarisana konstanta c na liniji 2
+INFO  02:06:44,085 - Deklarisana konstanta d na liniji 2
+INFO  02:06:44,085 - Deklarisana konstanta g na liniji 2
+INFO  02:06:44,085 - Pronadjen tip int u tabeli simbola na liniji 3
+INFO  02:06:44,085 - Deklarisana promenljiva e na liniji 3
+INFO  02:06:44,085 - Pronadjen tip char u tabeli simbola na liniji 3
+INFO  02:06:44,085 - Deklarisan niz z na liniji 3
+INFO  02:06:44,086 - Pocetak obrade metode main na liniji 5
+INFO  02:06:44,086 - Pronadjen tip int u tabeli simbola na liniji 5
+INFO  02:06:44,086 - Deklarisana promenljiva x na liniji 5
+INFO  02:06:44,087 - Deklarisana promenljiva y na liniji 5
+INFO  02:06:44,087 - Pronadjen tip char u tabeli simbola na liniji 15
+INFO  02:06:44,087 - Pronadjen poziv metode (funkcije) chr na liniji 16
+INFO  02:06:44,087 - Pronadjen poziv metode (funkcije) ord na liniji 19
+INFO  02:06:44,087 - Pronadjen poziv metode (funkcije) chr na liniji 19
+INFO  02:06:44,088 - Pronadjen poziv metode (funkcije) len na liniji 24
+INFO  02:06:44,088 - Zavrsetak obrade metode (procedure) main na liniji 5
+INFO  02:06:44,088 - Zavrsetak obrade programa Program na liniji 1
+INFO  02:06:44,088 - ======================TABELA_SIMBOLA==========================
+INFO  02:06:44,088 - 
+Type int: int
+Type char: char
+Con eol: char
+Con null: 
+Meth chr: char
+	Param0 Var i: int
+Meth ord: int
+	Param0 Var ch: char
+Meth len: int
+	Param0 Var arr: array of none
+Type bool: bool
+
+Prog Program: none
+	Con c: int
+	Con d: int
+	Con g: int
+	Globl Var e: int
+	Globl Var z: array of char
+Meth main: none
+	Local Var x: int
+	Local Var y: int
+
+INFO  02:06:44,088 - ==============================================================
+INFO  02:06:44,088 - Sintaksna i semanticka analiza uspesno zavrsena!
+INFO  02:06:47,977 - Obrada ulaznog fajla test\program.mj
+INFO  02:06:48,080 - #2 program
+INFO  02:06:48,080 - #8 Program
+INFO  02:06:48,080 - #5 const
+INFO  02:06:48,081 - #8 int
+INFO  02:06:48,081 - #8 c
+INFO  02:06:48,082 - #23 =
+INFO  02:06:48,082 - #9 10
+INFO  02:06:48,083 - #27 ,
+INFO  02:06:48,084 - #8 d
+INFO  02:06:48,084 - #23 =
+INFO  02:06:48,084 - #9 99
+INFO  02:06:48,084 - #27 ,
+INFO  02:06:48,084 - #8 g
+INFO  02:06:48,084 - #23 =
+INFO  02:06:48,085 - #9 2
+INFO  02:06:48,085 - #26 ;
+INFO  02:06:48,085 - #8 int
+INFO  02:06:48,087 - #8 e
+INFO  02:06:48,087 - #26 ;
+INFO  02:06:48,088 - #8 char
+INFO  02:06:48,090 - #8 z
+INFO  02:06:48,090 - #21 [
+INFO  02:06:48,090 - #22 ]
+INFO  02:06:48,090 - #26 ;
+INFO  02:06:48,090 - #19 {
+INFO  02:06:48,090 - #6 void
+INFO  02:06:48,091 - #8 main
+INFO  02:06:48,091 - #28 (
+INFO  02:06:48,092 - #29 )
+INFO  02:06:48,092 - #8 int
+INFO  02:06:48,092 - #8 x
+INFO  02:06:48,092 - #27 ,
+INFO  02:06:48,092 - #8 y
+INFO  02:06:48,092 - #26 ;
+INFO  02:06:48,093 - #19 {
+INFO  02:06:48,093 - #8 x
+INFO  02:06:48,093 - #23 =
+INFO  02:06:48,093 - #9 1
+INFO  02:06:48,093 - #26 ;
+INFO  02:06:48,094 - #4 read
+INFO  02:06:48,094 - #28 (
+INFO  02:06:48,095 - #8 y
+INFO  02:06:48,095 - #29 )
+INFO  02:06:48,095 - #26 ;
+INFO  02:06:48,095 - #3 print
+INFO  02:06:48,095 - #28 (
+INFO  02:06:48,095 - #8 x
+INFO  02:06:48,095 - #14 +
+INFO  02:06:48,095 - #9 4
+INFO  02:06:48,098 - #29 )
+INFO  02:06:48,100 - #26 ;
+INFO  02:06:48,100 - #3 print
+INFO  02:06:48,100 - #28 (
+INFO  02:06:48,100 - #8 y
+INFO  02:06:48,100 - #29 )
+INFO  02:06:48,100 - #26 ;
+INFO  02:06:48,100 - #8 e
+INFO  02:06:48,100 - #23 =
+INFO  02:06:48,100 - #9 3
+INFO  02:06:48,100 - #26 ;
+INFO  02:06:48,101 - #8 e
+INFO  02:06:48,101 - #23 =
+INFO  02:06:48,101 - #15 -
+INFO  02:06:48,101 - #28 (
+INFO  02:06:48,101 - #8 d
+INFO  02:06:48,101 - #17 /
+INFO  02:06:48,101 - #9 11
+INFO  02:06:48,102 - #15 -
+INFO  02:06:48,103 - #8 c
+INFO  02:06:48,104 - #29 )
+INFO  02:06:48,104 - #16 *
+INFO  02:06:48,104 - #8 e
+INFO  02:06:48,105 - #14 +
+INFO  02:06:48,105 - #8 y
+INFO  02:06:48,105 - #16 *
+INFO  02:06:48,105 - #8 y
+INFO  02:06:48,107 - #15 -
+INFO  02:06:48,107 - #8 y
+INFO  02:06:48,107 - #14 +
+INFO  02:06:48,107 - #9 1
+INFO  02:06:48,108 - #26 ;
+INFO  02:06:48,108 - #8 e
+INFO  02:06:48,108 - #24 ++
+INFO  02:06:48,108 - #26 ;
+INFO  02:06:48,108 - #3 print
+INFO  02:06:48,108 - #28 (
+INFO  02:06:48,108 - #8 e
+INFO  02:06:48,108 - #29 )
+INFO  02:06:48,109 - #26 ;
+INFO  02:06:48,109 - #8 z
+INFO  02:06:48,109 - #23 =
+INFO  02:06:48,109 - #7 new
+INFO  02:06:48,109 - #8 char
+INFO  02:06:48,109 - #21 [
+INFO  02:06:48,109 - #9 4
+INFO  02:06:48,109 - #22 ]
+INFO  02:06:48,109 - #26 ;
+INFO  02:06:48,110 - #8 z
+INFO  02:06:48,110 - #21 [
+INFO  02:06:48,110 - #9 0
+INFO  02:06:48,110 - #22 ]
+INFO  02:06:48,110 - #23 =
+INFO  02:06:48,110 - #8 chr
+INFO  02:06:48,110 - #28 (
+INFO  02:06:48,110 - #9 72
+INFO  02:06:48,110 - #29 )
+INFO  02:06:48,110 - #26 ;
+INFO  02:06:48,111 - #8 z
+INFO  02:06:48,111 - #21 [
+INFO  02:06:48,111 - #9 1
+INFO  02:06:48,111 - #22 ]
+INFO  02:06:48,111 - #23 =
+INFO  02:06:48,111 - #10 O
+INFO  02:06:48,111 - #26 ;
+INFO  02:06:48,112 - #8 z
+INFO  02:06:48,112 - #21 [
+INFO  02:06:48,112 - #8 g
+INFO  02:06:48,112 - #22 ]
+INFO  02:06:48,112 - #23 =
+INFO  02:06:48,112 - #10 M
+INFO  02:06:48,112 - #26 ;
+INFO  02:06:48,112 - #8 z
+INFO  02:06:48,112 - #21 [
+INFO  02:06:48,112 - #8 x
+INFO  02:06:48,112 - #14 +
+INFO  02:06:48,112 - #9 4
+INFO  02:06:48,113 - #22 ]
+INFO  02:06:48,113 - #23 =
+INFO  02:06:48,113 - #8 chr
+INFO  02:06:48,113 - #28 (
+INFO  02:06:48,113 - #8 ord
+INFO  02:06:48,113 - #28 (
+INFO  02:06:48,113 - #10 A
+INFO  02:06:48,113 - #29 )
+INFO  02:06:48,113 - #14 +
+INFO  02:06:48,113 - #9 4
+INFO  02:06:48,113 - #29 )
+INFO  02:06:48,113 - #26 ;
+INFO  02:06:48,113 - #3 print
+INFO  02:06:48,113 - #28 (
+INFO  02:06:48,114 - #8 z
+INFO  02:06:48,114 - #21 [
+INFO  02:06:48,114 - #9 0
+INFO  02:06:48,114 - #22 ]
+INFO  02:06:48,114 - #29 )
+INFO  02:06:48,114 - #26 ;
+INFO  02:06:48,114 - #3 print
+INFO  02:06:48,114 - #28 (
+INFO  02:06:48,114 - #8 z
+INFO  02:06:48,114 - #21 [
+INFO  02:06:48,114 - #9 1
+INFO  02:06:48,114 - #22 ]
+INFO  02:06:48,114 - #29 )
+INFO  02:06:48,115 - #26 ;
+INFO  02:06:48,115 - #3 print
+INFO  02:06:48,115 - #28 (
+INFO  02:06:48,115 - #8 z
+INFO  02:06:48,115 - #21 [
+INFO  02:06:48,115 - #8 g
+INFO  02:06:48,115 - #22 ]
+INFO  02:06:48,116 - #29 )
+INFO  02:06:48,116 - #26 ;
+INFO  02:06:48,116 - #3 print
+INFO  02:06:48,116 - #28 (
+INFO  02:06:48,116 - #8 z
+INFO  02:06:48,116 - #21 [
+INFO  02:06:48,116 - #8 x
+INFO  02:06:48,116 - #14 +
+INFO  02:06:48,117 - #9 4
+INFO  02:06:48,117 - #22 ]
+INFO  02:06:48,117 - #29 )
+INFO  02:06:48,117 - #26 ;
+INFO  02:06:48,117 - #3 print
+INFO  02:06:48,117 - #28 (
+INFO  02:06:48,117 - #8 len
+INFO  02:06:48,117 - #28 (
+INFO  02:06:48,117 - #8 z
+INFO  02:06:48,117 - #29 )
+INFO  02:06:48,117 - #29 )
+INFO  02:06:48,117 - #26 ;
+INFO  02:06:48,117 - #20 }
+INFO  02:06:48,118 - #20 }
+INFO  02:06:48,118 - =====================SINTAKSNO_STABLO=========================
+INFO  02:06:48,122 - 
+Program_0(
+  Program_name(
+   Program
+  ) [Program_name]
+  Program_con_vars_multi(
+    Program_con_vars_multi(
+      Program_con_vars_single(
+        Part_const_decl(
+          Const_declaration(
+            Type(
+             int
+            ) [Type]
+            Const_multi(
+              Const_multi(
+                Const_single(
+                  Const_part(
+                   c
+                    Val_Num_const(
+                     10
+                    ) [Val_Num_const]
+                  ) [Const_part]
+                ) [Const_single]
+                Const_part(
+                 d
+                  Val_Num_const(
+                   99
+                  ) [Val_Num_const]
+                ) [Const_part]
+              ) [Const_multi]
+              Const_part(
+               g
+                Val_Num_const(
+                 2
+                ) [Val_Num_const]
+              ) [Const_part]
+            ) [Const_multi]
+          ) [Const_declaration]
+        ) [Part_const_decl]
+      ) [Program_con_vars_single]
+      Part_var_decl(
+        Var_declaration(
+          Type(
+           int
+          ) [Type]
+          Var_single(
+            Var_normal(
+             e
+            ) [Var_normal]
+          ) [Var_single]
+        ) [Var_declaration]
+      ) [Part_var_decl]
+    ) [Program_con_vars_multi]
+    Part_var_decl(
+      Var_declaration(
+        Type(
+         char
+        ) [Type]
+        Var_single(
+          Var_array(
+           z
+          ) [Var_array]
+        ) [Var_single]
+      ) [Var_declaration]
+    ) [Part_var_decl]
+  ) [Program_con_vars_multi]
+  Program_methods_single(
+    Meth_void_decl(
+      Meth_void_4(
+        Method_void_name(
+         main
+        ) [Method_void_name]
+        Var_decl_single(
+          Var_declaration(
+            Type(
+             int
+            ) [Type]
+            Var_multi(
+              Var_single(
+                Var_normal(
+                 x
+                ) [Var_normal]
+              ) [Var_single]
+              Var_normal(
+               y
+              ) [Var_normal]
+            ) [Var_multi]
+          ) [Var_declaration]
+        ) [Var_decl_single]
+        Statement_multi(
+          Statement_multi(
+            Statement_multi(
+              Statement_multi(
+                Statement_multi(
+                  Statement_multi(
+                    Statement_multi(
+                      Statement_multi(
+                        Statement_multi(
+                          Statement_multi(
+                            Statement_multi(
+                              Statement_multi(
+                                Statement_multi(
+                                  Statement_multi(
+                                    Statement_multi(
+                                      Statement_multi(
+                                        Statement_multi(
+                                          Statement_single(
+                                            Stmt_design(
+                                              Assignment(
+                                                Designator_1(
+                                                 x
+                                                ) [Designator_1]
+                                                Expr_term_single(
+                                                  Term_single(
+                                                    Factor_num_const(
+                                                     1
+                                                    ) [Factor_num_const]
+                                                  ) [Term_single]
+                                                ) [Expr_term_single]
+                                              ) [Assignment]
+                                            ) [Stmt_design]
+                                          ) [Statement_single]
+                                          Stmt_Read(
+                                            Designator_1(
+                                             y
+                                            ) [Designator_1]
+                                          ) [Stmt_Read]
+                                        ) [Statement_multi]
+                                        Stmt_print_1(
+                                          Expr_term_multi(
+                                            Term_single(
+                                              Factor_designator(
+                                                Designator_1(
+                                                 x
+                                                ) [Designator_1]
+                                              ) [Factor_designator]
+                                            ) [Term_single]
+                                            More_term_single(
+                                              More_term_part(
+                                                Add_op_plus(
+                                                ) [Add_op_plus]
+                                                Term_single(
+                                                  Factor_num_const(
+                                                   4
+                                                  ) [Factor_num_const]
+                                                ) [Term_single]
+                                              ) [More_term_part]
+                                            ) [More_term_single]
+                                          ) [Expr_term_multi]
+                                        ) [Stmt_print_1]
+                                      ) [Statement_multi]
+                                      Stmt_print_1(
+                                        Expr_term_single(
+                                          Term_single(
+                                            Factor_designator(
+                                              Designator_1(
+                                               y
+                                              ) [Designator_1]
+                                            ) [Factor_designator]
+                                          ) [Term_single]
+                                        ) [Expr_term_single]
+                                      ) [Stmt_print_1]
+                                    ) [Statement_multi]
+                                    Stmt_design(
+                                      Assignment(
+                                        Designator_1(
+                                         e
+                                        ) [Designator_1]
+                                        Expr_term_single(
+                                          Term_single(
+                                            Factor_num_const(
+                                             3
+                                            ) [Factor_num_const]
+                                          ) [Term_single]
+                                        ) [Expr_term_single]
+                                      ) [Assignment]
+                                    ) [Stmt_design]
+                                  ) [Statement_multi]
+                                  Stmt_design(
+                                    Assignment(
+                                      Designator_1(
+                                       e
+                                      ) [Designator_1]
+                                      Expr_neg_term_multi(
+                                        Term_multi(
+                                          Factor_expr(
+                                            Expr_term_multi(
+                                              Term_multi(
+                                                Factor_designator(
+                                                  Designator_1(
+                                                   d
+                                                  ) [Designator_1]
+                                                ) [Factor_designator]
+                                                More_factor_single(
+                                                  More_factor_part(
+                                                    Mul_op_div(
+                                                    ) [Mul_op_div]
+                                                    Factor_num_const(
+                                                     11
+                                                    ) [Factor_num_const]
+                                                  ) [More_factor_part]
+                                                ) [More_factor_single]
+                                              ) [Term_multi]
+                                              More_term_single(
+                                                More_term_part(
+                                                  Add_op_minus(
+                                                  ) [Add_op_minus]
+                                                  Term_single(
+                                                    Factor_designator(
+                                                      Designator_1(
+                                                       c
+                                                      ) [Designator_1]
+                                                    ) [Factor_designator]
+                                                  ) [Term_single]
+                                                ) [More_term_part]
+                                              ) [More_term_single]
+                                            ) [Expr_term_multi]
+                                          ) [Factor_expr]
+                                          More_factor_single(
+                                            More_factor_part(
+                                              Mul_op_mul(
+                                              ) [Mul_op_mul]
+                                              Factor_designator(
+                                                Designator_1(
+                                                 e
+                                                ) [Designator_1]
+                                              ) [Factor_designator]
+                                            ) [More_factor_part]
+                                          ) [More_factor_single]
+                                        ) [Term_multi]
+                                        More_term_multi(
+                                          More_term_multi(
+                                            More_term_single(
+                                              More_term_part(
+                                                Add_op_plus(
+                                                ) [Add_op_plus]
+                                                Term_multi(
+                                                  Factor_designator(
+                                                    Designator_1(
+                                                     y
+                                                    ) [Designator_1]
+                                                  ) [Factor_designator]
+                                                  More_factor_single(
+                                                    More_factor_part(
+                                                      Mul_op_mul(
+                                                      ) [Mul_op_mul]
+                                                      Factor_designator(
+                                                        Designator_1(
+                                                         y
+                                                        ) [Designator_1]
+                                                      ) [Factor_designator]
+                                                    ) [More_factor_part]
+                                                  ) [More_factor_single]
+                                                ) [Term_multi]
+                                              ) [More_term_part]
+                                            ) [More_term_single]
+                                            More_term_part(
+                                              Add_op_minus(
+                                              ) [Add_op_minus]
+                                              Term_single(
+                                                Factor_designator(
+                                                  Designator_1(
+                                                   y
+                                                  ) [Designator_1]
+                                                ) [Factor_designator]
+                                              ) [Term_single]
+                                            ) [More_term_part]
+                                          ) [More_term_multi]
+                                          More_term_part(
+                                            Add_op_plus(
+                                            ) [Add_op_plus]
+                                            Term_single(
+                                              Factor_num_const(
+                                               1
+                                              ) [Factor_num_const]
+                                            ) [Term_single]
+                                          ) [More_term_part]
+                                        ) [More_term_multi]
+                                      ) [Expr_neg_term_multi]
+                                    ) [Assignment]
+                                  ) [Stmt_design]
+                                ) [Statement_multi]
+                                Stmt_design(
+                                  Increment(
+                                    Designator_1(
+                                     e
+                                    ) [Designator_1]
+                                  ) [Increment]
+                                ) [Stmt_design]
+                              ) [Statement_multi]
+                              Stmt_print_1(
+                                Expr_term_single(
+                                  Term_single(
+                                    Factor_designator(
+                                      Designator_1(
+                                       e
+                                      ) [Designator_1]
+                                    ) [Factor_designator]
+                                  ) [Term_single]
+                                ) [Expr_term_single]
+                              ) [Stmt_print_1]
+                            ) [Statement_multi]
+                            Stmt_design(
+                              Assignment(
+                                Designator_1(
+                                 z
+                                ) [Designator_1]
+                                Expr_term_single(
+                                  Term_single(
+                                    Factor_new_array(
+                                      Type(
+                                       char
+                                      ) [Type]
+                                      Expr_term_single(
+                                        Term_single(
+                                          Factor_num_const(
+                                           4
+                                          ) [Factor_num_const]
+                                        ) [Term_single]
+                                      ) [Expr_term_single]
+                                    ) [Factor_new_array]
+                                  ) [Term_single]
+                                ) [Expr_term_single]
+                              ) [Assignment]
+                            ) [Stmt_design]
+                          ) [Statement_multi]
+                          Stmt_design(
+                            Assignment(
+                              Designator_0(
+                               z
+                                Expr_term_single(
+                                  Term_single(
+                                    Factor_num_const(
+                                     0
+                                    ) [Factor_num_const]
+                                  ) [Term_single]
+                                ) [Expr_term_single]
+                              ) [Designator_0]
+                              Expr_term_single(
+                                Term_single(
+                                  Factor_meth_call(
+                                    Designator_1(
+                                     chr
+                                    ) [Designator_1]
+                                    Act_Pars_Single(
+                                      Expr_term_single(
+                                        Term_single(
+                                          Factor_num_const(
+                                           72
+                                          ) [Factor_num_const]
+                                        ) [Term_single]
+                                      ) [Expr_term_single]
+                                    ) [Act_Pars_Single]
+                                  ) [Factor_meth_call]
+                                ) [Term_single]
+                              ) [Expr_term_single]
+                            ) [Assignment]
+                          ) [Stmt_design]
+                        ) [Statement_multi]
+                        Stmt_design(
+                          Assignment(
+                            Designator_0(
+                             z
+                              Expr_term_single(
+                                Term_single(
+                                  Factor_num_const(
+                                   1
+                                  ) [Factor_num_const]
+                                ) [Term_single]
+                              ) [Expr_term_single]
+                            ) [Designator_0]
+                            Expr_term_single(
+                              Term_single(
+                                Factor_char_const(
+                                 O
+                                ) [Factor_char_const]
+                              ) [Term_single]
+                            ) [Expr_term_single]
+                          ) [Assignment]
+                        ) [Stmt_design]
+                      ) [Statement_multi]
+                      Stmt_design(
+                        Assignment(
+                          Designator_0(
+                           z
+                            Expr_term_single(
+                              Term_single(
+                                Factor_designator(
+                                  Designator_1(
+                                   g
+                                  ) [Designator_1]
+                                ) [Factor_designator]
+                              ) [Term_single]
+                            ) [Expr_term_single]
+                          ) [Designator_0]
+                          Expr_term_single(
+                            Term_single(
+                              Factor_char_const(
+                               M
+                              ) [Factor_char_const]
+                            ) [Term_single]
+                          ) [Expr_term_single]
+                        ) [Assignment]
+                      ) [Stmt_design]
+                    ) [Statement_multi]
+                    Stmt_design(
+                      Assignment(
+                        Designator_0(
+                         z
+                          Expr_term_multi(
+                            Term_single(
+                              Factor_designator(
+                                Designator_1(
+                                 x
+                                ) [Designator_1]
+                              ) [Factor_designator]
+                            ) [Term_single]
+                            More_term_single(
+                              More_term_part(
+                                Add_op_plus(
+                                ) [Add_op_plus]
+                                Term_single(
+                                  Factor_num_const(
+                                   4
+                                  ) [Factor_num_const]
+                                ) [Term_single]
+                              ) [More_term_part]
+                            ) [More_term_single]
+                          ) [Expr_term_multi]
+                        ) [Designator_0]
+                        Expr_term_single(
+                          Term_single(
+                            Factor_meth_call(
+                              Designator_1(
+                               chr
+                              ) [Designator_1]
+                              Act_Pars_Single(
+                                Expr_term_multi(
+                                  Term_single(
+                                    Factor_meth_call(
+                                      Designator_1(
+                                       ord
+                                      ) [Designator_1]
+                                      Act_Pars_Single(
+                                        Expr_term_single(
+                                          Term_single(
+                                            Factor_char_const(
+                                             A
+                                            ) [Factor_char_const]
+                                          ) [Term_single]
+                                        ) [Expr_term_single]
+                                      ) [Act_Pars_Single]
+                                    ) [Factor_meth_call]
+                                  ) [Term_single]
+                                  More_term_single(
+                                    More_term_part(
+                                      Add_op_plus(
+                                      ) [Add_op_plus]
+                                      Term_single(
+                                        Factor_num_const(
+                                         4
+                                        ) [Factor_num_const]
+                                      ) [Term_single]
+                                    ) [More_term_part]
+                                  ) [More_term_single]
+                                ) [Expr_term_multi]
+                              ) [Act_Pars_Single]
+                            ) [Factor_meth_call]
+                          ) [Term_single]
+                        ) [Expr_term_single]
+                      ) [Assignment]
+                    ) [Stmt_design]
+                  ) [Statement_multi]
+                  Stmt_print_1(
+                    Expr_term_single(
+                      Term_single(
+                        Factor_designator(
+                          Designator_0(
+                           z
+                            Expr_term_single(
+                              Term_single(
+                                Factor_num_const(
+                                 0
+                                ) [Factor_num_const]
+                              ) [Term_single]
+                            ) [Expr_term_single]
+                          ) [Designator_0]
+                        ) [Factor_designator]
+                      ) [Term_single]
+                    ) [Expr_term_single]
+                  ) [Stmt_print_1]
+                ) [Statement_multi]
+                Stmt_print_1(
+                  Expr_term_single(
+                    Term_single(
+                      Factor_designator(
+                        Designator_0(
+                         z
+                          Expr_term_single(
+                            Term_single(
+                              Factor_num_const(
+                               1
+                              ) [Factor_num_const]
+                            ) [Term_single]
+                          ) [Expr_term_single]
+                        ) [Designator_0]
+                      ) [Factor_designator]
+                    ) [Term_single]
+                  ) [Expr_term_single]
+                ) [Stmt_print_1]
+              ) [Statement_multi]
+              Stmt_print_1(
+                Expr_term_single(
+                  Term_single(
+                    Factor_designator(
+                      Designator_0(
+                       z
+                        Expr_term_single(
+                          Term_single(
+                            Factor_designator(
+                              Designator_1(
+                               g
+                              ) [Designator_1]
+                            ) [Factor_designator]
+                          ) [Term_single]
+                        ) [Expr_term_single]
+                      ) [Designator_0]
+                    ) [Factor_designator]
+                  ) [Term_single]
+                ) [Expr_term_single]
+              ) [Stmt_print_1]
+            ) [Statement_multi]
+            Stmt_print_1(
+              Expr_term_single(
+                Term_single(
+                  Factor_designator(
+                    Designator_0(
+                     z
+                      Expr_term_multi(
+                        Term_single(
+                          Factor_designator(
+                            Designator_1(
+                             x
+                            ) [Designator_1]
+                          ) [Factor_designator]
+                        ) [Term_single]
+                        More_term_single(
+                          More_term_part(
+                            Add_op_plus(
+                            ) [Add_op_plus]
+                            Term_single(
+                              Factor_num_const(
+                               4
+                              ) [Factor_num_const]
+                            ) [Term_single]
+                          ) [More_term_part]
+                        ) [More_term_single]
+                      ) [Expr_term_multi]
+                    ) [Designator_0]
+                  ) [Factor_designator]
+                ) [Term_single]
+              ) [Expr_term_single]
+            ) [Stmt_print_1]
+          ) [Statement_multi]
+          Stmt_print_1(
+            Expr_term_single(
+              Term_single(
+                Factor_meth_call(
+                  Designator_1(
+                   len
+                  ) [Designator_1]
+                  Act_Pars_Single(
+                    Expr_term_single(
+                      Term_single(
+                        Factor_designator(
+                          Designator_1(
+                           z
+                          ) [Designator_1]
+                        ) [Factor_designator]
+                      ) [Term_single]
+                    ) [Expr_term_single]
+                  ) [Act_Pars_Single]
+                ) [Factor_meth_call]
+              ) [Term_single]
+            ) [Expr_term_single]
+          ) [Stmt_print_1]
+        ) [Statement_multi]
+      ) [Meth_void_4]
+    ) [Meth_void_decl]
+  ) [Program_methods_single]
+) [Program_0]
+INFO  02:06:48,124 - ==============================================================
+INFO  02:06:48,140 - Pocetak obrade programa Program na liniji 1
+INFO  02:06:48,140 - Pronadjen tip int u tabeli simbola na liniji 2
+INFO  02:06:48,141 - Deklarisana konstanta c na liniji 2
+INFO  02:06:48,141 - Deklarisana konstanta d na liniji 2
+INFO  02:06:48,142 - Deklarisana konstanta g na liniji 2
+INFO  02:06:48,142 - Pronadjen tip int u tabeli simbola na liniji 3
+INFO  02:06:48,142 - Deklarisana promenljiva e na liniji 3
+INFO  02:06:48,142 - Pronadjen tip char u tabeli simbola na liniji 3
+INFO  02:06:48,142 - Deklarisan niz z na liniji 3
+INFO  02:06:48,143 - Pocetak obrade metode main na liniji 5
+INFO  02:06:48,143 - Pronadjen tip int u tabeli simbola na liniji 5
+INFO  02:06:48,143 - Deklarisana promenljiva x na liniji 5
+INFO  02:06:48,143 - Deklarisana promenljiva y na liniji 5
+INFO  02:06:48,144 - Pronadjen tip char u tabeli simbola na liniji 15
+INFO  02:06:48,144 - Pronadjen poziv metode (funkcije) chr na liniji 16
+INFO  02:06:48,144 - Pronadjen poziv metode (funkcije) ord na liniji 19
+INFO  02:06:48,144 - Pronadjen poziv metode (funkcije) chr na liniji 19
+INFO  02:06:48,145 - Pronadjen poziv metode (funkcije) len na liniji 24
+INFO  02:06:48,145 - Zavrsetak obrade metode (procedure) main na liniji 5
+INFO  02:06:48,145 - Zavrsetak obrade programa Program na liniji 1
+INFO  02:06:48,145 - ======================TABELA_SIMBOLA==========================
+INFO  02:06:48,146 - 
+Type int: int
+Type char: char
+Con eol: char
+Con null: 
+Meth chr: char
+	Param0 Var i: int
+Meth ord: int
+	Param0 Var ch: char
+Meth len: int
+	Param0 Var arr: array of none
+Type bool: bool
+
+Prog Program: none
+	Con c: int
+	Con d: int
+	Con g: int
+	Globl Var e: int
+	Globl Var z: array of char
+Meth main: none
+	Local Var x: int
+	Local Var y: int
+
+INFO  02:06:48,146 - ==============================================================
+INFO  02:06:48,146 - Sintaksna i semanticka analiza uspesno zavrsena!
+INFO  02:06:48,146 - ==============================================================
+INFO  02:06:48,146 - ======================GENERISANJE_KODA========================
+INFO  02:06:48,154 - Generisanje koda uspesno zavrseno!
+INFO  02:06:48,155 - Generisanje izlaznog fajla test\program.obj
+INFO  02:06:48,155 - ==============================================================

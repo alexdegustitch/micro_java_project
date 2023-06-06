@@ -1,0 +1,2789 @@
+INFO  10:15:08,074 - Obrada ulaznog fajla test\program.mj
+INFO  10:15:08,168 - #2 program
+INFO  10:15:08,168 - #8 test302
+INFO  10:15:08,168 - #8 int
+INFO  10:15:08,170 - #8 i
+INFO  10:15:08,171 - #26 ;
+INFO  10:15:08,171 - #8 bool
+INFO  10:15:08,172 - #8 ibool
+INFO  10:15:08,172 - #26 ;
+INFO  10:15:08,172 - #8 int
+INFO  10:15:08,173 - #8 niz
+INFO  10:15:08,173 - #21 [
+INFO  10:15:08,173 - #22 ]
+INFO  10:15:08,173 - #26 ;
+INFO  10:15:08,173 - #19 {
+INFO  10:15:08,173 - #8 int
+INFO  10:15:08,173 - #8 sum
+INFO  10:15:08,174 - #28 (
+INFO  10:15:08,174 - #8 int
+INFO  10:15:08,175 - #8 z
+INFO  10:15:08,175 - #27 ,
+INFO  10:15:08,175 - #8 int
+INFO  10:15:08,175 - #8 d
+INFO  10:15:08,175 - #29 )
+INFO  10:15:08,176 - #19 {
+INFO  10:15:08,178 - #36 return
+INFO  10:15:08,178 - #8 z
+INFO  10:15:08,178 - #14 +
+INFO  10:15:08,178 - #8 d
+INFO  10:15:08,180 - #26 ;
+INFO  10:15:08,182 - #20 }
+INFO  10:15:08,182 - #8 int
+INFO  10:15:08,183 - #8 inkrement
+INFO  10:15:08,183 - #28 (
+INFO  10:15:08,183 - #8 int
+INFO  10:15:08,183 - #8 a
+INFO  10:15:08,184 - #29 )
+INFO  10:15:08,184 - #8 int
+INFO  10:15:08,184 - #8 pom
+INFO  10:15:08,184 - #26 ;
+INFO  10:15:08,184 - #19 {
+INFO  10:15:08,184 - #8 pom
+INFO  10:15:08,185 - #23 =
+INFO  10:15:08,185 - #9 1
+INFO  10:15:08,187 - #26 ;
+INFO  10:15:08,188 - #36 return
+INFO  10:15:08,188 - #8 sum
+INFO  10:15:08,188 - #28 (
+INFO  10:15:08,188 - #8 a
+INFO  10:15:08,189 - #27 ,
+INFO  10:15:08,189 - #8 pom
+INFO  10:15:08,189 - #29 )
+INFO  10:15:08,190 - #26 ;
+INFO  10:15:08,190 - #20 }
+INFO  10:15:08,191 - #6 void
+INFO  10:15:08,192 - #8 main
+INFO  10:15:08,193 - #28 (
+INFO  10:15:08,196 - #29 )
+INFO  10:15:08,196 - #19 {
+INFO  10:15:08,196 - #30 if
+INFO  10:15:08,196 - #28 (
+INFO  10:15:08,197 - #9 1
+INFO  10:15:08,197 - #42 !=
+INFO  10:15:08,198 - #9 1
+INFO  10:15:08,199 - #29 )
+INFO  10:15:08,201 - #3 print
+INFO  10:15:08,201 - #28 (
+INFO  10:15:08,201 - #15 -
+INFO  10:15:08,201 - #9 6
+INFO  10:15:08,201 - #29 )
+INFO  10:15:08,205 - #26 ;
+INFO  10:15:08,205 - #31 else
+INFO  10:15:08,207 - #3 print
+INFO  10:15:08,207 - #28 (
+INFO  10:15:08,207 - #9 0
+INFO  10:15:08,207 - #29 )
+INFO  10:15:08,208 - #26 ;
+INFO  10:15:08,208 - #8 ibool
+INFO  10:15:08,208 - #23 =
+INFO  10:15:08,209 - #11 false
+INFO  10:15:08,209 - #26 ;
+INFO  10:15:08,210 - #8 i
+INFO  10:15:08,210 - #23 =
+INFO  10:15:08,211 - #9 0
+INFO  10:15:08,211 - #26 ;
+INFO  10:15:08,211 - #32 do
+INFO  10:15:08,214 - #19 {
+INFO  10:15:08,215 - #30 if
+INFO  10:15:08,215 - #28 (
+INFO  10:15:08,215 - #8 i
+INFO  10:15:08,215 - #38 ==
+INFO  10:15:08,216 - #9 2
+INFO  10:15:08,216 - #29 )
+INFO  10:15:08,217 - #8 ibool
+INFO  10:15:08,217 - #23 =
+INFO  10:15:08,217 - #11 true
+INFO  10:15:08,217 - #26 ;
+INFO  10:15:08,217 - #8 i
+INFO  10:15:08,218 - #24 ++
+INFO  10:15:08,218 - #26 ;
+INFO  10:15:08,218 - #20 }
+INFO  10:15:08,218 - #33 while
+INFO  10:15:08,219 - #28 (
+INFO  10:15:08,219 - #8 i
+INFO  10:15:08,219 - #39 <
+INFO  10:15:08,220 - #9 5
+INFO  10:15:08,221 - #29 )
+INFO  10:15:08,221 - #26 ;
+INFO  10:15:08,221 - #30 if
+INFO  10:15:08,222 - #28 (
+INFO  10:15:08,222 - #8 ibool
+INFO  10:15:08,222 - #29 )
+INFO  10:15:08,222 - #30 if
+INFO  10:15:08,223 - #28 (
+INFO  10:15:08,223 - #8 i
+INFO  10:15:08,223 - #38 ==
+INFO  10:15:08,223 - #9 5
+INFO  10:15:08,224 - #29 )
+INFO  10:15:08,224 - #3 print
+INFO  10:15:08,224 - #28 (
+INFO  10:15:08,224 - #9 1
+INFO  10:15:08,224 - #29 )
+INFO  10:15:08,225 - #26 ;
+INFO  10:15:08,225 - #31 else
+INFO  10:15:08,226 - #3 print
+INFO  10:15:08,226 - #28 (
+INFO  10:15:08,226 - #15 -
+INFO  10:15:08,227 - #9 1
+INFO  10:15:08,228 - #29 )
+INFO  10:15:08,229 - #26 ;
+INFO  10:15:08,229 - #8 niz
+INFO  10:15:08,230 - #23 =
+INFO  10:15:08,230 - #7 new
+INFO  10:15:08,230 - #8 int
+INFO  10:15:08,230 - #21 [
+INFO  10:15:08,231 - #9 3
+INFO  10:15:08,231 - #22 ]
+INFO  10:15:08,231 - #26 ;
+INFO  10:15:08,231 - #8 niz
+INFO  10:15:08,231 - #21 [
+INFO  10:15:08,232 - #9 0
+INFO  10:15:08,232 - #22 ]
+INFO  10:15:08,232 - #23 =
+INFO  10:15:08,233 - #9 1
+INFO  10:15:08,233 - #26 ;
+INFO  10:15:08,233 - #8 niz
+INFO  10:15:08,233 - #21 [
+INFO  10:15:08,233 - #9 1
+INFO  10:15:08,233 - #22 ]
+INFO  10:15:08,233 - #23 =
+INFO  10:15:08,233 - #9 2
+INFO  10:15:08,233 - #26 ;
+INFO  10:15:08,234 - #8 niz
+INFO  10:15:08,234 - #21 [
+INFO  10:15:08,234 - #9 2
+INFO  10:15:08,234 - #22 ]
+INFO  10:15:08,234 - #23 =
+INFO  10:15:08,234 - #8 sum
+INFO  10:15:08,235 - #28 (
+INFO  10:15:08,235 - #8 niz
+INFO  10:15:08,235 - #21 [
+INFO  10:15:08,235 - #9 1
+INFO  10:15:08,236 - #22 ]
+INFO  10:15:08,236 - #27 ,
+INFO  10:15:08,236 - #8 niz
+INFO  10:15:08,236 - #21 [
+INFO  10:15:08,236 - #9 0
+INFO  10:15:08,237 - #22 ]
+INFO  10:15:08,237 - #29 )
+INFO  10:15:08,237 - #14 +
+INFO  10:15:08,237 - #9 1
+INFO  10:15:08,237 - #26 ;
+INFO  10:15:08,238 - #30 if
+INFO  10:15:08,238 - #28 (
+INFO  10:15:08,238 - #8 niz
+INFO  10:15:08,239 - #21 [
+INFO  10:15:08,239 - #9 2
+INFO  10:15:08,239 - #22 ]
+INFO  10:15:08,239 - #38 ==
+INFO  10:15:08,239 - #9 4
+INFO  10:15:08,239 - #29 )
+INFO  10:15:08,239 - #3 print
+INFO  10:15:08,240 - #28 (
+INFO  10:15:08,240 - #8 ord
+INFO  10:15:08,240 - #28 (
+INFO  10:15:08,240 - #10 A
+INFO  10:15:08,240 - #29 )
+INFO  10:15:08,240 - #29 )
+INFO  10:15:08,240 - #26 ;
+INFO  10:15:08,241 - #31 else
+INFO  10:15:08,241 - #3 print
+INFO  10:15:08,241 - #28 (
+INFO  10:15:08,241 - #8 ord
+INFO  10:15:08,241 - #28 (
+INFO  10:15:08,241 - #10 a
+INFO  10:15:08,241 - #29 )
+INFO  10:15:08,241 - #29 )
+INFO  10:15:08,241 - #26 ;
+INFO  10:15:08,241 - #3 print
+INFO  10:15:08,242 - #28 (
+INFO  10:15:08,242 - #8 eol
+INFO  10:15:08,242 - #29 )
+INFO  10:15:08,242 - #26 ;
+INFO  10:15:08,242 - #8 i
+INFO  10:15:08,242 - #23 =
+INFO  10:15:08,242 - #9 0
+INFO  10:15:08,243 - #26 ;
+INFO  10:15:08,243 - #32 do
+INFO  10:15:08,243 - #19 {
+INFO  10:15:08,243 - #30 if
+INFO  10:15:08,243 - #28 (
+INFO  10:15:08,243 - #8 i
+INFO  10:15:08,243 - #38 ==
+INFO  10:15:08,243 - #9 3
+INFO  10:15:08,243 - #29 )
+INFO  10:15:08,243 - #19 {
+INFO  10:15:08,244 - #8 i
+INFO  10:15:08,244 - #24 ++
+INFO  10:15:08,244 - #26 ;
+INFO  10:15:08,244 - #35 continue
+INFO  10:15:08,244 - #26 ;
+INFO  10:15:08,244 - #20 }
+INFO  10:15:08,246 - #30 if
+INFO  10:15:08,246 - #28 (
+INFO  10:15:08,246 - #8 i
+INFO  10:15:08,246 - #38 ==
+INFO  10:15:08,247 - #9 4
+INFO  10:15:08,247 - #29 )
+INFO  10:15:08,247 - #34 break
+INFO  10:15:08,247 - #26 ;
+INFO  10:15:08,248 - #8 i
+INFO  10:15:08,249 - #23 =
+INFO  10:15:08,250 - #8 inkrement
+INFO  10:15:08,250 - #28 (
+INFO  10:15:08,250 - #8 i
+INFO  10:15:08,250 - #29 )
+INFO  10:15:08,251 - #26 ;
+INFO  10:15:08,251 - #20 }
+INFO  10:15:08,251 - #33 while
+INFO  10:15:08,251 - #28 (
+INFO  10:15:08,251 - #11 true
+INFO  10:15:08,251 - #29 )
+INFO  10:15:08,251 - #26 ;
+INFO  10:15:08,252 - #30 if
+INFO  10:15:08,252 - #28 (
+INFO  10:15:08,252 - #8 i
+INFO  10:15:08,252 - #38 ==
+INFO  10:15:08,252 - #9 3
+INFO  10:15:08,252 - #29 )
+INFO  10:15:08,252 - #3 print
+INFO  10:15:08,252 - #28 (
+INFO  10:15:08,252 - #9 4
+INFO  10:15:08,252 - #29 )
+INFO  10:15:08,253 - #26 ;
+INFO  10:15:08,253 - #31 else
+INFO  10:15:08,253 - #3 print
+INFO  10:15:08,253 - #28 (
+INFO  10:15:08,254 - #15 -
+INFO  10:15:08,255 - #9 4
+INFO  10:15:08,255 - #29 )
+INFO  10:15:08,255 - #26 ;
+INFO  10:15:08,255 - #4 read
+INFO  10:15:08,256 - #28 (
+INFO  10:15:08,256 - #8 niz
+INFO  10:15:08,256 - #21 [
+INFO  10:15:08,256 - #9 0
+INFO  10:15:08,256 - #22 ]
+INFO  10:15:08,257 - #29 )
+INFO  10:15:08,257 - #26 ;
+INFO  10:15:08,257 - #4 read
+INFO  10:15:08,257 - #28 (
+INFO  10:15:08,257 - #8 niz
+INFO  10:15:08,257 - #21 [
+INFO  10:15:08,257 - #9 1
+INFO  10:15:08,258 - #22 ]
+INFO  10:15:08,259 - #29 )
+INFO  10:15:08,259 - #26 ;
+INFO  10:15:08,259 - #4 read
+INFO  10:15:08,259 - #28 (
+INFO  10:15:08,260 - #8 niz
+INFO  10:15:08,260 - #21 [
+INFO  10:15:08,260 - #9 2
+INFO  10:15:08,260 - #22 ]
+INFO  10:15:08,260 - #29 )
+INFO  10:15:08,261 - #26 ;
+INFO  10:15:08,261 - #3 print
+INFO  10:15:08,261 - #28 (
+INFO  10:15:08,264 - #8 eol
+INFO  10:15:08,267 - #29 )
+INFO  10:15:08,272 - #26 ;
+INFO  10:15:08,273 - #3 print
+INFO  10:15:08,273 - #28 (
+INFO  10:15:08,273 - #8 sum
+INFO  10:15:08,273 - #28 (
+INFO  10:15:08,273 - #8 sum
+INFO  10:15:08,273 - #28 (
+INFO  10:15:08,274 - #8 niz
+INFO  10:15:08,274 - #21 [
+INFO  10:15:08,274 - #9 0
+INFO  10:15:08,275 - #22 ]
+INFO  10:15:08,342 - #27 ,
+INFO  10:15:08,342 - #8 niz
+INFO  10:15:08,343 - #21 [
+INFO  10:15:08,343 - #9 1
+INFO  10:15:08,343 - #22 ]
+INFO  10:15:08,343 - #29 )
+INFO  10:15:08,344 - #27 ,
+INFO  10:15:08,347 - #8 niz
+INFO  10:15:08,349 - #21 [
+INFO  10:15:08,350 - #9 2
+INFO  10:15:08,350 - #22 ]
+INFO  10:15:08,351 - #29 )
+INFO  10:15:08,355 - #29 )
+INFO  10:15:08,358 - #26 ;
+INFO  10:15:08,358 - #20 }
+INFO  10:15:08,359 - #20 }
+INFO  10:15:08,364 - =====================SINTAKSNO_STABLO=========================
+INFO  10:15:08,435 - 
+Program_0(
+  Program_name(
+   test302
+  ) [Program_name]
+  Program_con_vars_multi(
+    Program_con_vars_multi(
+      Program_con_vars_single(
+        Part_var_decl(
+          Var_declaration(
+            Type(
+             int
+            ) [Type]
+            Var_single(
+              Var_normal(
+               i
+              ) [Var_normal]
+            ) [Var_single]
+          ) [Var_declaration]
+        ) [Part_var_decl]
+      ) [Program_con_vars_single]
+      Part_var_decl(
+        Var_declaration(
+          Type(
+           bool
+          ) [Type]
+          Var_single(
+            Var_normal(
+             ibool
+            ) [Var_normal]
+          ) [Var_single]
+        ) [Var_declaration]
+      ) [Part_var_decl]
+    ) [Program_con_vars_multi]
+    Part_var_decl(
+      Var_declaration(
+        Type(
+         int
+        ) [Type]
+        Var_single(
+          Var_array(
+           niz
+          ) [Var_array]
+        ) [Var_single]
+      ) [Var_declaration]
+    ) [Part_var_decl]
+  ) [Program_con_vars_multi]
+  Program_methods_multi(
+    Program_methods_multi(
+      Program_methods_single(
+        Meth_type_decl(
+          Meth_type_2(
+            Method_type_name(
+              Type(
+               int
+              ) [Type]
+             sum
+            ) [Method_type_name]
+            Param_multi(
+              Param_single(
+                Param_normal(
+                  Type(
+                   int
+                  ) [Type]
+                 z
+                ) [Param_normal]
+              ) [Param_single]
+              Param_normal(
+                Type(
+                 int
+                ) [Type]
+               d
+              ) [Param_normal]
+            ) [Param_multi]
+            Statement_single(
+              Stmt_return_val(
+                Expr_term_multi(
+                  Term_single(
+                    Factor_designator(
+                      Designator_1(
+                       z
+                      ) [Designator_1]
+                    ) [Factor_designator]
+                  ) [Term_single]
+                  More_term_single(
+                    More_term_part(
+                      Add_op_plus(
+                      ) [Add_op_plus]
+                      Term_single(
+                        Factor_designator(
+                          Designator_1(
+                           d
+                          ) [Designator_1]
+                        ) [Factor_designator]
+                      ) [Term_single]
+                    ) [More_term_part]
+                  ) [More_term_single]
+                ) [Expr_term_multi]
+              ) [Stmt_return_val]
+            ) [Statement_single]
+          ) [Meth_type_2]
+        ) [Meth_type_decl]
+      ) [Program_methods_single]
+      Meth_type_decl(
+        Meth_type_0(
+          Method_type_name(
+            Type(
+             int
+            ) [Type]
+           inkrement
+          ) [Method_type_name]
+          Param_single(
+            Param_normal(
+              Type(
+               int
+              ) [Type]
+             a
+            ) [Param_normal]
+          ) [Param_single]
+          Var_decl_single(
+            Var_declaration(
+              Type(
+               int
+              ) [Type]
+              Var_single(
+                Var_normal(
+                 pom
+                ) [Var_normal]
+              ) [Var_single]
+            ) [Var_declaration]
+          ) [Var_decl_single]
+          Statement_multi(
+            Statement_single(
+              Stmt_design(
+                Assignment(
+                  Designator_1(
+                   pom
+                  ) [Designator_1]
+                  Expr_term_single(
+                    Term_single(
+                      Factor_num_const(
+                       1
+                      ) [Factor_num_const]
+                    ) [Term_single]
+                  ) [Expr_term_single]
+                ) [Assignment]
+              ) [Stmt_design]
+            ) [Statement_single]
+            Stmt_return_val(
+              Expr_term_single(
+                Term_single(
+                  Factor_meth_call(
+                    Designator_1(
+                     sum
+                    ) [Designator_1]
+                    Act_Pars_Multi(
+                      Act_Pars_Single(
+                        Expr_term_single(
+                          Term_single(
+                            Factor_designator(
+                              Designator_1(
+                               a
+                              ) [Designator_1]
+                            ) [Factor_designator]
+                          ) [Term_single]
+                        ) [Expr_term_single]
+                      ) [Act_Pars_Single]
+                      Expr_term_single(
+                        Term_single(
+                          Factor_designator(
+                            Designator_1(
+                             pom
+                            ) [Designator_1]
+                          ) [Factor_designator]
+                        ) [Term_single]
+                      ) [Expr_term_single]
+                    ) [Act_Pars_Multi]
+                  ) [Factor_meth_call]
+                ) [Term_single]
+              ) [Expr_term_single]
+            ) [Stmt_return_val]
+          ) [Statement_multi]
+        ) [Meth_type_0]
+      ) [Meth_type_decl]
+    ) [Program_methods_multi]
+    Meth_void_decl(
+      Meth_void_6(
+        Method_void_name(
+         main
+        ) [Method_void_name]
+        Statement_multi(
+          Statement_multi(
+            Statement_multi(
+              Statement_multi(
+                Statement_multi(
+                  Statement_multi(
+                    Statement_multi(
+                      Statement_multi(
+                        Statement_multi(
+                          Statement_multi(
+                            Statement_multi(
+                              Statement_multi(
+                                Statement_multi(
+                                  Statement_multi(
+                                    Statement_multi(
+                                      Statement_multi(
+                                        Statement_multi(
+                                          Statement_multi(
+                                            Statement_single(
+                                              Stmt_if_else(
+                                                Stmt_kw_if(
+                                                ) [Stmt_kw_if]
+                                                Stmt_if_body(
+                                                  Condition(
+                                                    Condition_one(
+                                                      Cond_term_one(
+                                                        Cond_fact_two(
+                                                          Expr_term_single(
+                                                            Term_single(
+                                                              Factor_num_const(
+                                                               1
+                                                              ) [Factor_num_const]
+                                                            ) [Term_single]
+                                                          ) [Expr_term_single]
+                                                          Rel_op_ne(
+                                                          ) [Rel_op_ne]
+                                                          Expr_term_single(
+                                                            Term_single(
+                                                              Factor_num_const(
+                                                               1
+                                                              ) [Factor_num_const]
+                                                            ) [Term_single]
+                                                          ) [Expr_term_single]
+                                                        ) [Cond_fact_two]
+                                                      ) [Cond_term_one]
+                                                    ) [Condition_one]
+                                                  ) [Condition]
+                                                  Stmt_print_1(
+                                                    Expr_neg_term_single(
+                                                      Term_single(
+                                                        Factor_num_const(
+                                                         6
+                                                        ) [Factor_num_const]
+                                                      ) [Term_single]
+                                                    ) [Expr_neg_term_single]
+                                                  ) [Stmt_print_1]
+                                                ) [Stmt_if_body]
+                                                Stmt_print_1(
+                                                  Expr_term_single(
+                                                    Term_single(
+                                                      Factor_num_const(
+                                                       0
+                                                      ) [Factor_num_const]
+                                                    ) [Term_single]
+                                                  ) [Expr_term_single]
+                                                ) [Stmt_print_1]
+                                              ) [Stmt_if_else]
+                                            ) [Statement_single]
+                                            Stmt_design(
+                                              Assignment(
+                                                Designator_1(
+                                                 ibool
+                                                ) [Designator_1]
+                                                Expr_term_single(
+                                                  Term_single(
+                                                    Factor_bool_const(
+                                                     false
+                                                    ) [Factor_bool_const]
+                                                  ) [Term_single]
+                                                ) [Expr_term_single]
+                                              ) [Assignment]
+                                            ) [Stmt_design]
+                                          ) [Statement_multi]
+                                          Stmt_design(
+                                            Assignment(
+                                              Designator_1(
+                                               i
+                                              ) [Designator_1]
+                                              Expr_term_single(
+                                                Term_single(
+                                                  Factor_num_const(
+                                                   0
+                                                  ) [Factor_num_const]
+                                                ) [Term_single]
+                                              ) [Expr_term_single]
+                                            ) [Assignment]
+                                          ) [Stmt_design]
+                                        ) [Statement_multi]
+                                        Stmt_do_while(
+                                          Stmt_kw_do(
+                                          ) [Stmt_kw_do]
+                                          Stmt_list(
+                                            Statement_multi(
+                                              Statement_single(
+                                                Stmt_if(
+                                                  Stmt_kw_if(
+                                                  ) [Stmt_kw_if]
+                                                  Stmt_if_body(
+                                                    Condition(
+                                                      Condition_one(
+                                                        Cond_term_one(
+                                                          Cond_fact_two(
+                                                            Expr_term_single(
+                                                              Term_single(
+                                                                Factor_designator(
+                                                                  Designator_1(
+                                                                   i
+                                                                  ) [Designator_1]
+                                                                ) [Factor_designator]
+                                                              ) [Term_single]
+                                                            ) [Expr_term_single]
+                                                            Rel_op_eq(
+                                                            ) [Rel_op_eq]
+                                                            Expr_term_single(
+                                                              Term_single(
+                                                                Factor_num_const(
+                                                                 2
+                                                                ) [Factor_num_const]
+                                                              ) [Term_single]
+                                                            ) [Expr_term_single]
+                                                          ) [Cond_fact_two]
+                                                        ) [Cond_term_one]
+                                                      ) [Condition_one]
+                                                    ) [Condition]
+                                                    Stmt_design(
+                                                      Assignment(
+                                                        Designator_1(
+                                                         ibool
+                                                        ) [Designator_1]
+                                                        Expr_term_single(
+                                                          Term_single(
+                                                            Factor_bool_const(
+                                                             true
+                                                            ) [Factor_bool_const]
+                                                          ) [Term_single]
+                                                        ) [Expr_term_single]
+                                                      ) [Assignment]
+                                                    ) [Stmt_design]
+                                                  ) [Stmt_if_body]
+                                                ) [Stmt_if]
+                                              ) [Statement_single]
+                                              Stmt_design(
+                                                Increment(
+                                                  Designator_1(
+                                                   i
+                                                  ) [Designator_1]
+                                                ) [Increment]
+                                              ) [Stmt_design]
+                                            ) [Statement_multi]
+                                          ) [Stmt_list]
+                                          Condition(
+                                            Condition_one(
+                                              Cond_term_one(
+                                                Cond_fact_two(
+                                                  Expr_term_single(
+                                                    Term_single(
+                                                      Factor_designator(
+                                                        Designator_1(
+                                                         i
+                                                        ) [Designator_1]
+                                                      ) [Factor_designator]
+                                                    ) [Term_single]
+                                                  ) [Expr_term_single]
+                                                  Rel_op_lt(
+                                                  ) [Rel_op_lt]
+                                                  Expr_term_single(
+                                                    Term_single(
+                                                      Factor_num_const(
+                                                       5
+                                                      ) [Factor_num_const]
+                                                    ) [Term_single]
+                                                  ) [Expr_term_single]
+                                                ) [Cond_fact_two]
+                                              ) [Cond_term_one]
+                                            ) [Condition_one]
+                                          ) [Condition]
+                                        ) [Stmt_do_while]
+                                      ) [Statement_multi]
+                                      Stmt_if(
+                                        Stmt_kw_if(
+                                        ) [Stmt_kw_if]
+                                        Stmt_if_body(
+                                          Condition(
+                                            Condition_one(
+                                              Cond_term_one(
+                                                Cond_fact_one(
+                                                  Expr_term_single(
+                                                    Term_single(
+                                                      Factor_designator(
+                                                        Designator_1(
+                                                         ibool
+                                                        ) [Designator_1]
+                                                      ) [Factor_designator]
+                                                    ) [Term_single]
+                                                  ) [Expr_term_single]
+                                                ) [Cond_fact_one]
+                                              ) [Cond_term_one]
+                                            ) [Condition_one]
+                                          ) [Condition]
+                                          Stmt_if_else(
+                                            Stmt_kw_if(
+                                            ) [Stmt_kw_if]
+                                            Stmt_if_body(
+                                              Condition(
+                                                Condition_one(
+                                                  Cond_term_one(
+                                                    Cond_fact_two(
+                                                      Expr_term_single(
+                                                        Term_single(
+                                                          Factor_designator(
+                                                            Designator_1(
+                                                             i
+                                                            ) [Designator_1]
+                                                          ) [Factor_designator]
+                                                        ) [Term_single]
+                                                      ) [Expr_term_single]
+                                                      Rel_op_eq(
+                                                      ) [Rel_op_eq]
+                                                      Expr_term_single(
+                                                        Term_single(
+                                                          Factor_num_const(
+                                                           5
+                                                          ) [Factor_num_const]
+                                                        ) [Term_single]
+                                                      ) [Expr_term_single]
+                                                    ) [Cond_fact_two]
+                                                  ) [Cond_term_one]
+                                                ) [Condition_one]
+                                              ) [Condition]
+                                              Stmt_print_1(
+                                                Expr_term_single(
+                                                  Term_single(
+                                                    Factor_num_const(
+                                                     1
+                                                    ) [Factor_num_const]
+                                                  ) [Term_single]
+                                                ) [Expr_term_single]
+                                              ) [Stmt_print_1]
+                                            ) [Stmt_if_body]
+                                            Stmt_print_1(
+                                              Expr_neg_term_single(
+                                                Term_single(
+                                                  Factor_num_const(
+                                                   1
+                                                  ) [Factor_num_const]
+                                                ) [Term_single]
+                                              ) [Expr_neg_term_single]
+                                            ) [Stmt_print_1]
+                                          ) [Stmt_if_else]
+                                        ) [Stmt_if_body]
+                                      ) [Stmt_if]
+                                    ) [Statement_multi]
+                                    Stmt_design(
+                                      Assignment(
+                                        Designator_1(
+                                         niz
+                                        ) [Designator_1]
+                                        Expr_term_single(
+                                          Term_single(
+                                            Factor_new_array(
+                                              Type(
+                                               int
+                                              ) [Type]
+                                              Expr_term_single(
+                                                Term_single(
+                                                  Factor_num_const(
+                                                   3
+                                                  ) [Factor_num_const]
+                                                ) [Term_single]
+                                              ) [Expr_term_single]
+                                            ) [Factor_new_array]
+                                          ) [Term_single]
+                                        ) [Expr_term_single]
+                                      ) [Assignment]
+                                    ) [Stmt_design]
+                                  ) [Statement_multi]
+                                  Stmt_design(
+                                    Assignment(
+                                      Designator_0(
+                                       niz
+                                        Expr_term_single(
+                                          Term_single(
+                                            Factor_num_const(
+                                             0
+                                            ) [Factor_num_const]
+                                          ) [Term_single]
+                                        ) [Expr_term_single]
+                                      ) [Designator_0]
+                                      Expr_term_single(
+                                        Term_single(
+                                          Factor_num_const(
+                                           1
+                                          ) [Factor_num_const]
+                                        ) [Term_single]
+                                      ) [Expr_term_single]
+                                    ) [Assignment]
+                                  ) [Stmt_design]
+                                ) [Statement_multi]
+                                Stmt_design(
+                                  Assignment(
+                                    Designator_0(
+                                     niz
+                                      Expr_term_single(
+                                        Term_single(
+                                          Factor_num_const(
+                                           1
+                                          ) [Factor_num_const]
+                                        ) [Term_single]
+                                      ) [Expr_term_single]
+                                    ) [Designator_0]
+                                    Expr_term_single(
+                                      Term_single(
+                                        Factor_num_const(
+                                         2
+                                        ) [Factor_num_const]
+                                      ) [Term_single]
+                                    ) [Expr_term_single]
+                                  ) [Assignment]
+                                ) [Stmt_design]
+                              ) [Statement_multi]
+                              Stmt_design(
+                                Assignment(
+                                  Designator_0(
+                                   niz
+                                    Expr_term_single(
+                                      Term_single(
+                                        Factor_num_const(
+                                         2
+                                        ) [Factor_num_const]
+                                      ) [Term_single]
+                                    ) [Expr_term_single]
+                                  ) [Designator_0]
+                                  Expr_term_multi(
+                                    Term_single(
+                                      Factor_meth_call(
+                                        Designator_1(
+                                         sum
+                                        ) [Designator_1]
+                                        Act_Pars_Multi(
+                                          Act_Pars_Single(
+                                            Expr_term_single(
+                                              Term_single(
+                                                Factor_designator(
+                                                  Designator_0(
+                                                   niz
+                                                    Expr_term_single(
+                                                      Term_single(
+                                                        Factor_num_const(
+                                                         1
+                                                        ) [Factor_num_const]
+                                                      ) [Term_single]
+                                                    ) [Expr_term_single]
+                                                  ) [Designator_0]
+                                                ) [Factor_designator]
+                                              ) [Term_single]
+                                            ) [Expr_term_single]
+                                          ) [Act_Pars_Single]
+                                          Expr_term_single(
+                                            Term_single(
+                                              Factor_designator(
+                                                Designator_0(
+                                                 niz
+                                                  Expr_term_single(
+                                                    Term_single(
+                                                      Factor_num_const(
+                                                       0
+                                                      ) [Factor_num_const]
+                                                    ) [Term_single]
+                                                  ) [Expr_term_single]
+                                                ) [Designator_0]
+                                              ) [Factor_designator]
+                                            ) [Term_single]
+                                          ) [Expr_term_single]
+                                        ) [Act_Pars_Multi]
+                                      ) [Factor_meth_call]
+                                    ) [Term_single]
+                                    More_term_single(
+                                      More_term_part(
+                                        Add_op_plus(
+                                        ) [Add_op_plus]
+                                        Term_single(
+                                          Factor_num_const(
+                                           1
+                                          ) [Factor_num_const]
+                                        ) [Term_single]
+                                      ) [More_term_part]
+                                    ) [More_term_single]
+                                  ) [Expr_term_multi]
+                                ) [Assignment]
+                              ) [Stmt_design]
+                            ) [Statement_multi]
+                            Stmt_if_else(
+                              Stmt_kw_if(
+                              ) [Stmt_kw_if]
+                              Stmt_if_body(
+                                Condition(
+                                  Condition_one(
+                                    Cond_term_one(
+                                      Cond_fact_two(
+                                        Expr_term_single(
+                                          Term_single(
+                                            Factor_designator(
+                                              Designator_0(
+                                               niz
+                                                Expr_term_single(
+                                                  Term_single(
+                                                    Factor_num_const(
+                                                     2
+                                                    ) [Factor_num_const]
+                                                  ) [Term_single]
+                                                ) [Expr_term_single]
+                                              ) [Designator_0]
+                                            ) [Factor_designator]
+                                          ) [Term_single]
+                                        ) [Expr_term_single]
+                                        Rel_op_eq(
+                                        ) [Rel_op_eq]
+                                        Expr_term_single(
+                                          Term_single(
+                                            Factor_num_const(
+                                             4
+                                            ) [Factor_num_const]
+                                          ) [Term_single]
+                                        ) [Expr_term_single]
+                                      ) [Cond_fact_two]
+                                    ) [Cond_term_one]
+                                  ) [Condition_one]
+                                ) [Condition]
+                                Stmt_print_1(
+                                  Expr_term_single(
+                                    Term_single(
+                                      Factor_meth_call(
+                                        Designator_1(
+                                         ord
+                                        ) [Designator_1]
+                                        Act_Pars_Single(
+                                          Expr_term_single(
+                                            Term_single(
+                                              Factor_char_const(
+                                               A
+                                              ) [Factor_char_const]
+                                            ) [Term_single]
+                                          ) [Expr_term_single]
+                                        ) [Act_Pars_Single]
+                                      ) [Factor_meth_call]
+                                    ) [Term_single]
+                                  ) [Expr_term_single]
+                                ) [Stmt_print_1]
+                              ) [Stmt_if_body]
+                              Stmt_print_1(
+                                Expr_term_single(
+                                  Term_single(
+                                    Factor_meth_call(
+                                      Designator_1(
+                                       ord
+                                      ) [Designator_1]
+                                      Act_Pars_Single(
+                                        Expr_term_single(
+                                          Term_single(
+                                            Factor_char_const(
+                                             a
+                                            ) [Factor_char_const]
+                                          ) [Term_single]
+                                        ) [Expr_term_single]
+                                      ) [Act_Pars_Single]
+                                    ) [Factor_meth_call]
+                                  ) [Term_single]
+                                ) [Expr_term_single]
+                              ) [Stmt_print_1]
+                            ) [Stmt_if_else]
+                          ) [Statement_multi]
+                          Stmt_print_1(
+                            Expr_term_single(
+                              Term_single(
+                                Factor_designator(
+                                  Designator_1(
+                                   eol
+                                  ) [Designator_1]
+                                ) [Factor_designator]
+                              ) [Term_single]
+                            ) [Expr_term_single]
+                          ) [Stmt_print_1]
+                        ) [Statement_multi]
+                        Stmt_design(
+                          Assignment(
+                            Designator_1(
+                             i
+                            ) [Designator_1]
+                            Expr_term_single(
+                              Term_single(
+                                Factor_num_const(
+                                 0
+                                ) [Factor_num_const]
+                              ) [Term_single]
+                            ) [Expr_term_single]
+                          ) [Assignment]
+                        ) [Stmt_design]
+                      ) [Statement_multi]
+                      Stmt_do_while(
+                        Stmt_kw_do(
+                        ) [Stmt_kw_do]
+                        Stmt_list(
+                          Statement_multi(
+                            Statement_multi(
+                              Statement_single(
+                                Stmt_if(
+                                  Stmt_kw_if(
+                                  ) [Stmt_kw_if]
+                                  Stmt_if_body(
+                                    Condition(
+                                      Condition_one(
+                                        Cond_term_one(
+                                          Cond_fact_two(
+                                            Expr_term_single(
+                                              Term_single(
+                                                Factor_designator(
+                                                  Designator_1(
+                                                   i
+                                                  ) [Designator_1]
+                                                ) [Factor_designator]
+                                              ) [Term_single]
+                                            ) [Expr_term_single]
+                                            Rel_op_eq(
+                                            ) [Rel_op_eq]
+                                            Expr_term_single(
+                                              Term_single(
+                                                Factor_num_const(
+                                                 3
+                                                ) [Factor_num_const]
+                                              ) [Term_single]
+                                            ) [Expr_term_single]
+                                          ) [Cond_fact_two]
+                                        ) [Cond_term_one]
+                                      ) [Condition_one]
+                                    ) [Condition]
+                                    Stmt_list(
+                                      Statement_multi(
+                                        Statement_single(
+                                          Stmt_design(
+                                            Increment(
+                                              Designator_1(
+                                               i
+                                              ) [Designator_1]
+                                            ) [Increment]
+                                          ) [Stmt_design]
+                                        ) [Statement_single]
+                                        Stmt_continue(
+                                        ) [Stmt_continue]
+                                      ) [Statement_multi]
+                                    ) [Stmt_list]
+                                  ) [Stmt_if_body]
+                                ) [Stmt_if]
+                              ) [Statement_single]
+                              Stmt_if(
+                                Stmt_kw_if(
+                                ) [Stmt_kw_if]
+                                Stmt_if_body(
+                                  Condition(
+                                    Condition_one(
+                                      Cond_term_one(
+                                        Cond_fact_two(
+                                          Expr_term_single(
+                                            Term_single(
+                                              Factor_designator(
+                                                Designator_1(
+                                                 i
+                                                ) [Designator_1]
+                                              ) [Factor_designator]
+                                            ) [Term_single]
+                                          ) [Expr_term_single]
+                                          Rel_op_eq(
+                                          ) [Rel_op_eq]
+                                          Expr_term_single(
+                                            Term_single(
+                                              Factor_num_const(
+                                               4
+                                              ) [Factor_num_const]
+                                            ) [Term_single]
+                                          ) [Expr_term_single]
+                                        ) [Cond_fact_two]
+                                      ) [Cond_term_one]
+                                    ) [Condition_one]
+                                  ) [Condition]
+                                  Stmt_break(
+                                  ) [Stmt_break]
+                                ) [Stmt_if_body]
+                              ) [Stmt_if]
+                            ) [Statement_multi]
+                            Stmt_design(
+                              Assignment(
+                                Designator_1(
+                                 i
+                                ) [Designator_1]
+                                Expr_term_single(
+                                  Term_single(
+                                    Factor_meth_call(
+                                      Designator_1(
+                                       inkrement
+                                      ) [Designator_1]
+                                      Act_Pars_Single(
+                                        Expr_term_single(
+                                          Term_single(
+                                            Factor_designator(
+                                              Designator_1(
+                                               i
+                                              ) [Designator_1]
+                                            ) [Factor_designator]
+                                          ) [Term_single]
+                                        ) [Expr_term_single]
+                                      ) [Act_Pars_Single]
+                                    ) [Factor_meth_call]
+                                  ) [Term_single]
+                                ) [Expr_term_single]
+                              ) [Assignment]
+                            ) [Stmt_design]
+                          ) [Statement_multi]
+                        ) [Stmt_list]
+                        Condition(
+                          Condition_one(
+                            Cond_term_one(
+                              Cond_fact_one(
+                                Expr_term_single(
+                                  Term_single(
+                                    Factor_bool_const(
+                                     true
+                                    ) [Factor_bool_const]
+                                  ) [Term_single]
+                                ) [Expr_term_single]
+                              ) [Cond_fact_one]
+                            ) [Cond_term_one]
+                          ) [Condition_one]
+                        ) [Condition]
+                      ) [Stmt_do_while]
+                    ) [Statement_multi]
+                    Stmt_if_else(
+                      Stmt_kw_if(
+                      ) [Stmt_kw_if]
+                      Stmt_if_body(
+                        Condition(
+                          Condition_one(
+                            Cond_term_one(
+                              Cond_fact_two(
+                                Expr_term_single(
+                                  Term_single(
+                                    Factor_designator(
+                                      Designator_1(
+                                       i
+                                      ) [Designator_1]
+                                    ) [Factor_designator]
+                                  ) [Term_single]
+                                ) [Expr_term_single]
+                                Rel_op_eq(
+                                ) [Rel_op_eq]
+                                Expr_term_single(
+                                  Term_single(
+                                    Factor_num_const(
+                                     3
+                                    ) [Factor_num_const]
+                                  ) [Term_single]
+                                ) [Expr_term_single]
+                              ) [Cond_fact_two]
+                            ) [Cond_term_one]
+                          ) [Condition_one]
+                        ) [Condition]
+                        Stmt_print_1(
+                          Expr_term_single(
+                            Term_single(
+                              Factor_num_const(
+                               4
+                              ) [Factor_num_const]
+                            ) [Term_single]
+                          ) [Expr_term_single]
+                        ) [Stmt_print_1]
+                      ) [Stmt_if_body]
+                      Stmt_print_1(
+                        Expr_neg_term_single(
+                          Term_single(
+                            Factor_num_const(
+                             4
+                            ) [Factor_num_const]
+                          ) [Term_single]
+                        ) [Expr_neg_term_single]
+                      ) [Stmt_print_1]
+                    ) [Stmt_if_else]
+                  ) [Statement_multi]
+                  Stmt_Read(
+                    Designator_0(
+                     niz
+                      Expr_term_single(
+                        Term_single(
+                          Factor_num_const(
+                           0
+                          ) [Factor_num_const]
+                        ) [Term_single]
+                      ) [Expr_term_single]
+                    ) [Designator_0]
+                  ) [Stmt_Read]
+                ) [Statement_multi]
+                Stmt_Read(
+                  Designator_0(
+                   niz
+                    Expr_term_single(
+                      Term_single(
+                        Factor_num_const(
+                         1
+                        ) [Factor_num_const]
+                      ) [Term_single]
+                    ) [Expr_term_single]
+                  ) [Designator_0]
+                ) [Stmt_Read]
+              ) [Statement_multi]
+              Stmt_Read(
+                Designator_0(
+                 niz
+                  Expr_term_single(
+                    Term_single(
+                      Factor_num_const(
+                       2
+                      ) [Factor_num_const]
+                    ) [Term_single]
+                  ) [Expr_term_single]
+                ) [Designator_0]
+              ) [Stmt_Read]
+            ) [Statement_multi]
+            Stmt_print_1(
+              Expr_term_single(
+                Term_single(
+                  Factor_designator(
+                    Designator_1(
+                     eol
+                    ) [Designator_1]
+                  ) [Factor_designator]
+                ) [Term_single]
+              ) [Expr_term_single]
+            ) [Stmt_print_1]
+          ) [Statement_multi]
+          Stmt_print_1(
+            Expr_term_single(
+              Term_single(
+                Factor_meth_call(
+                  Designator_1(
+                   sum
+                  ) [Designator_1]
+                  Act_Pars_Multi(
+                    Act_Pars_Single(
+                      Expr_term_single(
+                        Term_single(
+                          Factor_meth_call(
+                            Designator_1(
+                             sum
+                            ) [Designator_1]
+                            Act_Pars_Multi(
+                              Act_Pars_Single(
+                                Expr_term_single(
+                                  Term_single(
+                                    Factor_designator(
+                                      Designator_0(
+                                       niz
+                                        Expr_term_single(
+                                          Term_single(
+                                            Factor_num_const(
+                                             0
+                                            ) [Factor_num_const]
+                                          ) [Term_single]
+                                        ) [Expr_term_single]
+                                      ) [Designator_0]
+                                    ) [Factor_designator]
+                                  ) [Term_single]
+                                ) [Expr_term_single]
+                              ) [Act_Pars_Single]
+                              Expr_term_single(
+                                Term_single(
+                                  Factor_designator(
+                                    Designator_0(
+                                     niz
+                                      Expr_term_single(
+                                        Term_single(
+                                          Factor_num_const(
+                                           1
+                                          ) [Factor_num_const]
+                                        ) [Term_single]
+                                      ) [Expr_term_single]
+                                    ) [Designator_0]
+                                  ) [Factor_designator]
+                                ) [Term_single]
+                              ) [Expr_term_single]
+                            ) [Act_Pars_Multi]
+                          ) [Factor_meth_call]
+                        ) [Term_single]
+                      ) [Expr_term_single]
+                    ) [Act_Pars_Single]
+                    Expr_term_single(
+                      Term_single(
+                        Factor_designator(
+                          Designator_0(
+                           niz
+                            Expr_term_single(
+                              Term_single(
+                                Factor_num_const(
+                                 2
+                                ) [Factor_num_const]
+                              ) [Term_single]
+                            ) [Expr_term_single]
+                          ) [Designator_0]
+                        ) [Factor_designator]
+                      ) [Term_single]
+                    ) [Expr_term_single]
+                  ) [Act_Pars_Multi]
+                ) [Factor_meth_call]
+              ) [Term_single]
+            ) [Expr_term_single]
+          ) [Stmt_print_1]
+        ) [Statement_multi]
+      ) [Meth_void_6]
+    ) [Meth_void_decl]
+  ) [Program_methods_multi]
+) [Program_0]
+INFO  10:15:08,499 - ==============================================================
+INFO  10:15:08,610 - Pocetak obrade programa test302 na liniji 3
+INFO  10:15:08,611 - Pronadjen tip int u tabeli simbola na liniji 6
+INFO  10:15:08,616 - Deklarisana promenljiva i na liniji 6
+INFO  10:15:08,616 - Pronadjen tip bool u tabeli simbola na liniji 7
+INFO  10:15:08,616 - Deklarisana promenljiva ibool na liniji 7
+INFO  10:15:08,616 - Pronadjen tip int u tabeli simbola na liniji 9
+INFO  10:15:08,617 - Deklarisan niz niz na liniji 9
+INFO  10:15:08,617 - Pronadjen tip int u tabeli simbola na liniji 12
+INFO  10:15:08,625 - Pocetak obrade metode sum na liniji 12
+INFO  10:15:08,627 - Pronadjen tip int u tabeli simbola na liniji 12
+INFO  10:15:08,628 - Pronadjen tip int u tabeli simbola na liniji 12
+INFO  10:15:08,629 - Zavrsetak obrade metode (funkcije) sum na liniji 12
+INFO  10:15:08,630 - Pronadjen tip int u tabeli simbola na liniji 17
+INFO  10:15:08,631 - Pocetak obrade metode inkrement na liniji 17
+INFO  10:15:08,631 - Pronadjen tip int u tabeli simbola na liniji 17
+INFO  10:15:08,631 - Pronadjen tip int u tabeli simbola na liniji 17
+INFO  10:15:08,631 - Deklarisana promenljiva pom na liniji 17
+INFO  10:15:08,632 - Pronadjen poziv metode (funkcije) sum na liniji 20
+INFO  10:15:08,633 - Zavrsetak obrade metode (funkcije) inkrement na liniji 17
+INFO  10:15:08,633 - Pocetak obrade metode main na liniji 23
+INFO  10:15:08,634 - Pronadjen tip int u tabeli simbola na liniji 44
+INFO  10:15:08,634 - Pronadjen poziv metode (funkcije) sum na liniji 47
+INFO  10:15:08,634 - Pronadjen poziv metode (funkcije) ord na liniji 48
+INFO  10:15:08,634 - Pronadjen poziv metode (funkcije) ord na liniji 49
+INFO  10:15:08,635 - Pronadjen poziv metode (funkcije) inkrement na liniji 61
+INFO  10:15:08,635 - Pronadjen poziv metode (funkcije) sum na liniji 72
+INFO  10:15:08,635 - Pronadjen poziv metode (funkcije) sum na liniji 72
+INFO  10:15:08,635 - Zavrsetak obrade metode (procedure) main na liniji 23
+INFO  10:15:08,636 - Zavrsetak obrade programa test302 na liniji 3
+INFO  10:15:08,636 - ======================TABELA_SIMBOLA==========================
+INFO  10:15:08,638 - 
+Type int: int
+Type char: char
+Con eol: char
+Con null: 
+Meth chr: char
+	Param0 Var i: int
+Meth ord: int
+	Param0 Var ch: char
+Meth len: int
+	Param0 Var arr: array of none
+Type bool: bool
+
+Prog test302: none
+	Globl Var i: int
+	Globl Var ibool: bool
+	Globl Var niz: array of int
+Meth sum: int
+	Param0 Var z: int
+	Param1 Var d: int
+Meth inkrement: int
+	Param0 Var a: int
+	Local Var pom: int
+Meth main: none
+
+INFO  10:15:08,638 - ==============================================================
+INFO  10:15:08,638 - Sintaksna i semanticka analiza uspesno zavrsena!
+INFO  10:15:59,629 - Obrada ulaznog fajla test\program.mj
+INFO  10:15:59,717 - #2 program
+INFO  10:15:59,717 - #8 test302
+INFO  10:15:59,718 - #8 int
+INFO  10:15:59,719 - #8 i
+INFO  10:15:59,720 - #26 ;
+INFO  10:15:59,720 - #8 bool
+INFO  10:15:59,722 - #8 ibool
+INFO  10:15:59,722 - #26 ;
+INFO  10:15:59,722 - #8 int
+INFO  10:15:59,722 - #8 niz
+INFO  10:15:59,722 - #21 [
+INFO  10:15:59,722 - #22 ]
+INFO  10:15:59,723 - #26 ;
+INFO  10:15:59,723 - #19 {
+INFO  10:15:59,723 - #8 int
+INFO  10:15:59,723 - #8 sum
+INFO  10:15:59,723 - #28 (
+INFO  10:15:59,724 - #8 int
+INFO  10:15:59,725 - #8 z
+INFO  10:15:59,725 - #27 ,
+INFO  10:15:59,725 - #8 int
+INFO  10:15:59,725 - #8 d
+INFO  10:15:59,725 - #29 )
+INFO  10:15:59,725 - #19 {
+INFO  10:15:59,725 - #36 return
+INFO  10:15:59,726 - #8 z
+INFO  10:15:59,726 - #14 +
+INFO  10:15:59,726 - #8 d
+INFO  10:15:59,727 - #26 ;
+INFO  10:15:59,728 - #20 }
+INFO  10:15:59,729 - #8 int
+INFO  10:15:59,729 - #8 inkrement
+INFO  10:15:59,729 - #28 (
+INFO  10:15:59,729 - #8 int
+INFO  10:15:59,729 - #8 a
+INFO  10:15:59,729 - #29 )
+INFO  10:15:59,730 - #8 int
+INFO  10:15:59,730 - #8 pom
+INFO  10:15:59,730 - #26 ;
+INFO  10:15:59,731 - #19 {
+INFO  10:15:59,731 - #8 pom
+INFO  10:15:59,731 - #23 =
+INFO  10:15:59,732 - #9 1
+INFO  10:15:59,732 - #26 ;
+INFO  10:15:59,732 - #36 return
+INFO  10:15:59,733 - #8 sum
+INFO  10:15:59,733 - #28 (
+INFO  10:15:59,733 - #8 a
+INFO  10:15:59,733 - #27 ,
+INFO  10:15:59,733 - #8 pom
+INFO  10:15:59,733 - #29 )
+INFO  10:15:59,734 - #26 ;
+INFO  10:15:59,734 - #20 }
+INFO  10:15:59,734 - #6 void
+INFO  10:15:59,735 - #8 main
+INFO  10:15:59,737 - #28 (
+INFO  10:15:59,740 - #29 )
+INFO  10:15:59,740 - #19 {
+INFO  10:15:59,740 - #30 if
+INFO  10:15:59,740 - #28 (
+INFO  10:15:59,741 - #9 1
+INFO  10:15:59,742 - #42 !=
+INFO  10:15:59,742 - #9 1
+INFO  10:15:59,744 - #29 )
+INFO  10:15:59,747 - #3 print
+INFO  10:15:59,747 - #28 (
+INFO  10:15:59,747 - #15 -
+INFO  10:15:59,747 - #9 6
+INFO  10:15:59,747 - #29 )
+INFO  10:15:59,748 - #26 ;
+INFO  10:15:59,749 - #31 else
+INFO  10:15:59,750 - #3 print
+INFO  10:15:59,751 - #28 (
+INFO  10:15:59,751 - #9 0
+INFO  10:15:59,751 - #29 )
+INFO  10:15:59,751 - #26 ;
+INFO  10:15:59,751 - #8 ibool
+INFO  10:15:59,753 - #23 =
+INFO  10:15:59,753 - #11 false
+INFO  10:15:59,754 - #26 ;
+INFO  10:15:59,755 - #8 i
+INFO  10:15:59,756 - #23 =
+INFO  10:15:59,756 - #9 0
+INFO  10:15:59,756 - #26 ;
+INFO  10:15:59,756 - #32 do
+INFO  10:15:59,759 - #19 {
+INFO  10:15:59,760 - #30 if
+INFO  10:15:59,760 - #28 (
+INFO  10:15:59,761 - #8 i
+INFO  10:15:59,761 - #38 ==
+INFO  10:15:59,761 - #9 2
+INFO  10:15:59,762 - #29 )
+INFO  10:15:59,762 - #8 ibool
+INFO  10:15:59,762 - #23 =
+INFO  10:15:59,762 - #11 true
+INFO  10:15:59,762 - #26 ;
+INFO  10:15:59,762 - #8 i
+INFO  10:15:59,763 - #24 ++
+INFO  10:15:59,763 - #26 ;
+INFO  10:15:59,763 - #20 }
+INFO  10:15:59,763 - #33 while
+INFO  10:15:59,763 - #28 (
+INFO  10:15:59,763 - #8 i
+INFO  10:15:59,764 - #39 <
+INFO  10:15:59,764 - #9 5
+INFO  10:15:59,764 - #29 )
+INFO  10:15:59,765 - #26 ;
+INFO  10:15:59,765 - #30 if
+INFO  10:15:59,765 - #28 (
+INFO  10:15:59,765 - #8 ibool
+INFO  10:15:59,765 - #29 )
+INFO  10:15:59,766 - #30 if
+INFO  10:15:59,766 - #28 (
+INFO  10:15:59,766 - #8 i
+INFO  10:15:59,766 - #38 ==
+INFO  10:15:59,766 - #9 5
+INFO  10:15:59,766 - #29 )
+INFO  10:15:59,766 - #3 print
+INFO  10:15:59,767 - #28 (
+INFO  10:15:59,767 - #9 1
+INFO  10:15:59,767 - #29 )
+INFO  10:15:59,767 - #26 ;
+INFO  10:15:59,767 - #31 else
+INFO  10:15:59,767 - #3 print
+INFO  10:15:59,767 - #28 (
+INFO  10:15:59,767 - #15 -
+INFO  10:15:59,768 - #9 1
+INFO  10:15:59,768 - #29 )
+INFO  10:15:59,768 - #26 ;
+INFO  10:15:59,768 - #8 niz
+INFO  10:15:59,768 - #23 =
+INFO  10:15:59,768 - #7 new
+INFO  10:15:59,768 - #8 int
+INFO  10:15:59,768 - #21 [
+INFO  10:15:59,769 - #9 3
+INFO  10:15:59,769 - #22 ]
+INFO  10:15:59,769 - #26 ;
+INFO  10:15:59,769 - #8 niz
+INFO  10:15:59,769 - #21 [
+INFO  10:15:59,769 - #9 0
+INFO  10:15:59,769 - #22 ]
+INFO  10:15:59,770 - #23 =
+INFO  10:15:59,770 - #9 1
+INFO  10:15:59,770 - #26 ;
+INFO  10:15:59,770 - #8 niz
+INFO  10:15:59,770 - #21 [
+INFO  10:15:59,770 - #9 1
+INFO  10:15:59,771 - #22 ]
+INFO  10:15:59,771 - #23 =
+INFO  10:15:59,771 - #9 2
+INFO  10:15:59,771 - #26 ;
+INFO  10:15:59,771 - #8 niz
+INFO  10:15:59,771 - #21 [
+INFO  10:15:59,771 - #9 2
+INFO  10:15:59,771 - #22 ]
+INFO  10:15:59,772 - #23 =
+INFO  10:15:59,772 - #8 sum
+INFO  10:15:59,772 - #28 (
+INFO  10:15:59,772 - #8 niz
+INFO  10:15:59,773 - #21 [
+INFO  10:15:59,773 - #9 1
+INFO  10:15:59,773 - #22 ]
+INFO  10:15:59,773 - #27 ,
+INFO  10:15:59,773 - #8 niz
+INFO  10:15:59,774 - #21 [
+INFO  10:15:59,774 - #9 0
+INFO  10:15:59,774 - #22 ]
+INFO  10:15:59,774 - #29 )
+INFO  10:15:59,774 - #14 +
+INFO  10:15:59,774 - #9 1
+INFO  10:15:59,775 - #26 ;
+INFO  10:15:59,775 - #30 if
+INFO  10:15:59,775 - #28 (
+INFO  10:15:59,775 - #8 niz
+INFO  10:15:59,775 - #21 [
+INFO  10:15:59,775 - #9 2
+INFO  10:15:59,775 - #22 ]
+INFO  10:15:59,775 - #38 ==
+INFO  10:15:59,776 - #9 4
+INFO  10:15:59,776 - #29 )
+INFO  10:15:59,776 - #3 print
+INFO  10:15:59,776 - #28 (
+INFO  10:15:59,776 - #8 ord
+INFO  10:15:59,776 - #28 (
+INFO  10:15:59,777 - #10 A
+INFO  10:15:59,777 - #29 )
+INFO  10:15:59,778 - #29 )
+INFO  10:15:59,778 - #26 ;
+INFO  10:15:59,778 - #31 else
+INFO  10:15:59,778 - #3 print
+INFO  10:15:59,778 - #28 (
+INFO  10:15:59,778 - #8 ord
+INFO  10:15:59,778 - #28 (
+INFO  10:15:59,779 - #10 a
+INFO  10:15:59,779 - #29 )
+INFO  10:15:59,779 - #29 )
+INFO  10:15:59,779 - #26 ;
+INFO  10:15:59,779 - #3 print
+INFO  10:15:59,779 - #28 (
+INFO  10:15:59,779 - #8 eol
+INFO  10:15:59,779 - #29 )
+INFO  10:15:59,779 - #26 ;
+INFO  10:15:59,779 - #8 i
+INFO  10:15:59,779 - #23 =
+INFO  10:15:59,780 - #9 0
+INFO  10:15:59,780 - #26 ;
+INFO  10:15:59,780 - #32 do
+INFO  10:15:59,780 - #19 {
+INFO  10:15:59,780 - #30 if
+INFO  10:15:59,780 - #28 (
+INFO  10:15:59,780 - #8 i
+INFO  10:15:59,780 - #38 ==
+INFO  10:15:59,780 - #9 3
+INFO  10:15:59,780 - #29 )
+INFO  10:15:59,780 - #19 {
+INFO  10:15:59,781 - #8 i
+INFO  10:15:59,781 - #24 ++
+INFO  10:15:59,781 - #26 ;
+INFO  10:15:59,781 - #35 continue
+INFO  10:15:59,781 - #26 ;
+INFO  10:15:59,781 - #20 }
+INFO  10:15:59,782 - #30 if
+INFO  10:15:59,782 - #28 (
+INFO  10:15:59,783 - #8 i
+INFO  10:15:59,783 - #38 ==
+INFO  10:15:59,783 - #9 4
+INFO  10:15:59,783 - #29 )
+INFO  10:15:59,783 - #34 break
+INFO  10:15:59,783 - #26 ;
+INFO  10:15:59,783 - #8 i
+INFO  10:15:59,784 - #23 =
+INFO  10:15:59,785 - #8 inkrement
+INFO  10:15:59,785 - #28 (
+INFO  10:15:59,785 - #8 i
+INFO  10:15:59,785 - #29 )
+INFO  10:15:59,785 - #26 ;
+INFO  10:15:59,785 - #20 }
+INFO  10:15:59,785 - #33 while
+INFO  10:15:59,785 - #28 (
+INFO  10:15:59,785 - #11 true
+INFO  10:15:59,785 - #29 )
+INFO  10:15:59,786 - #26 ;
+INFO  10:15:59,786 - #30 if
+INFO  10:15:59,786 - #28 (
+INFO  10:15:59,786 - #8 i
+INFO  10:15:59,786 - #38 ==
+INFO  10:15:59,786 - #9 3
+INFO  10:15:59,786 - #29 )
+INFO  10:15:59,786 - #3 print
+INFO  10:15:59,786 - #28 (
+INFO  10:15:59,787 - #9 4
+INFO  10:15:59,787 - #29 )
+INFO  10:15:59,787 - #26 ;
+INFO  10:15:59,787 - #31 else
+INFO  10:15:59,787 - #3 print
+INFO  10:15:59,788 - #28 (
+INFO  10:15:59,788 - #15 -
+INFO  10:15:59,788 - #9 4
+INFO  10:15:59,788 - #29 )
+INFO  10:15:59,788 - #26 ;
+INFO  10:15:59,788 - #4 read
+INFO  10:15:59,789 - #28 (
+INFO  10:15:59,789 - #8 niz
+INFO  10:15:59,789 - #21 [
+INFO  10:15:59,789 - #9 0
+INFO  10:15:59,789 - #22 ]
+INFO  10:15:59,789 - #29 )
+INFO  10:15:59,789 - #26 ;
+INFO  10:15:59,789 - #4 read
+INFO  10:15:59,789 - #28 (
+INFO  10:15:59,789 - #8 niz
+INFO  10:15:59,789 - #21 [
+INFO  10:15:59,790 - #9 1
+INFO  10:15:59,790 - #22 ]
+INFO  10:15:59,790 - #29 )
+INFO  10:15:59,790 - #26 ;
+INFO  10:15:59,790 - #4 read
+INFO  10:15:59,790 - #28 (
+INFO  10:15:59,790 - #8 niz
+INFO  10:15:59,790 - #21 [
+INFO  10:15:59,790 - #9 2
+INFO  10:15:59,790 - #22 ]
+INFO  10:15:59,790 - #29 )
+INFO  10:15:59,790 - #26 ;
+INFO  10:15:59,790 - #3 print
+INFO  10:15:59,790 - #28 (
+INFO  10:15:59,790 - #8 eol
+INFO  10:15:59,790 - #29 )
+INFO  10:15:59,790 - #26 ;
+INFO  10:15:59,790 - #3 print
+INFO  10:15:59,791 - #28 (
+INFO  10:15:59,791 - #8 sum
+INFO  10:15:59,791 - #28 (
+INFO  10:15:59,791 - #8 sum
+INFO  10:15:59,791 - #28 (
+INFO  10:15:59,791 - #8 niz
+INFO  10:15:59,791 - #21 [
+INFO  10:15:59,791 - #9 0
+INFO  10:15:59,791 - #22 ]
+INFO  10:15:59,791 - #27 ,
+INFO  10:15:59,791 - #8 niz
+INFO  10:15:59,792 - #21 [
+INFO  10:15:59,792 - #9 1
+INFO  10:15:59,792 - #22 ]
+INFO  10:15:59,792 - #29 )
+INFO  10:15:59,792 - #27 ,
+INFO  10:15:59,792 - #8 niz
+INFO  10:15:59,792 - #21 [
+INFO  10:15:59,792 - #9 2
+INFO  10:15:59,792 - #22 ]
+INFO  10:15:59,792 - #29 )
+INFO  10:15:59,792 - #29 )
+INFO  10:15:59,793 - #26 ;
+INFO  10:15:59,793 - #20 }
+INFO  10:15:59,793 - #20 }
+INFO  10:15:59,794 - =====================SINTAKSNO_STABLO=========================
+INFO  10:15:59,805 - 
+Program_0(
+  Program_name(
+   test302
+  ) [Program_name]
+  Program_con_vars_multi(
+    Program_con_vars_multi(
+      Program_con_vars_single(
+        Part_var_decl(
+          Var_declaration(
+            Type(
+             int
+            ) [Type]
+            Var_single(
+              Var_normal(
+               i
+              ) [Var_normal]
+            ) [Var_single]
+          ) [Var_declaration]
+        ) [Part_var_decl]
+      ) [Program_con_vars_single]
+      Part_var_decl(
+        Var_declaration(
+          Type(
+           bool
+          ) [Type]
+          Var_single(
+            Var_normal(
+             ibool
+            ) [Var_normal]
+          ) [Var_single]
+        ) [Var_declaration]
+      ) [Part_var_decl]
+    ) [Program_con_vars_multi]
+    Part_var_decl(
+      Var_declaration(
+        Type(
+         int
+        ) [Type]
+        Var_single(
+          Var_array(
+           niz
+          ) [Var_array]
+        ) [Var_single]
+      ) [Var_declaration]
+    ) [Part_var_decl]
+  ) [Program_con_vars_multi]
+  Program_methods_multi(
+    Program_methods_multi(
+      Program_methods_single(
+        Meth_type_decl(
+          Meth_type_2(
+            Method_type_name(
+              Type(
+               int
+              ) [Type]
+             sum
+            ) [Method_type_name]
+            Param_multi(
+              Param_single(
+                Param_normal(
+                  Type(
+                   int
+                  ) [Type]
+                 z
+                ) [Param_normal]
+              ) [Param_single]
+              Param_normal(
+                Type(
+                 int
+                ) [Type]
+               d
+              ) [Param_normal]
+            ) [Param_multi]
+            Statement_single(
+              Stmt_return_val(
+                Expr_term_multi(
+                  Term_single(
+                    Factor_designator(
+                      Designator_1(
+                       z
+                      ) [Designator_1]
+                    ) [Factor_designator]
+                  ) [Term_single]
+                  More_term_single(
+                    More_term_part(
+                      Add_op_plus(
+                      ) [Add_op_plus]
+                      Term_single(
+                        Factor_designator(
+                          Designator_1(
+                           d
+                          ) [Designator_1]
+                        ) [Factor_designator]
+                      ) [Term_single]
+                    ) [More_term_part]
+                  ) [More_term_single]
+                ) [Expr_term_multi]
+              ) [Stmt_return_val]
+            ) [Statement_single]
+          ) [Meth_type_2]
+        ) [Meth_type_decl]
+      ) [Program_methods_single]
+      Meth_type_decl(
+        Meth_type_0(
+          Method_type_name(
+            Type(
+             int
+            ) [Type]
+           inkrement
+          ) [Method_type_name]
+          Param_single(
+            Param_normal(
+              Type(
+               int
+              ) [Type]
+             a
+            ) [Param_normal]
+          ) [Param_single]
+          Var_decl_single(
+            Var_declaration(
+              Type(
+               int
+              ) [Type]
+              Var_single(
+                Var_normal(
+                 pom
+                ) [Var_normal]
+              ) [Var_single]
+            ) [Var_declaration]
+          ) [Var_decl_single]
+          Statement_multi(
+            Statement_single(
+              Stmt_design(
+                Assignment(
+                  Designator_1(
+                   pom
+                  ) [Designator_1]
+                  Expr_term_single(
+                    Term_single(
+                      Factor_num_const(
+                       1
+                      ) [Factor_num_const]
+                    ) [Term_single]
+                  ) [Expr_term_single]
+                ) [Assignment]
+              ) [Stmt_design]
+            ) [Statement_single]
+            Stmt_return_val(
+              Expr_term_single(
+                Term_single(
+                  Factor_meth_call(
+                    Designator_1(
+                     sum
+                    ) [Designator_1]
+                    Act_Pars_Multi(
+                      Act_Pars_Single(
+                        Expr_term_single(
+                          Term_single(
+                            Factor_designator(
+                              Designator_1(
+                               a
+                              ) [Designator_1]
+                            ) [Factor_designator]
+                          ) [Term_single]
+                        ) [Expr_term_single]
+                      ) [Act_Pars_Single]
+                      Expr_term_single(
+                        Term_single(
+                          Factor_designator(
+                            Designator_1(
+                             pom
+                            ) [Designator_1]
+                          ) [Factor_designator]
+                        ) [Term_single]
+                      ) [Expr_term_single]
+                    ) [Act_Pars_Multi]
+                  ) [Factor_meth_call]
+                ) [Term_single]
+              ) [Expr_term_single]
+            ) [Stmt_return_val]
+          ) [Statement_multi]
+        ) [Meth_type_0]
+      ) [Meth_type_decl]
+    ) [Program_methods_multi]
+    Meth_void_decl(
+      Meth_void_6(
+        Method_void_name(
+         main
+        ) [Method_void_name]
+        Statement_multi(
+          Statement_multi(
+            Statement_multi(
+              Statement_multi(
+                Statement_multi(
+                  Statement_multi(
+                    Statement_multi(
+                      Statement_multi(
+                        Statement_multi(
+                          Statement_multi(
+                            Statement_multi(
+                              Statement_multi(
+                                Statement_multi(
+                                  Statement_multi(
+                                    Statement_multi(
+                                      Statement_multi(
+                                        Statement_multi(
+                                          Statement_multi(
+                                            Statement_single(
+                                              Stmt_if_else(
+                                                Stmt_kw_if(
+                                                ) [Stmt_kw_if]
+                                                Stmt_if_body(
+                                                  Condition(
+                                                    Condition_one(
+                                                      Cond_term_one(
+                                                        Cond_fact_two(
+                                                          Expr_term_single(
+                                                            Term_single(
+                                                              Factor_num_const(
+                                                               1
+                                                              ) [Factor_num_const]
+                                                            ) [Term_single]
+                                                          ) [Expr_term_single]
+                                                          Rel_op_ne(
+                                                          ) [Rel_op_ne]
+                                                          Expr_term_single(
+                                                            Term_single(
+                                                              Factor_num_const(
+                                                               1
+                                                              ) [Factor_num_const]
+                                                            ) [Term_single]
+                                                          ) [Expr_term_single]
+                                                        ) [Cond_fact_two]
+                                                      ) [Cond_term_one]
+                                                    ) [Condition_one]
+                                                  ) [Condition]
+                                                  Stmt_print_1(
+                                                    Expr_neg_term_single(
+                                                      Term_single(
+                                                        Factor_num_const(
+                                                         6
+                                                        ) [Factor_num_const]
+                                                      ) [Term_single]
+                                                    ) [Expr_neg_term_single]
+                                                  ) [Stmt_print_1]
+                                                ) [Stmt_if_body]
+                                                Stmt_print_1(
+                                                  Expr_term_single(
+                                                    Term_single(
+                                                      Factor_num_const(
+                                                       0
+                                                      ) [Factor_num_const]
+                                                    ) [Term_single]
+                                                  ) [Expr_term_single]
+                                                ) [Stmt_print_1]
+                                              ) [Stmt_if_else]
+                                            ) [Statement_single]
+                                            Stmt_design(
+                                              Assignment(
+                                                Designator_1(
+                                                 ibool
+                                                ) [Designator_1]
+                                                Expr_term_single(
+                                                  Term_single(
+                                                    Factor_bool_const(
+                                                     false
+                                                    ) [Factor_bool_const]
+                                                  ) [Term_single]
+                                                ) [Expr_term_single]
+                                              ) [Assignment]
+                                            ) [Stmt_design]
+                                          ) [Statement_multi]
+                                          Stmt_design(
+                                            Assignment(
+                                              Designator_1(
+                                               i
+                                              ) [Designator_1]
+                                              Expr_term_single(
+                                                Term_single(
+                                                  Factor_num_const(
+                                                   0
+                                                  ) [Factor_num_const]
+                                                ) [Term_single]
+                                              ) [Expr_term_single]
+                                            ) [Assignment]
+                                          ) [Stmt_design]
+                                        ) [Statement_multi]
+                                        Stmt_do_while(
+                                          Stmt_kw_do(
+                                          ) [Stmt_kw_do]
+                                          Stmt_list(
+                                            Statement_multi(
+                                              Statement_single(
+                                                Stmt_if(
+                                                  Stmt_kw_if(
+                                                  ) [Stmt_kw_if]
+                                                  Stmt_if_body(
+                                                    Condition(
+                                                      Condition_one(
+                                                        Cond_term_one(
+                                                          Cond_fact_two(
+                                                            Expr_term_single(
+                                                              Term_single(
+                                                                Factor_designator(
+                                                                  Designator_1(
+                                                                   i
+                                                                  ) [Designator_1]
+                                                                ) [Factor_designator]
+                                                              ) [Term_single]
+                                                            ) [Expr_term_single]
+                                                            Rel_op_eq(
+                                                            ) [Rel_op_eq]
+                                                            Expr_term_single(
+                                                              Term_single(
+                                                                Factor_num_const(
+                                                                 2
+                                                                ) [Factor_num_const]
+                                                              ) [Term_single]
+                                                            ) [Expr_term_single]
+                                                          ) [Cond_fact_two]
+                                                        ) [Cond_term_one]
+                                                      ) [Condition_one]
+                                                    ) [Condition]
+                                                    Stmt_design(
+                                                      Assignment(
+                                                        Designator_1(
+                                                         ibool
+                                                        ) [Designator_1]
+                                                        Expr_term_single(
+                                                          Term_single(
+                                                            Factor_bool_const(
+                                                             true
+                                                            ) [Factor_bool_const]
+                                                          ) [Term_single]
+                                                        ) [Expr_term_single]
+                                                      ) [Assignment]
+                                                    ) [Stmt_design]
+                                                  ) [Stmt_if_body]
+                                                ) [Stmt_if]
+                                              ) [Statement_single]
+                                              Stmt_design(
+                                                Increment(
+                                                  Designator_1(
+                                                   i
+                                                  ) [Designator_1]
+                                                ) [Increment]
+                                              ) [Stmt_design]
+                                            ) [Statement_multi]
+                                          ) [Stmt_list]
+                                          Condition(
+                                            Condition_one(
+                                              Cond_term_one(
+                                                Cond_fact_two(
+                                                  Expr_term_single(
+                                                    Term_single(
+                                                      Factor_designator(
+                                                        Designator_1(
+                                                         i
+                                                        ) [Designator_1]
+                                                      ) [Factor_designator]
+                                                    ) [Term_single]
+                                                  ) [Expr_term_single]
+                                                  Rel_op_lt(
+                                                  ) [Rel_op_lt]
+                                                  Expr_term_single(
+                                                    Term_single(
+                                                      Factor_num_const(
+                                                       5
+                                                      ) [Factor_num_const]
+                                                    ) [Term_single]
+                                                  ) [Expr_term_single]
+                                                ) [Cond_fact_two]
+                                              ) [Cond_term_one]
+                                            ) [Condition_one]
+                                          ) [Condition]
+                                        ) [Stmt_do_while]
+                                      ) [Statement_multi]
+                                      Stmt_if(
+                                        Stmt_kw_if(
+                                        ) [Stmt_kw_if]
+                                        Stmt_if_body(
+                                          Condition(
+                                            Condition_one(
+                                              Cond_term_one(
+                                                Cond_fact_one(
+                                                  Expr_term_single(
+                                                    Term_single(
+                                                      Factor_designator(
+                                                        Designator_1(
+                                                         ibool
+                                                        ) [Designator_1]
+                                                      ) [Factor_designator]
+                                                    ) [Term_single]
+                                                  ) [Expr_term_single]
+                                                ) [Cond_fact_one]
+                                              ) [Cond_term_one]
+                                            ) [Condition_one]
+                                          ) [Condition]
+                                          Stmt_if_else(
+                                            Stmt_kw_if(
+                                            ) [Stmt_kw_if]
+                                            Stmt_if_body(
+                                              Condition(
+                                                Condition_one(
+                                                  Cond_term_one(
+                                                    Cond_fact_two(
+                                                      Expr_term_single(
+                                                        Term_single(
+                                                          Factor_designator(
+                                                            Designator_1(
+                                                             i
+                                                            ) [Designator_1]
+                                                          ) [Factor_designator]
+                                                        ) [Term_single]
+                                                      ) [Expr_term_single]
+                                                      Rel_op_eq(
+                                                      ) [Rel_op_eq]
+                                                      Expr_term_single(
+                                                        Term_single(
+                                                          Factor_num_const(
+                                                           5
+                                                          ) [Factor_num_const]
+                                                        ) [Term_single]
+                                                      ) [Expr_term_single]
+                                                    ) [Cond_fact_two]
+                                                  ) [Cond_term_one]
+                                                ) [Condition_one]
+                                              ) [Condition]
+                                              Stmt_print_1(
+                                                Expr_term_single(
+                                                  Term_single(
+                                                    Factor_num_const(
+                                                     1
+                                                    ) [Factor_num_const]
+                                                  ) [Term_single]
+                                                ) [Expr_term_single]
+                                              ) [Stmt_print_1]
+                                            ) [Stmt_if_body]
+                                            Stmt_print_1(
+                                              Expr_neg_term_single(
+                                                Term_single(
+                                                  Factor_num_const(
+                                                   1
+                                                  ) [Factor_num_const]
+                                                ) [Term_single]
+                                              ) [Expr_neg_term_single]
+                                            ) [Stmt_print_1]
+                                          ) [Stmt_if_else]
+                                        ) [Stmt_if_body]
+                                      ) [Stmt_if]
+                                    ) [Statement_multi]
+                                    Stmt_design(
+                                      Assignment(
+                                        Designator_1(
+                                         niz
+                                        ) [Designator_1]
+                                        Expr_term_single(
+                                          Term_single(
+                                            Factor_new_array(
+                                              Type(
+                                               int
+                                              ) [Type]
+                                              Expr_term_single(
+                                                Term_single(
+                                                  Factor_num_const(
+                                                   3
+                                                  ) [Factor_num_const]
+                                                ) [Term_single]
+                                              ) [Expr_term_single]
+                                            ) [Factor_new_array]
+                                          ) [Term_single]
+                                        ) [Expr_term_single]
+                                      ) [Assignment]
+                                    ) [Stmt_design]
+                                  ) [Statement_multi]
+                                  Stmt_design(
+                                    Assignment(
+                                      Designator_0(
+                                       niz
+                                        Expr_term_single(
+                                          Term_single(
+                                            Factor_num_const(
+                                             0
+                                            ) [Factor_num_const]
+                                          ) [Term_single]
+                                        ) [Expr_term_single]
+                                      ) [Designator_0]
+                                      Expr_term_single(
+                                        Term_single(
+                                          Factor_num_const(
+                                           1
+                                          ) [Factor_num_const]
+                                        ) [Term_single]
+                                      ) [Expr_term_single]
+                                    ) [Assignment]
+                                  ) [Stmt_design]
+                                ) [Statement_multi]
+                                Stmt_design(
+                                  Assignment(
+                                    Designator_0(
+                                     niz
+                                      Expr_term_single(
+                                        Term_single(
+                                          Factor_num_const(
+                                           1
+                                          ) [Factor_num_const]
+                                        ) [Term_single]
+                                      ) [Expr_term_single]
+                                    ) [Designator_0]
+                                    Expr_term_single(
+                                      Term_single(
+                                        Factor_num_const(
+                                         2
+                                        ) [Factor_num_const]
+                                      ) [Term_single]
+                                    ) [Expr_term_single]
+                                  ) [Assignment]
+                                ) [Stmt_design]
+                              ) [Statement_multi]
+                              Stmt_design(
+                                Assignment(
+                                  Designator_0(
+                                   niz
+                                    Expr_term_single(
+                                      Term_single(
+                                        Factor_num_const(
+                                         2
+                                        ) [Factor_num_const]
+                                      ) [Term_single]
+                                    ) [Expr_term_single]
+                                  ) [Designator_0]
+                                  Expr_term_multi(
+                                    Term_single(
+                                      Factor_meth_call(
+                                        Designator_1(
+                                         sum
+                                        ) [Designator_1]
+                                        Act_Pars_Multi(
+                                          Act_Pars_Single(
+                                            Expr_term_single(
+                                              Term_single(
+                                                Factor_designator(
+                                                  Designator_0(
+                                                   niz
+                                                    Expr_term_single(
+                                                      Term_single(
+                                                        Factor_num_const(
+                                                         1
+                                                        ) [Factor_num_const]
+                                                      ) [Term_single]
+                                                    ) [Expr_term_single]
+                                                  ) [Designator_0]
+                                                ) [Factor_designator]
+                                              ) [Term_single]
+                                            ) [Expr_term_single]
+                                          ) [Act_Pars_Single]
+                                          Expr_term_single(
+                                            Term_single(
+                                              Factor_designator(
+                                                Designator_0(
+                                                 niz
+                                                  Expr_term_single(
+                                                    Term_single(
+                                                      Factor_num_const(
+                                                       0
+                                                      ) [Factor_num_const]
+                                                    ) [Term_single]
+                                                  ) [Expr_term_single]
+                                                ) [Designator_0]
+                                              ) [Factor_designator]
+                                            ) [Term_single]
+                                          ) [Expr_term_single]
+                                        ) [Act_Pars_Multi]
+                                      ) [Factor_meth_call]
+                                    ) [Term_single]
+                                    More_term_single(
+                                      More_term_part(
+                                        Add_op_plus(
+                                        ) [Add_op_plus]
+                                        Term_single(
+                                          Factor_num_const(
+                                           1
+                                          ) [Factor_num_const]
+                                        ) [Term_single]
+                                      ) [More_term_part]
+                                    ) [More_term_single]
+                                  ) [Expr_term_multi]
+                                ) [Assignment]
+                              ) [Stmt_design]
+                            ) [Statement_multi]
+                            Stmt_if_else(
+                              Stmt_kw_if(
+                              ) [Stmt_kw_if]
+                              Stmt_if_body(
+                                Condition(
+                                  Condition_one(
+                                    Cond_term_one(
+                                      Cond_fact_two(
+                                        Expr_term_single(
+                                          Term_single(
+                                            Factor_designator(
+                                              Designator_0(
+                                               niz
+                                                Expr_term_single(
+                                                  Term_single(
+                                                    Factor_num_const(
+                                                     2
+                                                    ) [Factor_num_const]
+                                                  ) [Term_single]
+                                                ) [Expr_term_single]
+                                              ) [Designator_0]
+                                            ) [Factor_designator]
+                                          ) [Term_single]
+                                        ) [Expr_term_single]
+                                        Rel_op_eq(
+                                        ) [Rel_op_eq]
+                                        Expr_term_single(
+                                          Term_single(
+                                            Factor_num_const(
+                                             4
+                                            ) [Factor_num_const]
+                                          ) [Term_single]
+                                        ) [Expr_term_single]
+                                      ) [Cond_fact_two]
+                                    ) [Cond_term_one]
+                                  ) [Condition_one]
+                                ) [Condition]
+                                Stmt_print_1(
+                                  Expr_term_single(
+                                    Term_single(
+                                      Factor_meth_call(
+                                        Designator_1(
+                                         ord
+                                        ) [Designator_1]
+                                        Act_Pars_Single(
+                                          Expr_term_single(
+                                            Term_single(
+                                              Factor_char_const(
+                                               A
+                                              ) [Factor_char_const]
+                                            ) [Term_single]
+                                          ) [Expr_term_single]
+                                        ) [Act_Pars_Single]
+                                      ) [Factor_meth_call]
+                                    ) [Term_single]
+                                  ) [Expr_term_single]
+                                ) [Stmt_print_1]
+                              ) [Stmt_if_body]
+                              Stmt_print_1(
+                                Expr_term_single(
+                                  Term_single(
+                                    Factor_meth_call(
+                                      Designator_1(
+                                       ord
+                                      ) [Designator_1]
+                                      Act_Pars_Single(
+                                        Expr_term_single(
+                                          Term_single(
+                                            Factor_char_const(
+                                             a
+                                            ) [Factor_char_const]
+                                          ) [Term_single]
+                                        ) [Expr_term_single]
+                                      ) [Act_Pars_Single]
+                                    ) [Factor_meth_call]
+                                  ) [Term_single]
+                                ) [Expr_term_single]
+                              ) [Stmt_print_1]
+                            ) [Stmt_if_else]
+                          ) [Statement_multi]
+                          Stmt_print_1(
+                            Expr_term_single(
+                              Term_single(
+                                Factor_designator(
+                                  Designator_1(
+                                   eol
+                                  ) [Designator_1]
+                                ) [Factor_designator]
+                              ) [Term_single]
+                            ) [Expr_term_single]
+                          ) [Stmt_print_1]
+                        ) [Statement_multi]
+                        Stmt_design(
+                          Assignment(
+                            Designator_1(
+                             i
+                            ) [Designator_1]
+                            Expr_term_single(
+                              Term_single(
+                                Factor_num_const(
+                                 0
+                                ) [Factor_num_const]
+                              ) [Term_single]
+                            ) [Expr_term_single]
+                          ) [Assignment]
+                        ) [Stmt_design]
+                      ) [Statement_multi]
+                      Stmt_do_while(
+                        Stmt_kw_do(
+                        ) [Stmt_kw_do]
+                        Stmt_list(
+                          Statement_multi(
+                            Statement_multi(
+                              Statement_single(
+                                Stmt_if(
+                                  Stmt_kw_if(
+                                  ) [Stmt_kw_if]
+                                  Stmt_if_body(
+                                    Condition(
+                                      Condition_one(
+                                        Cond_term_one(
+                                          Cond_fact_two(
+                                            Expr_term_single(
+                                              Term_single(
+                                                Factor_designator(
+                                                  Designator_1(
+                                                   i
+                                                  ) [Designator_1]
+                                                ) [Factor_designator]
+                                              ) [Term_single]
+                                            ) [Expr_term_single]
+                                            Rel_op_eq(
+                                            ) [Rel_op_eq]
+                                            Expr_term_single(
+                                              Term_single(
+                                                Factor_num_const(
+                                                 3
+                                                ) [Factor_num_const]
+                                              ) [Term_single]
+                                            ) [Expr_term_single]
+                                          ) [Cond_fact_two]
+                                        ) [Cond_term_one]
+                                      ) [Condition_one]
+                                    ) [Condition]
+                                    Stmt_list(
+                                      Statement_multi(
+                                        Statement_single(
+                                          Stmt_design(
+                                            Increment(
+                                              Designator_1(
+                                               i
+                                              ) [Designator_1]
+                                            ) [Increment]
+                                          ) [Stmt_design]
+                                        ) [Statement_single]
+                                        Stmt_continue(
+                                        ) [Stmt_continue]
+                                      ) [Statement_multi]
+                                    ) [Stmt_list]
+                                  ) [Stmt_if_body]
+                                ) [Stmt_if]
+                              ) [Statement_single]
+                              Stmt_if(
+                                Stmt_kw_if(
+                                ) [Stmt_kw_if]
+                                Stmt_if_body(
+                                  Condition(
+                                    Condition_one(
+                                      Cond_term_one(
+                                        Cond_fact_two(
+                                          Expr_term_single(
+                                            Term_single(
+                                              Factor_designator(
+                                                Designator_1(
+                                                 i
+                                                ) [Designator_1]
+                                              ) [Factor_designator]
+                                            ) [Term_single]
+                                          ) [Expr_term_single]
+                                          Rel_op_eq(
+                                          ) [Rel_op_eq]
+                                          Expr_term_single(
+                                            Term_single(
+                                              Factor_num_const(
+                                               4
+                                              ) [Factor_num_const]
+                                            ) [Term_single]
+                                          ) [Expr_term_single]
+                                        ) [Cond_fact_two]
+                                      ) [Cond_term_one]
+                                    ) [Condition_one]
+                                  ) [Condition]
+                                  Stmt_break(
+                                  ) [Stmt_break]
+                                ) [Stmt_if_body]
+                              ) [Stmt_if]
+                            ) [Statement_multi]
+                            Stmt_design(
+                              Assignment(
+                                Designator_1(
+                                 i
+                                ) [Designator_1]
+                                Expr_term_single(
+                                  Term_single(
+                                    Factor_meth_call(
+                                      Designator_1(
+                                       inkrement
+                                      ) [Designator_1]
+                                      Act_Pars_Single(
+                                        Expr_term_single(
+                                          Term_single(
+                                            Factor_designator(
+                                              Designator_1(
+                                               i
+                                              ) [Designator_1]
+                                            ) [Factor_designator]
+                                          ) [Term_single]
+                                        ) [Expr_term_single]
+                                      ) [Act_Pars_Single]
+                                    ) [Factor_meth_call]
+                                  ) [Term_single]
+                                ) [Expr_term_single]
+                              ) [Assignment]
+                            ) [Stmt_design]
+                          ) [Statement_multi]
+                        ) [Stmt_list]
+                        Condition(
+                          Condition_one(
+                            Cond_term_one(
+                              Cond_fact_one(
+                                Expr_term_single(
+                                  Term_single(
+                                    Factor_bool_const(
+                                     true
+                                    ) [Factor_bool_const]
+                                  ) [Term_single]
+                                ) [Expr_term_single]
+                              ) [Cond_fact_one]
+                            ) [Cond_term_one]
+                          ) [Condition_one]
+                        ) [Condition]
+                      ) [Stmt_do_while]
+                    ) [Statement_multi]
+                    Stmt_if_else(
+                      Stmt_kw_if(
+                      ) [Stmt_kw_if]
+                      Stmt_if_body(
+                        Condition(
+                          Condition_one(
+                            Cond_term_one(
+                              Cond_fact_two(
+                                Expr_term_single(
+                                  Term_single(
+                                    Factor_designator(
+                                      Designator_1(
+                                       i
+                                      ) [Designator_1]
+                                    ) [Factor_designator]
+                                  ) [Term_single]
+                                ) [Expr_term_single]
+                                Rel_op_eq(
+                                ) [Rel_op_eq]
+                                Expr_term_single(
+                                  Term_single(
+                                    Factor_num_const(
+                                     3
+                                    ) [Factor_num_const]
+                                  ) [Term_single]
+                                ) [Expr_term_single]
+                              ) [Cond_fact_two]
+                            ) [Cond_term_one]
+                          ) [Condition_one]
+                        ) [Condition]
+                        Stmt_print_1(
+                          Expr_term_single(
+                            Term_single(
+                              Factor_num_const(
+                               4
+                              ) [Factor_num_const]
+                            ) [Term_single]
+                          ) [Expr_term_single]
+                        ) [Stmt_print_1]
+                      ) [Stmt_if_body]
+                      Stmt_print_1(
+                        Expr_neg_term_single(
+                          Term_single(
+                            Factor_num_const(
+                             4
+                            ) [Factor_num_const]
+                          ) [Term_single]
+                        ) [Expr_neg_term_single]
+                      ) [Stmt_print_1]
+                    ) [Stmt_if_else]
+                  ) [Statement_multi]
+                  Stmt_Read(
+                    Designator_0(
+                     niz
+                      Expr_term_single(
+                        Term_single(
+                          Factor_num_const(
+                           0
+                          ) [Factor_num_const]
+                        ) [Term_single]
+                      ) [Expr_term_single]
+                    ) [Designator_0]
+                  ) [Stmt_Read]
+                ) [Statement_multi]
+                Stmt_Read(
+                  Designator_0(
+                   niz
+                    Expr_term_single(
+                      Term_single(
+                        Factor_num_const(
+                         1
+                        ) [Factor_num_const]
+                      ) [Term_single]
+                    ) [Expr_term_single]
+                  ) [Designator_0]
+                ) [Stmt_Read]
+              ) [Statement_multi]
+              Stmt_Read(
+                Designator_0(
+                 niz
+                  Expr_term_single(
+                    Term_single(
+                      Factor_num_const(
+                       2
+                      ) [Factor_num_const]
+                    ) [Term_single]
+                  ) [Expr_term_single]
+                ) [Designator_0]
+              ) [Stmt_Read]
+            ) [Statement_multi]
+            Stmt_print_1(
+              Expr_term_single(
+                Term_single(
+                  Factor_designator(
+                    Designator_1(
+                     eol
+                    ) [Designator_1]
+                  ) [Factor_designator]
+                ) [Term_single]
+              ) [Expr_term_single]
+            ) [Stmt_print_1]
+          ) [Statement_multi]
+          Stmt_print_1(
+            Expr_term_single(
+              Term_single(
+                Factor_meth_call(
+                  Designator_1(
+                   sum
+                  ) [Designator_1]
+                  Act_Pars_Multi(
+                    Act_Pars_Single(
+                      Expr_term_single(
+                        Term_single(
+                          Factor_meth_call(
+                            Designator_1(
+                             sum
+                            ) [Designator_1]
+                            Act_Pars_Multi(
+                              Act_Pars_Single(
+                                Expr_term_single(
+                                  Term_single(
+                                    Factor_designator(
+                                      Designator_0(
+                                       niz
+                                        Expr_term_single(
+                                          Term_single(
+                                            Factor_num_const(
+                                             0
+                                            ) [Factor_num_const]
+                                          ) [Term_single]
+                                        ) [Expr_term_single]
+                                      ) [Designator_0]
+                                    ) [Factor_designator]
+                                  ) [Term_single]
+                                ) [Expr_term_single]
+                              ) [Act_Pars_Single]
+                              Expr_term_single(
+                                Term_single(
+                                  Factor_designator(
+                                    Designator_0(
+                                     niz
+                                      Expr_term_single(
+                                        Term_single(
+                                          Factor_num_const(
+                                           1
+                                          ) [Factor_num_const]
+                                        ) [Term_single]
+                                      ) [Expr_term_single]
+                                    ) [Designator_0]
+                                  ) [Factor_designator]
+                                ) [Term_single]
+                              ) [Expr_term_single]
+                            ) [Act_Pars_Multi]
+                          ) [Factor_meth_call]
+                        ) [Term_single]
+                      ) [Expr_term_single]
+                    ) [Act_Pars_Single]
+                    Expr_term_single(
+                      Term_single(
+                        Factor_designator(
+                          Designator_0(
+                           niz
+                            Expr_term_single(
+                              Term_single(
+                                Factor_num_const(
+                                 2
+                                ) [Factor_num_const]
+                              ) [Term_single]
+                            ) [Expr_term_single]
+                          ) [Designator_0]
+                        ) [Factor_designator]
+                      ) [Term_single]
+                    ) [Expr_term_single]
+                  ) [Act_Pars_Multi]
+                ) [Factor_meth_call]
+              ) [Term_single]
+            ) [Expr_term_single]
+          ) [Stmt_print_1]
+        ) [Statement_multi]
+      ) [Meth_void_6]
+    ) [Meth_void_decl]
+  ) [Program_methods_multi]
+) [Program_0]
+INFO  10:15:59,813 - ==============================================================
+INFO  10:15:59,830 - Pocetak obrade programa test302 na liniji 3
+INFO  10:15:59,830 - Pronadjen tip int u tabeli simbola na liniji 6
+INFO  10:15:59,831 - Deklarisana promenljiva i na liniji 6
+INFO  10:15:59,831 - Pronadjen tip bool u tabeli simbola na liniji 7
+INFO  10:15:59,831 - Deklarisana promenljiva ibool na liniji 7
+INFO  10:15:59,831 - Pronadjen tip int u tabeli simbola na liniji 9
+INFO  10:15:59,831 - Deklarisan niz niz na liniji 9
+INFO  10:15:59,831 - Pronadjen tip int u tabeli simbola na liniji 12
+INFO  10:15:59,832 - Pocetak obrade metode sum na liniji 12
+INFO  10:15:59,832 - Pronadjen tip int u tabeli simbola na liniji 12
+INFO  10:15:59,832 - Pronadjen tip int u tabeli simbola na liniji 12
+INFO  10:15:59,833 - Zavrsetak obrade metode (funkcije) sum na liniji 12
+INFO  10:15:59,833 - Pronadjen tip int u tabeli simbola na liniji 17
+INFO  10:15:59,833 - Pocetak obrade metode inkrement na liniji 17
+INFO  10:15:59,833 - Pronadjen tip int u tabeli simbola na liniji 17
+INFO  10:15:59,833 - Pronadjen tip int u tabeli simbola na liniji 17
+INFO  10:15:59,833 - Deklarisana promenljiva pom na liniji 17
+INFO  10:15:59,833 - Pronadjen poziv metode (funkcije) sum na liniji 20
+INFO  10:15:59,834 - Zavrsetak obrade metode (funkcije) inkrement na liniji 17
+INFO  10:15:59,834 - Pocetak obrade metode main na liniji 23
+INFO  10:15:59,834 - Pronadjen tip int u tabeli simbola na liniji 44
+INFO  10:15:59,834 - Pronadjen poziv metode (funkcije) sum na liniji 47
+INFO  10:15:59,834 - Pronadjen poziv metode (funkcije) ord na liniji 48
+INFO  10:15:59,834 - Pronadjen poziv metode (funkcije) ord na liniji 49
+INFO  10:15:59,835 - Pronadjen poziv metode (funkcije) inkrement na liniji 61
+INFO  10:15:59,835 - Pronadjen poziv metode (funkcije) sum na liniji 72
+INFO  10:15:59,835 - Pronadjen poziv metode (funkcije) sum na liniji 72
+INFO  10:15:59,835 - Zavrsetak obrade metode (procedure) main na liniji 23
+INFO  10:15:59,835 - Zavrsetak obrade programa test302 na liniji 3
+INFO  10:15:59,835 - ======================TABELA_SIMBOLA==========================
+INFO  10:15:59,836 - 
+Type int: int
+Type char: char
+Con eol: char
+Con null: 
+Meth chr: char
+	Param0 Var i: int
+Meth ord: int
+	Param0 Var ch: char
+Meth len: int
+	Param0 Var arr: array of none
+Type bool: bool
+
+Prog test302: none
+	Globl Var i: int
+	Globl Var ibool: bool
+	Globl Var niz: array of int
+Meth sum: int
+	Param0 Var z: int
+	Param1 Var d: int
+Meth inkrement: int
+	Param0 Var a: int
+	Local Var pom: int
+Meth main: none
+
+INFO  10:15:59,836 - ==============================================================
+INFO  10:15:59,836 - Sintaksna i semanticka analiza uspesno zavrsena!
+INFO  10:15:59,836 - ==============================================================
+INFO  10:15:59,836 - ======================GENERISANJE_KODA========================
+INFO  10:15:59,900 - Generisanje koda uspesno zavrseno!
+INFO  10:15:59,901 - Generisanje izlaznog fajla test\program.obj
+INFO  10:15:59,901 - ==============================================================

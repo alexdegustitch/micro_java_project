@@ -1,0 +1,22 @@
+program Program
+const int c = 5, d = 99; // konstanta 1 i 2
+int e; // globalna promenljiva
+{    	    
+   void process(int a[], int n) int i; {    	
+    	i = 0;    	
+   		do {
+   			 print(a[i]);
+   			 i++;   			 
+   		} while (i < n);   		   		
+   }      
+   
+   void main() int a[]; int i; {
+   		e = 3;   		   		
+   		a = new int [e];   		  		   		
+   		a[0] = 13;
+   		a[1] = 23;   
+   		a[2] = 39;		   		   
+   		process(a, e);
+   		print(d); // ispis konstante 2    		  		
+   }
+}

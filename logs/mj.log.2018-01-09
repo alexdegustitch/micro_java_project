@@ -1,0 +1,927 @@
+INFO  02:53:49,642 - #2 program
+INFO  02:53:49,644 - #8 Program
+INFO  02:53:49,645 - #20 {
+INFO  02:53:49,645 - #5 const
+INFO  02:53:49,645 - #8 int
+INFO  02:53:49,645 - #8 c
+INFO  02:53:49,647 - #24 =
+INFO  02:53:49,647 - #9 10
+INFO  02:53:49,647 - #27 ;
+INFO  02:53:49,647 - #5 const
+INFO  02:53:49,649 - #8 int
+INFO  02:53:49,649 - #8 d
+INFO  02:53:49,649 - #24 =
+INFO  02:53:49,649 - #9 99
+INFO  02:53:49,649 - #28 ,
+INFO  02:53:49,649 - #8 eps
+INFO  02:53:49,649 - #24 =
+INFO  02:53:49,650 - #9 2
+INFO  02:53:49,650 - #27 ;
+INFO  02:53:49,650 - #8 int
+INFO  02:53:49,650 - #8 e
+INFO  02:53:49,650 - #27 ;
+INFO  02:53:49,650 - #6 void
+INFO  02:53:49,653 - #8 test
+INFO  02:53:49,653 - #29 (
+INFO  02:53:49,653 - #30 )
+INFO  02:53:49,653 - #20 {
+INFO  02:53:49,654 - #8 int
+INFO  02:53:49,654 - #8 a
+INFO  02:53:49,654 - #28 ,
+INFO  02:53:49,654 - #8 b
+INFO  02:53:49,654 - #27 ;
+INFO  02:53:49,654 - #8 bool
+INFO  02:53:49,654 - #8 cond
+INFO  02:53:49,654 - #27 ;
+INFO  02:53:49,654 - #8 a
+INFO  02:53:49,655 - #24 =
+INFO  02:53:49,656 - #9 3
+INFO  02:53:49,656 - #27 ;
+INFO  02:53:49,656 - #8 b
+INFO  02:53:49,657 - #24 =
+INFO  02:53:49,657 - #9 5
+INFO  02:53:49,657 - #27 ;
+INFO  02:53:49,657 - #8 cond
+INFO  02:53:49,657 - #24 =
+INFO  02:53:49,657 - #11 true
+INFO  02:53:49,657 - #27 ;
+INFO  02:53:49,659 - #31 if
+INFO  02:53:49,659 - #29 (
+INFO  02:53:49,659 - #9 2
+INFO  02:53:49,659 - #17 *
+INFO  02:53:49,659 - #29 (
+INFO  02:53:49,661 - #8 a
+INFO  02:53:49,661 - #16 -
+INFO  02:53:49,661 - #8 b
+INFO  02:53:49,662 - #16 -
+INFO  02:53:49,663 - #9 1
+INFO  02:53:49,663 - #30 )
+INFO  02:53:49,664 - #16 -
+INFO  02:53:49,665 - #9 14
+INFO  02:53:49,665 - #38 >
+INFO  02:53:49,665 - #9 0
+INFO  02:53:49,667 - #14 ||
+INFO  02:53:49,667 - #8 cond
+INFO  02:53:49,668 - #30 )
+INFO  02:53:49,668 - #3 print
+INFO  02:53:49,668 - #29 (
+INFO  02:53:49,668 - #8 a
+INFO  02:53:49,668 - #15 +
+INFO  02:53:49,668 - #8 b
+INFO  02:53:49,669 - #30 )
+INFO  02:53:49,670 - #27 ;
+INFO  02:53:49,670 - #21 }
+INFO  02:53:49,670 - #8 int
+INFO  02:53:49,677 - #8 max
+INFO  02:53:49,677 - #29 (
+INFO  02:53:49,677 - #8 int
+INFO  02:53:49,680 - #8 a
+INFO  02:53:49,680 - #28 ,
+INFO  02:53:49,680 - #8 int
+INFO  02:53:49,680 - #8 b
+INFO  02:53:49,681 - #30 )
+INFO  02:53:49,681 - #20 {
+INFO  02:53:49,681 - #31 if
+INFO  02:53:49,681 - #29 (
+INFO  02:53:49,681 - #8 a
+INFO  02:53:49,681 - #38 >
+INFO  02:53:49,681 - #8 b
+INFO  02:53:49,682 - #30 )
+INFO  02:53:49,682 - #20 {
+INFO  02:53:49,682 - #37 return
+INFO  02:53:49,682 - #8 a
+INFO  02:53:49,682 - #27 ;
+INFO  02:53:49,682 - #21 }
+INFO  02:53:49,682 - #32 else
+INFO  02:53:49,683 - #37 return
+INFO  02:53:49,683 - #8 b
+INFO  02:53:49,683 - #27 ;
+INFO  02:53:49,683 - #21 }
+INFO  02:53:49,683 - #8 int
+INFO  02:53:49,684 - #8 min
+INFO  02:53:49,684 - #29 (
+INFO  02:53:49,684 - #8 int
+INFO  02:53:49,684 - #8 a
+INFO  02:53:49,684 - #28 ,
+INFO  02:53:49,684 - #8 int
+INFO  02:53:49,684 - #8 b
+INFO  02:53:49,684 - #30 )
+INFO  02:53:49,684 - #20 {
+INFO  02:53:49,684 - #31 if
+INFO  02:53:49,684 - #29 (
+INFO  02:53:49,684 - #8 a
+INFO  02:53:49,684 - #40 <
+INFO  02:53:49,685 - #8 b
+INFO  02:53:49,686 - #30 )
+INFO  02:53:49,686 - #20 {
+INFO  02:53:49,686 - #37 return
+INFO  02:53:49,686 - #8 a
+INFO  02:53:49,686 - #27 ;
+INFO  02:53:49,691 - #21 }
+INFO  02:53:49,692 - #32 else
+INFO  02:53:49,692 - #20 {
+INFO  02:53:49,692 - #37 return
+INFO  02:53:49,692 - #8 b
+INFO  02:53:49,692 - #27 ;
+INFO  02:53:49,692 - #21 }
+INFO  02:53:49,692 - #21 }
+INFO  02:53:49,692 - #6 void
+INFO  02:53:49,692 - #8 main
+INFO  02:53:49,692 - #29 (
+INFO  02:53:49,692 - #30 )
+INFO  02:53:49,692 - #20 {
+INFO  02:53:49,693 - #8 int
+INFO  02:53:49,693 - #8 a
+INFO  02:53:49,693 - #22 [
+INFO  02:53:49,693 - #23 ]
+INFO  02:53:49,693 - #27 ;
+INFO  02:53:49,693 - #8 int
+INFO  02:53:49,693 - #8 length
+INFO  02:53:49,693 - #27 ;
+INFO  02:53:49,693 - #8 int
+INFO  02:53:49,693 - #8 i
+INFO  02:53:49,693 - #27 ;
+INFO  02:53:49,694 - #8 length
+INFO  02:53:49,694 - #24 =
+INFO  02:53:49,694 - #8 c
+INFO  02:53:49,694 - #27 ;
+INFO  02:53:49,694 - #8 test
+INFO  02:53:49,694 - #29 (
+INFO  02:53:49,694 - #30 )
+INFO  02:53:49,694 - #27 ;
+INFO  02:53:49,694 - #31 if
+INFO  02:53:49,695 - #29 (
+INFO  02:53:49,695 - #8 length
+INFO  02:53:49,695 - #38 >
+INFO  02:53:49,695 - #9 0
+INFO  02:53:49,695 - #13 &&
+INFO  02:53:49,695 - #8 length
+INFO  02:53:49,695 - #42 <=
+INFO  02:53:49,695 - #8 d
+INFO  02:53:49,696 - #30 )
+INFO  02:53:49,696 - #8 a
+INFO  02:53:49,697 - #24 =
+INFO  02:53:49,697 - #7 new
+INFO  02:53:49,697 - #8 int
+INFO  02:53:49,697 - #22 [
+INFO  02:53:49,697 - #8 length
+INFO  02:53:49,697 - #23 ]
+INFO  02:53:49,697 - #27 ;
+INFO  02:53:49,697 - #32 else
+INFO  02:53:49,697 - #8 a
+INFO  02:53:49,697 - #24 =
+INFO  02:53:49,697 - #7 new
+INFO  02:53:49,697 - #8 int
+INFO  02:53:49,697 - #22 [
+INFO  02:53:49,698 - #9 5
+INFO  02:53:49,698 - #23 ]
+INFO  02:53:49,698 - #27 ;
+INFO  02:53:49,698 - #33 do
+INFO  02:53:49,698 - #20 {
+INFO  02:53:49,698 - #4 read
+INFO  02:53:49,698 - #29 (
+INFO  02:53:49,698 - #8 a
+INFO  02:53:49,698 - #22 [
+INFO  02:53:49,698 - #8 i
+INFO  02:53:49,698 - #23 ]
+INFO  02:53:49,698 - #30 )
+INFO  02:53:49,699 - #27 ;
+INFO  02:53:49,699 - #31 if
+INFO  02:53:49,699 - #29 (
+INFO  02:53:49,702 - #8 a
+INFO  02:53:49,702 - #22 [
+INFO  02:53:49,703 - #8 i
+INFO  02:53:49,703 - #23 ]
+INFO  02:53:49,703 - #19 %
+INFO  02:53:49,703 - #9 3
+INFO  02:53:49,709 - #39 ==
+INFO  02:53:49,709 - #9 0
+INFO  02:53:49,710 - #30 )
+INFO  02:53:49,710 - #3 print
+INFO  02:53:49,710 - #29 (
+INFO  02:53:49,710 - #8 a
+INFO  02:53:49,710 - #22 [
+INFO  02:53:49,710 - #8 i
+INFO  02:53:49,711 - #23 ]
+INFO  02:53:49,711 - #30 )
+INFO  02:53:49,711 - #27 ;
+INFO  02:53:49,711 - #32 else
+INFO  02:53:49,711 - #3 print
+INFO  02:53:49,711 - #29 (
+INFO  02:53:49,711 - #8 max
+INFO  02:53:49,711 - #29 (
+INFO  02:53:49,711 - #8 a
+INFO  02:53:49,711 - #22 [
+INFO  02:53:49,711 - #8 i
+INFO  02:53:49,711 - #23 ]
+INFO  02:53:49,711 - #28 ,
+INFO  02:53:49,711 - #9 0
+INFO  02:53:49,711 - #30 )
+INFO  02:53:49,712 - #30 )
+INFO  02:53:49,712 - #27 ;
+INFO  02:53:49,712 - #8 i
+INFO  02:53:49,712 - #25 ++
+INFO  02:53:49,712 - #27 ;
+INFO  02:53:49,712 - #21 }
+INFO  02:53:49,712 - #34 while
+INFO  02:53:49,712 - #29 (
+INFO  02:53:49,713 - #8 i
+INFO  02:53:49,713 - #42 <=
+INFO  02:53:49,713 - #8 length
+INFO  02:53:49,713 - #16 -
+INFO  02:53:49,713 - #9 1
+INFO  02:53:49,713 - #30 )
+INFO  02:53:49,713 - #27 ;
+INFO  02:53:49,713 - #3 print
+INFO  02:53:49,713 - #29 (
+INFO  02:53:49,713 - #8 d
+INFO  02:53:49,713 - #30 )
+INFO  02:53:49,713 - #27 ;
+INFO  02:53:49,714 - #21 }
+INFO  02:53:49,714 - #21 }
+INFO  02:53:49,742 - Pronadjen tip int u tabeli simbola na liniji 2
+INFO  02:53:49,743 - Deklarisana konstanta c na liniji 2
+INFO  02:53:49,743 - Pronadjen tip int u tabeli simbola na liniji 3
+INFO  02:53:49,743 - Deklarisana konstanta d na liniji 3
+INFO  02:53:49,745 - Deklarisana konstanta eps na liniji 3
+INFO  02:53:49,745 - Pronadjen tip int u tabeli simbola na liniji 4
+INFO  02:53:49,745 - Deklarisana promenljiva e na liniji 4
+INFO  02:53:49,745 - Pronadjen tip int u tabeli simbola na liniji 6
+INFO  02:53:49,746 - Deklarisana promenljiva a na liniji 6
+INFO  02:53:49,746 - Deklarisana promenljiva b na liniji 6
+ERROR 02:53:49,747 - Semanticka greska - nije pronadjen tip bool u tabeli simbola!
+INFO  02:53:49,747 - Deklarisana promenljiva cond na liniji 7
+ERROR 02:53:49,747 - Semanicka greska - nije funkcija a na liniji 11!
+ERROR 02:53:49,748 - Semanicka greska - nije funkcija b na liniji 11!
+ERROR 02:53:49,748 - Semanicka greska - nije funkcija cond na liniji 11!
+ERROR 02:53:49,748 - Semanicka greska - nije funkcija a na liniji 12!
+ERROR 02:53:49,748 - Semanicka greska - nije funkcija b na liniji 12!
+INFO  02:53:49,748 - Obradjuje se funkcija test na liniji 5
+INFO  02:53:49,748 - Pronadjen tip int u tabeli simbola na liniji 15
+INFO  02:53:49,748 - Pronadjen tip int u tabeli simbola na liniji 15
+INFO  02:53:49,748 - Pronadjen tip int u tabeli simbola na liniji 15
+ERROR 02:53:49,749 - Semanicka greska - nije funkcija a na liniji 16!
+ERROR 02:53:49,749 - Semanicka greska - nije funkcija b na liniji 16!
+ERROR 02:53:49,749 - Semanicka greska - nije funkcija a na liniji 17!
+ERROR 02:53:49,749 - Semanticka greska - tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti, za funkciju test na liniji 17!
+ERROR 02:53:49,749 - Semanicka greska - nije funkcija b na liniji 18!
+ERROR 02:53:49,749 - Semanticka greska - tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti, za funkciju test na liniji 18!
+INFO  02:53:49,749 - Obradjuje se funkcija max na liniji 15
+INFO  02:53:49,749 - Pronadjen tip int u tabeli simbola na liniji 21
+INFO  02:53:49,749 - Pronadjen tip int u tabeli simbola na liniji 21
+INFO  02:53:49,749 - Pronadjen tip int u tabeli simbola na liniji 21
+ERROR 02:53:49,749 - Semanicka greska - nije funkcija a na liniji 22!
+ERROR 02:53:49,749 - Semanicka greska - nije funkcija b na liniji 22!
+ERROR 02:53:49,749 - Semanicka greska - nije funkcija a na liniji 23!
+ERROR 02:53:49,749 - Semanticka greska - tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti, za funkciju max na liniji 23!
+ERROR 02:53:49,749 - Semanicka greska - nije funkcija b na liniji 25!
+ERROR 02:53:49,750 - Semanticka greska - tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti, za funkciju max na liniji 25!
+INFO  02:53:49,750 - Obradjuje se funkcija min na liniji 21
+INFO  02:53:49,750 - Pronadjen tip int u tabeli simbola na liniji 30
+INFO  02:53:49,750 - Deklarisan niz a na liniji 30
+INFO  02:53:49,750 - Pronadjen tip int u tabeli simbola na liniji 30
+INFO  02:53:49,750 - Deklarisana promenljiva length na liniji 30
+INFO  02:53:49,750 - Pronadjen tip int u tabeli simbola na liniji 31
+INFO  02:53:49,750 - Deklarisana promenljiva i na liniji 31
+ERROR 02:53:49,750 - Semanicka greska - nije funkcija c na liniji 32!
+ERROR 02:53:49,750 - Semanticka greska - nekompatibilni tipovi za dodelu vrednosti na liniji 32!
+INFO  02:53:49,750 - Pronadjen poziv procedure test na liniji 33
+ERROR 02:53:49,750 - Semanicka greska - nije funkcija length na liniji 34!
+ERROR 02:53:49,750 - Semanicka greska - nije funkcija length na liniji 34!
+ERROR 02:53:49,750 - Semanicka greska - nije funkcija d na liniji 34!
+INFO  02:53:49,750 - Pronadjen tip int u tabeli simbola na liniji 35
+ERROR 02:53:49,750 - Semanicka greska - nije funkcija length na liniji 35!
+ERROR 02:53:49,750 - Semanticka greska - nekompatibilni tipovi za dodelu vrednosti na liniji 35!
+INFO  02:53:49,750 - Pronadjen tip int u tabeli simbola na liniji 37
+ERROR 02:53:49,750 - Semanticka greska - nekompatibilni tipovi za dodelu vrednosti na liniji 37!
+ERROR 02:53:49,751 - Semanicka greska - nije funkcija i na liniji 39!
+ERROR 02:53:49,751 - Semanicka greska - nije funkcija i na liniji 40!
+ERROR 02:53:49,751 - Semanicka greska - nije funkcija a na liniji 40!
+ERROR 02:53:49,751 - Semanicka greska - nije funkcija i na liniji 41!
+ERROR 02:53:49,751 - Semanicka greska - nije funkcija a na liniji 41!
+ERROR 02:53:49,751 - Semanicka greska - nije funkcija i na liniji 43!
+ERROR 02:53:49,751 - Semanicka greska - nije funkcija a na liniji 43!
+INFO  02:53:49,751 - Pronadjen poziv funkcije max na liniji 43
+ERROR 02:53:49,751 - Semanicka greska - nije funkcija i na liniji 45!
+ERROR 02:53:49,751 - Semanicka greska - nije funkcija length na liniji 45!
+ERROR 02:53:49,751 - Semanicka greska - nije funkcija d na liniji 46!
+INFO  02:53:49,751 - Obradjuje se funkcija main na liniji 29
+INFO  03:02:00,725 - #2 program
+INFO  03:02:00,726 - #8 Program
+INFO  03:02:00,726 - #20 {
+INFO  03:02:00,727 - #5 const
+INFO  03:02:00,727 - #8 int
+INFO  03:02:00,727 - #8 c
+INFO  03:02:00,728 - #24 =
+INFO  03:02:00,728 - #9 10
+INFO  03:02:00,728 - #27 ;
+INFO  03:02:00,729 - #5 const
+INFO  03:02:00,730 - #8 int
+INFO  03:02:00,730 - #8 d
+INFO  03:02:00,730 - #24 =
+INFO  03:02:00,730 - #9 99
+INFO  03:02:00,730 - #28 ,
+INFO  03:02:00,731 - #8 eps
+INFO  03:02:00,731 - #24 =
+INFO  03:02:00,731 - #9 2
+INFO  03:02:00,732 - #27 ;
+INFO  03:02:00,733 - #8 int
+INFO  03:02:00,733 - #8 e
+INFO  03:02:00,733 - #27 ;
+INFO  03:02:00,734 - #6 void
+INFO  03:02:00,735 - #8 test
+INFO  03:02:00,735 - #29 (
+INFO  03:02:00,735 - #30 )
+INFO  03:02:00,735 - #20 {
+INFO  03:02:00,735 - #8 int
+INFO  03:02:00,735 - #8 a
+INFO  03:02:00,735 - #28 ,
+INFO  03:02:00,736 - #8 b
+INFO  03:02:00,736 - #27 ;
+INFO  03:02:00,736 - #8 bool
+INFO  03:02:00,737 - #8 cond
+INFO  03:02:00,737 - #27 ;
+INFO  03:02:00,737 - #8 a
+INFO  03:02:00,738 - #24 =
+INFO  03:02:00,738 - #9 3
+INFO  03:02:00,738 - #27 ;
+INFO  03:02:00,738 - #8 b
+INFO  03:02:00,739 - #24 =
+INFO  03:02:00,739 - #9 5
+INFO  03:02:00,739 - #27 ;
+INFO  03:02:00,739 - #8 cond
+INFO  03:02:00,739 - #24 =
+INFO  03:02:00,740 - #11 true
+INFO  03:02:00,740 - #27 ;
+INFO  03:02:00,741 - #31 if
+INFO  03:02:00,741 - #29 (
+INFO  03:02:00,742 - #9 2
+INFO  03:02:00,742 - #17 *
+INFO  03:02:00,742 - #29 (
+INFO  03:02:00,744 - #8 a
+INFO  03:02:00,744 - #16 -
+INFO  03:02:00,744 - #8 b
+INFO  03:02:00,746 - #16 -
+INFO  03:02:00,747 - #9 1
+INFO  03:02:00,747 - #30 )
+INFO  03:02:00,748 - #16 -
+INFO  03:02:00,749 - #9 14
+INFO  03:02:00,749 - #38 >
+INFO  03:02:00,749 - #9 0
+INFO  03:02:00,752 - #14 ||
+INFO  03:02:00,753 - #8 cond
+INFO  03:02:00,753 - #30 )
+INFO  03:02:00,754 - #3 print
+INFO  03:02:00,754 - #29 (
+INFO  03:02:00,754 - #8 a
+INFO  03:02:00,754 - #15 +
+INFO  03:02:00,754 - #8 b
+INFO  03:02:00,755 - #30 )
+INFO  03:02:00,755 - #27 ;
+INFO  03:02:00,755 - #21 }
+INFO  03:02:00,756 - #8 int
+INFO  03:02:00,756 - #8 max
+INFO  03:02:00,756 - #29 (
+INFO  03:02:00,757 - #8 int
+INFO  03:02:00,759 - #8 a
+INFO  03:02:00,759 - #28 ,
+INFO  03:02:00,759 - #8 int
+INFO  03:02:00,759 - #8 b
+INFO  03:02:00,759 - #30 )
+INFO  03:02:00,760 - #20 {
+INFO  03:02:00,760 - #31 if
+INFO  03:02:00,760 - #29 (
+INFO  03:02:00,760 - #8 a
+INFO  03:02:00,760 - #38 >
+INFO  03:02:00,760 - #8 b
+INFO  03:02:00,760 - #30 )
+INFO  03:02:00,760 - #20 {
+INFO  03:02:00,760 - #37 return
+INFO  03:02:00,760 - #8 a
+INFO  03:02:00,760 - #27 ;
+INFO  03:02:00,761 - #21 }
+INFO  03:02:00,761 - #32 else
+INFO  03:02:00,761 - #37 return
+INFO  03:02:00,761 - #8 b
+INFO  03:02:00,761 - #27 ;
+INFO  03:02:00,761 - #21 }
+INFO  03:02:00,762 - #8 int
+INFO  03:02:00,762 - #8 min
+INFO  03:02:00,762 - #29 (
+INFO  03:02:00,762 - #8 int
+INFO  03:02:00,762 - #8 a
+INFO  03:02:00,762 - #28 ,
+INFO  03:02:00,762 - #8 int
+INFO  03:02:00,763 - #8 b
+INFO  03:02:00,763 - #30 )
+INFO  03:02:00,763 - #20 {
+INFO  03:02:00,763 - #31 if
+INFO  03:02:00,763 - #29 (
+INFO  03:02:00,763 - #8 a
+INFO  03:02:00,763 - #40 <
+INFO  03:02:00,763 - #8 b
+INFO  03:02:00,764 - #30 )
+INFO  03:02:00,764 - #20 {
+INFO  03:02:00,764 - #37 return
+INFO  03:02:00,764 - #8 a
+INFO  03:02:00,764 - #27 ;
+INFO  03:02:00,764 - #21 }
+INFO  03:02:00,764 - #32 else
+INFO  03:02:00,764 - #20 {
+INFO  03:02:00,765 - #37 return
+INFO  03:02:00,765 - #8 b
+INFO  03:02:00,765 - #27 ;
+INFO  03:02:00,765 - #21 }
+INFO  03:02:00,765 - #21 }
+INFO  03:02:00,765 - #6 void
+INFO  03:02:00,765 - #8 main
+INFO  03:02:00,765 - #29 (
+INFO  03:02:00,765 - #30 )
+INFO  03:02:00,765 - #20 {
+INFO  03:02:00,765 - #8 int
+INFO  03:02:00,765 - #8 a
+INFO  03:02:00,766 - #22 [
+INFO  03:02:00,766 - #23 ]
+INFO  03:02:00,766 - #27 ;
+INFO  03:02:00,766 - #8 int
+INFO  03:02:00,766 - #8 length
+INFO  03:02:00,766 - #27 ;
+INFO  03:02:00,766 - #8 int
+INFO  03:02:00,766 - #8 i
+INFO  03:02:00,766 - #27 ;
+INFO  03:02:00,766 - #8 length
+INFO  03:02:00,766 - #24 =
+INFO  03:02:00,766 - #8 c
+INFO  03:02:00,767 - #27 ;
+INFO  03:02:00,767 - #8 test
+INFO  03:02:00,767 - #29 (
+INFO  03:02:00,767 - #30 )
+INFO  03:02:00,767 - #27 ;
+INFO  03:02:00,767 - #31 if
+INFO  03:02:00,767 - #29 (
+INFO  03:02:00,767 - #8 length
+INFO  03:02:00,767 - #38 >
+INFO  03:02:00,768 - #9 0
+INFO  03:02:00,768 - #13 &&
+INFO  03:02:00,768 - #8 length
+INFO  03:02:00,768 - #42 <=
+INFO  03:02:00,768 - #8 d
+INFO  03:02:00,769 - #30 )
+INFO  03:02:00,770 - #8 a
+INFO  03:02:00,770 - #24 =
+INFO  03:02:00,770 - #7 new
+INFO  03:02:00,770 - #8 int
+INFO  03:02:00,770 - #22 [
+INFO  03:02:00,770 - #8 length
+INFO  03:02:00,770 - #23 ]
+INFO  03:02:00,770 - #27 ;
+INFO  03:02:00,771 - #32 else
+INFO  03:02:00,771 - #8 a
+INFO  03:02:00,771 - #24 =
+INFO  03:02:00,771 - #7 new
+INFO  03:02:00,771 - #8 int
+INFO  03:02:00,771 - #22 [
+INFO  03:02:00,771 - #9 5
+INFO  03:02:00,771 - #23 ]
+INFO  03:02:00,771 - #27 ;
+INFO  03:02:00,772 - #33 do
+INFO  03:02:00,772 - #20 {
+INFO  03:02:00,772 - #4 read
+INFO  03:02:00,772 - #29 (
+INFO  03:02:00,772 - #8 a
+INFO  03:02:00,772 - #22 [
+INFO  03:02:00,772 - #8 i
+INFO  03:02:00,772 - #23 ]
+INFO  03:02:00,772 - #30 )
+INFO  03:02:00,772 - #27 ;
+INFO  03:02:00,773 - #31 if
+INFO  03:02:00,773 - #29 (
+INFO  03:02:00,773 - #8 a
+INFO  03:02:00,773 - #22 [
+INFO  03:02:00,773 - #8 i
+INFO  03:02:00,773 - #23 ]
+INFO  03:02:00,773 - #19 %
+INFO  03:02:00,773 - #9 3
+INFO  03:02:00,774 - #39 ==
+INFO  03:02:00,774 - #9 0
+INFO  03:02:00,775 - #30 )
+INFO  03:02:00,775 - #3 print
+INFO  03:02:00,775 - #29 (
+INFO  03:02:00,775 - #8 a
+INFO  03:02:00,775 - #22 [
+INFO  03:02:00,775 - #8 i
+INFO  03:02:00,775 - #23 ]
+INFO  03:02:00,775 - #30 )
+INFO  03:02:00,775 - #27 ;
+INFO  03:02:00,775 - #32 else
+INFO  03:02:00,775 - #3 print
+INFO  03:02:00,775 - #29 (
+INFO  03:02:00,775 - #8 max
+INFO  03:02:00,776 - #29 (
+INFO  03:02:00,776 - #8 a
+INFO  03:02:00,776 - #22 [
+INFO  03:02:00,776 - #8 i
+INFO  03:02:00,776 - #23 ]
+INFO  03:02:00,776 - #28 ,
+INFO  03:02:00,776 - #9 0
+INFO  03:02:00,776 - #30 )
+INFO  03:02:00,776 - #30 )
+INFO  03:02:00,777 - #27 ;
+INFO  03:02:00,777 - #8 i
+INFO  03:02:00,777 - #25 ++
+INFO  03:02:00,777 - #27 ;
+INFO  03:02:00,777 - #21 }
+INFO  03:02:00,777 - #34 while
+INFO  03:02:00,777 - #29 (
+INFO  03:02:00,777 - #8 i
+INFO  03:02:00,777 - #42 <=
+INFO  03:02:00,777 - #8 length
+INFO  03:02:00,777 - #16 -
+INFO  03:02:00,778 - #9 1
+INFO  03:02:00,778 - #30 )
+INFO  03:02:00,778 - #27 ;
+INFO  03:02:00,778 - #3 print
+INFO  03:02:00,778 - #29 (
+INFO  03:02:00,778 - #8 d
+INFO  03:02:00,778 - #30 )
+INFO  03:02:00,778 - #27 ;
+INFO  03:02:00,778 - #21 }
+INFO  03:02:00,779 - #21 }
+INFO  03:02:00,806 - Pronadjen tip int u tabeli simbola na liniji 2
+INFO  03:02:00,807 - Deklarisana konstanta c na liniji 2
+INFO  03:02:00,807 - Pronadjen tip int u tabeli simbola na liniji 3
+INFO  03:02:00,807 - Deklarisana konstanta d na liniji 3
+INFO  03:02:00,807 - Deklarisana konstanta eps na liniji 3
+INFO  03:02:00,809 - Pronadjen tip int u tabeli simbola na liniji 4
+INFO  03:02:00,809 - Deklarisana promenljiva e na liniji 4
+INFO  03:02:00,810 - Pronadjen tip int u tabeli simbola na liniji 6
+INFO  03:02:00,811 - Deklarisana promenljiva a na liniji 6
+INFO  03:02:00,812 - Deklarisana promenljiva b na liniji 6
+ERROR 03:02:00,812 - Semanticka greska - nije pronadjen tip bool u tabeli simbola!
+INFO  03:02:00,812 - Deklarisana promenljiva cond na liniji 7
+ERROR 03:02:00,814 - Semanicka greska - nije funkcija a na liniji 11!
+ERROR 03:02:00,814 - Semanicka greska - nije funkcija b na liniji 11!
+ERROR 03:02:00,814 - Semanicka greska - nije funkcija cond na liniji 11!
+ERROR 03:02:00,815 - Semanicka greska - nije funkcija a na liniji 12!
+ERROR 03:02:00,815 - Semanicka greska - nije funkcija b na liniji 12!
+INFO  03:02:00,815 - Obradjuje se funkcija test na liniji 5
+INFO  03:02:00,815 - Pronadjen tip int u tabeli simbola na liniji 15
+INFO  03:02:00,815 - Pronadjen tip int u tabeli simbola na liniji 15
+INFO  03:02:00,815 - Pronadjen tip int u tabeli simbola na liniji 15
+ERROR 03:02:00,815 - Semanicka greska - nije funkcija a na liniji 16!
+ERROR 03:02:00,815 - Semanicka greska - nije funkcija b na liniji 16!
+ERROR 03:02:00,815 - Semanicka greska - nije funkcija a na liniji 17!
+ERROR 03:02:00,816 - Semanticka greska - tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti, za funkciju test na liniji 17!
+ERROR 03:02:00,816 - Semanicka greska - nije funkcija b na liniji 18!
+ERROR 03:02:00,816 - Semanticka greska - tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti, za funkciju test na liniji 18!
+INFO  03:02:00,816 - Obradjuje se funkcija max na liniji 15
+INFO  03:02:00,816 - Pronadjen tip int u tabeli simbola na liniji 21
+INFO  03:02:00,816 - Pronadjen tip int u tabeli simbola na liniji 21
+INFO  03:02:00,816 - Pronadjen tip int u tabeli simbola na liniji 21
+ERROR 03:02:00,816 - Semanicka greska - nije funkcija a na liniji 22!
+ERROR 03:02:00,816 - Semanicka greska - nije funkcija b na liniji 22!
+ERROR 03:02:00,816 - Semanicka greska - nije funkcija a na liniji 23!
+ERROR 03:02:00,816 - Semanticka greska - tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti, za funkciju max na liniji 23!
+ERROR 03:02:00,816 - Semanicka greska - nije funkcija b na liniji 25!
+ERROR 03:02:00,816 - Semanticka greska - tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti, za funkciju max na liniji 25!
+INFO  03:02:00,816 - Obradjuje se funkcija min na liniji 21
+INFO  03:02:00,817 - Pronadjen tip int u tabeli simbola na liniji 30
+INFO  03:02:00,817 - Deklarisan niz a na liniji 30
+INFO  03:02:00,817 - Pronadjen tip int u tabeli simbola na liniji 30
+INFO  03:02:00,817 - Deklarisana promenljiva length na liniji 30
+INFO  03:02:00,817 - Pronadjen tip int u tabeli simbola na liniji 31
+INFO  03:02:00,817 - Deklarisana promenljiva i na liniji 31
+ERROR 03:02:00,817 - Semanicka greska - nije funkcija c na liniji 32!
+ERROR 03:02:00,817 - Semanticka greska - nekompatibilni tipovi za dodelu vrednosti na liniji 32!
+INFO  03:02:00,817 - Pronadjen poziv procedure test na liniji 33
+ERROR 03:02:00,817 - Semanicka greska - nije funkcija length na liniji 34!
+ERROR 03:02:00,817 - Semanicka greska - nije funkcija length na liniji 34!
+ERROR 03:02:00,818 - Semanicka greska - nije funkcija d na liniji 34!
+INFO  03:02:00,818 - Pronadjen tip int u tabeli simbola na liniji 35
+ERROR 03:02:00,818 - Semanicka greska - nije funkcija length na liniji 35!
+ERROR 03:02:00,818 - Semanticka greska - nekompatibilni tipovi za dodelu vrednosti na liniji 35!
+INFO  03:02:00,818 - Pronadjen tip int u tabeli simbola na liniji 37
+ERROR 03:02:00,818 - Semanticka greska - nekompatibilni tipovi za dodelu vrednosti na liniji 37!
+ERROR 03:02:00,818 - Semanicka greska - nije funkcija i na liniji 39!
+ERROR 03:02:00,818 - Semanicka greska - nije funkcija i na liniji 40!
+ERROR 03:02:00,818 - Semanicka greska - nije funkcija a na liniji 40!
+ERROR 03:02:00,818 - Semanicka greska - nije funkcija i na liniji 41!
+ERROR 03:02:00,818 - Semanicka greska - nije funkcija a na liniji 41!
+ERROR 03:02:00,818 - Semanicka greska - nije funkcija i na liniji 43!
+ERROR 03:02:00,819 - Semanicka greska - nije funkcija a na liniji 43!
+INFO  03:02:00,819 - Pronadjen poziv funkcije max na liniji 43
+ERROR 03:02:00,819 - Semanicka greska - nije funkcija i na liniji 45!
+ERROR 03:02:00,819 - Semanicka greska - nije funkcija length na liniji 45!
+ERROR 03:02:00,819 - Semanicka greska - nije funkcija d na liniji 46!
+INFO  03:02:00,819 - Obradjuje se funkcija main na liniji 29
+INFO  03:15:57,427 - #2 program
+INFO  03:15:57,427 - #8 Program
+INFO  03:15:57,427 - #20 {
+INFO  03:15:57,427 - #5 const
+INFO  03:15:57,427 - #8 int
+INFO  03:15:57,427 - #8 c
+INFO  03:15:57,427 - #24 =
+INFO  03:15:57,427 - #9 10
+INFO  03:15:57,427 - #27 ;
+INFO  03:15:57,427 - #5 const
+INFO  03:15:57,427 - #8 int
+INFO  03:15:57,427 - #8 d
+INFO  03:15:57,427 - #24 =
+INFO  03:15:57,427 - #9 99
+INFO  03:15:57,427 - #28 ,
+INFO  03:15:57,427 - #8 eps
+INFO  03:15:57,427 - #24 =
+INFO  03:15:57,427 - #9 2
+INFO  03:15:57,427 - #27 ;
+INFO  03:15:57,427 - #8 int
+INFO  03:15:57,427 - #8 e
+INFO  03:15:57,427 - #27 ;
+INFO  03:15:57,427 - #6 void
+INFO  03:15:57,427 - #8 test
+INFO  03:15:57,427 - #29 (
+INFO  03:15:57,427 - #30 )
+INFO  03:15:57,427 - #20 {
+INFO  03:15:57,427 - #8 int
+INFO  03:15:57,427 - #8 a
+INFO  03:15:57,437 - #28 ,
+INFO  03:15:57,437 - #8 b
+INFO  03:15:57,437 - #27 ;
+INFO  03:15:57,437 - #8 bool
+INFO  03:15:57,437 - #8 cond
+INFO  03:15:57,437 - #27 ;
+INFO  03:15:57,437 - #8 a
+INFO  03:15:57,437 - #24 =
+INFO  03:15:57,437 - #9 3
+INFO  03:15:57,437 - #27 ;
+INFO  03:15:57,437 - #8 b
+INFO  03:15:57,437 - #24 =
+INFO  03:15:57,437 - #9 5
+INFO  03:15:57,437 - #27 ;
+INFO  03:15:57,437 - #8 cond
+INFO  03:15:57,437 - #24 =
+INFO  03:15:57,437 - #11 true
+INFO  03:15:57,437 - #27 ;
+INFO  03:15:57,437 - #31 if
+INFO  03:15:57,437 - #29 (
+INFO  03:15:57,437 - #9 2
+INFO  03:15:57,437 - #17 *
+INFO  03:15:57,437 - #29 (
+INFO  03:15:57,437 - #8 a
+INFO  03:15:57,437 - #16 -
+INFO  03:15:57,437 - #8 b
+INFO  03:15:57,447 - #16 -
+INFO  03:15:57,447 - #9 1
+INFO  03:15:57,447 - #30 )
+INFO  03:15:57,447 - #16 -
+INFO  03:15:57,447 - #9 14
+INFO  03:15:57,447 - #38 >
+INFO  03:15:57,447 - #9 0
+INFO  03:15:57,447 - #14 ||
+INFO  03:15:57,447 - #8 cond
+INFO  03:15:57,447 - #30 )
+INFO  03:15:57,447 - #3 print
+INFO  03:15:57,447 - #29 (
+INFO  03:15:57,447 - #8 a
+INFO  03:15:57,447 - #15 +
+INFO  03:15:57,447 - #8 b
+INFO  03:15:57,447 - #30 )
+INFO  03:15:57,447 - #27 ;
+INFO  03:15:57,447 - #21 }
+INFO  03:15:57,447 - #8 int
+INFO  03:15:57,447 - #8 max
+INFO  03:15:57,447 - #29 (
+INFO  03:15:57,447 - #8 int
+INFO  03:15:57,447 - #8 a
+INFO  03:15:57,447 - #28 ,
+INFO  03:15:57,457 - #8 int
+INFO  03:15:57,457 - #8 b
+INFO  03:15:57,457 - #30 )
+INFO  03:15:57,457 - #20 {
+INFO  03:15:57,457 - #31 if
+INFO  03:15:57,457 - #29 (
+INFO  03:15:57,457 - #8 a
+INFO  03:15:57,457 - #38 >
+INFO  03:15:57,457 - #8 b
+INFO  03:15:57,457 - #30 )
+INFO  03:15:57,457 - #20 {
+INFO  03:15:57,457 - #37 return
+INFO  03:15:57,457 - #8 a
+INFO  03:15:57,457 - #27 ;
+INFO  03:15:57,457 - #21 }
+INFO  03:15:57,457 - #32 else
+INFO  03:15:57,457 - #37 return
+INFO  03:15:57,457 - #8 b
+INFO  03:15:57,457 - #27 ;
+INFO  03:15:57,457 - #21 }
+INFO  03:15:57,457 - #8 int
+INFO  03:15:57,457 - #8 min
+INFO  03:15:57,457 - #29 (
+INFO  03:15:57,457 - #8 int
+INFO  03:15:57,457 - #8 a
+INFO  03:15:57,457 - #28 ,
+INFO  03:15:57,457 - #8 int
+INFO  03:15:57,457 - #8 b
+INFO  03:15:57,457 - #30 )
+INFO  03:15:57,457 - #20 {
+INFO  03:15:57,457 - #31 if
+INFO  03:15:57,457 - #29 (
+INFO  03:15:57,457 - #8 a
+INFO  03:15:57,457 - #40 <
+INFO  03:15:57,457 - #8 b
+INFO  03:15:57,457 - #30 )
+INFO  03:15:57,457 - #20 {
+INFO  03:15:57,457 - #37 return
+INFO  03:15:57,457 - #8 a
+INFO  03:15:57,457 - #27 ;
+INFO  03:15:57,457 - #21 }
+INFO  03:15:57,457 - #32 else
+INFO  03:15:57,457 - #20 {
+INFO  03:15:57,457 - #37 return
+INFO  03:15:57,457 - #8 b
+INFO  03:15:57,457 - #27 ;
+INFO  03:15:57,457 - #21 }
+INFO  03:15:57,457 - #21 }
+INFO  03:15:57,457 - #6 void
+INFO  03:15:57,457 - #8 main
+INFO  03:15:57,457 - #29 (
+INFO  03:15:57,457 - #30 )
+INFO  03:15:57,457 - #20 {
+INFO  03:15:57,457 - #8 int
+INFO  03:15:57,457 - #8 a
+INFO  03:15:57,457 - #22 [
+INFO  03:15:57,457 - #23 ]
+INFO  03:15:57,457 - #27 ;
+INFO  03:15:57,457 - #8 int
+INFO  03:15:57,457 - #8 length
+INFO  03:15:57,457 - #27 ;
+INFO  03:15:57,457 - #8 int
+INFO  03:15:57,457 - #8 i
+INFO  03:15:57,457 - #27 ;
+INFO  03:15:57,457 - #8 length
+INFO  03:15:57,457 - #24 =
+INFO  03:15:57,457 - #8 c
+INFO  03:15:57,457 - #27 ;
+INFO  03:15:57,457 - #8 test
+INFO  03:15:57,457 - #29 (
+INFO  03:15:57,457 - #30 )
+INFO  03:15:57,457 - #27 ;
+INFO  03:15:57,457 - #31 if
+INFO  03:15:57,457 - #29 (
+INFO  03:15:57,457 - #8 length
+INFO  03:15:57,457 - #38 >
+INFO  03:15:57,457 - #9 0
+INFO  03:15:57,457 - #13 &&
+INFO  03:15:57,457 - #8 length
+INFO  03:15:57,457 - #42 <=
+INFO  03:15:57,457 - #8 d
+INFO  03:15:57,457 - #30 )
+INFO  03:15:57,457 - #8 a
+INFO  03:15:57,457 - #24 =
+INFO  03:15:57,457 - #7 new
+INFO  03:15:57,457 - #8 int
+INFO  03:15:57,457 - #22 [
+INFO  03:15:57,457 - #8 length
+INFO  03:15:57,457 - #23 ]
+INFO  03:15:57,457 - #27 ;
+INFO  03:15:57,467 - #32 else
+INFO  03:15:57,467 - #8 a
+INFO  03:15:57,467 - #24 =
+INFO  03:15:57,467 - #7 new
+INFO  03:15:57,467 - #8 int
+INFO  03:15:57,467 - #22 [
+INFO  03:15:57,467 - #9 5
+INFO  03:15:57,467 - #23 ]
+INFO  03:15:57,467 - #27 ;
+INFO  03:15:57,467 - #33 do
+INFO  03:15:57,467 - #20 {
+INFO  03:15:57,467 - #4 read
+INFO  03:15:57,467 - #29 (
+INFO  03:15:57,467 - #8 a
+INFO  03:15:57,467 - #22 [
+INFO  03:15:57,467 - #8 i
+INFO  03:15:57,467 - #23 ]
+INFO  03:15:57,467 - #30 )
+INFO  03:15:57,467 - #27 ;
+INFO  03:15:57,467 - #31 if
+INFO  03:15:57,467 - #29 (
+INFO  03:15:57,467 - #8 a
+INFO  03:15:57,467 - #22 [
+INFO  03:15:57,467 - #8 i
+INFO  03:15:57,467 - #23 ]
+INFO  03:15:57,467 - #19 %
+INFO  03:15:57,467 - #9 3
+INFO  03:15:57,467 - #39 ==
+INFO  03:15:57,467 - #9 0
+INFO  03:15:57,467 - #30 )
+INFO  03:15:57,467 - #3 print
+INFO  03:15:57,467 - #29 (
+INFO  03:15:57,467 - #8 a
+INFO  03:15:57,467 - #22 [
+INFO  03:15:57,467 - #8 i
+INFO  03:15:57,467 - #23 ]
+INFO  03:15:57,467 - #30 )
+INFO  03:15:57,467 - #27 ;
+INFO  03:15:57,467 - #32 else
+INFO  03:15:57,467 - #3 print
+INFO  03:15:57,467 - #29 (
+INFO  03:15:57,467 - #8 max
+INFO  03:15:57,467 - #29 (
+INFO  03:15:57,467 - #8 a
+INFO  03:15:57,467 - #22 [
+INFO  03:15:57,467 - #8 i
+INFO  03:15:57,467 - #23 ]
+INFO  03:15:57,467 - #28 ,
+INFO  03:15:57,467 - #9 0
+INFO  03:15:57,467 - #30 )
+INFO  03:15:57,467 - #30 )
+INFO  03:15:57,467 - #27 ;
+INFO  03:15:57,467 - #8 i
+INFO  03:15:57,467 - #25 ++
+INFO  03:15:57,467 - #27 ;
+INFO  03:15:57,467 - #21 }
+INFO  03:15:57,467 - #34 while
+INFO  03:15:57,467 - #29 (
+INFO  03:15:57,467 - #8 i
+INFO  03:15:57,467 - #42 <=
+INFO  03:15:57,467 - #8 length
+INFO  03:15:57,467 - #16 -
+INFO  03:15:57,467 - #9 1
+INFO  03:15:57,467 - #30 )
+INFO  03:15:57,467 - #27 ;
+INFO  03:15:57,467 - #3 print
+INFO  03:15:57,467 - #29 (
+INFO  03:15:57,467 - #8 d
+INFO  03:15:57,467 - #30 )
+INFO  03:15:57,467 - #27 ;
+INFO  03:15:57,467 - #21 }
+INFO  03:15:57,467 - #21 }
+INFO  03:15:57,487 - Pronadjen tip int u tabeli simbola na liniji 2
+INFO  03:15:57,497 - Deklarisana konstanta c na liniji 2
+INFO  03:15:57,497 - Pronadjen tip int u tabeli simbola na liniji 3
+INFO  03:15:57,497 - Deklarisana konstanta d na liniji 3
+INFO  03:15:57,497 - Deklarisana konstanta eps na liniji 3
+INFO  03:15:57,497 - Pronadjen tip int u tabeli simbola na liniji 4
+INFO  03:15:57,497 - Deklarisana promenljiva e na liniji 4
+INFO  03:15:57,497 - Pronadjen tip int u tabeli simbola na liniji 6
+INFO  03:15:57,497 - Deklarisana promenljiva a na liniji 6
+INFO  03:15:57,497 - Deklarisana promenljiva b na liniji 6
+ERROR 03:15:57,497 - Semanticka greska - nije pronadjen tip bool u tabeli simbola!
+INFO  03:15:57,497 - Deklarisana promenljiva cond na liniji 7
+ERROR 03:15:57,497 - Semanticka greska - nekompatibilni tipovi za dodelu vrednosti na liniji 8!
+ERROR 03:15:57,497 - Semanticka greska - nekompatibilni tipovi za dodelu vrednosti na liniji 9!
+ERROR 03:15:57,497 - Semanticka greska - nekompatibilni tipovi za dodelu vrednosti na liniji 10!
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija a na liniji 11!
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija b na liniji 11!
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija cond na liniji 11!
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija a na liniji 12!
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija b na liniji 12!
+INFO  03:15:57,497 - Obradjuje se funkcija test na liniji 5
+INFO  03:15:57,497 - Pronadjen tip int u tabeli simbola na liniji 15
+INFO  03:15:57,497 - Pronadjen tip int u tabeli simbola na liniji 15
+INFO  03:15:57,497 - Pronadjen tip int u tabeli simbola na liniji 15
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija a na liniji 16!
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija b na liniji 16!
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija a na liniji 17!
+ERROR 03:15:57,497 - Semanticka greska - tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti, za funkciju test na liniji 17!
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija b na liniji 18!
+ERROR 03:15:57,497 - Semanticka greska - tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti, za funkciju test na liniji 18!
+INFO  03:15:57,497 - Obradjuje se funkcija max na liniji 15
+INFO  03:15:57,497 - Pronadjen tip int u tabeli simbola na liniji 21
+INFO  03:15:57,497 - Pronadjen tip int u tabeli simbola na liniji 21
+INFO  03:15:57,497 - Pronadjen tip int u tabeli simbola na liniji 21
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija a na liniji 22!
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija b na liniji 22!
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija a na liniji 23!
+ERROR 03:15:57,497 - Semanticka greska - tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti, za funkciju max na liniji 23!
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija b na liniji 25!
+ERROR 03:15:57,497 - Semanticka greska - tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti, za funkciju max na liniji 25!
+INFO  03:15:57,497 - Obradjuje se funkcija min na liniji 21
+INFO  03:15:57,497 - Pronadjen tip int u tabeli simbola na liniji 30
+INFO  03:15:57,497 - Deklarisan niz a na liniji 30
+INFO  03:15:57,497 - Pronadjen tip int u tabeli simbola na liniji 30
+INFO  03:15:57,497 - Deklarisana promenljiva length na liniji 30
+INFO  03:15:57,497 - Pronadjen tip int u tabeli simbola na liniji 31
+INFO  03:15:57,497 - Deklarisana promenljiva i na liniji 31
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija c na liniji 32!
+ERROR 03:15:57,497 - Semanticka greska - nekompatibilni tipovi za dodelu vrednosti na liniji 32!
+INFO  03:15:57,497 - Pronadjen poziv procedure test na liniji 33
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija length na liniji 34!
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija length na liniji 34!
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija d na liniji 34!
+INFO  03:15:57,497 - Pronadjen tip int u tabeli simbola na liniji 35
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija length na liniji 35!
+ERROR 03:15:57,497 - Semanticka greska - nekompatibilni tipovi za dodelu vrednosti na liniji 35!
+INFO  03:15:57,497 - Pronadjen tip int u tabeli simbola na liniji 37
+ERROR 03:15:57,497 - Semanticka greska - nekompatibilni tipovi za dodelu vrednosti na liniji 37!
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija i na liniji 39!
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija i na liniji 40!
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija a na liniji 40!
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija i na liniji 41!
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija a na liniji 41!
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija i na liniji 43!
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija a na liniji 43!
+INFO  03:15:57,497 - Pronadjen poziv funkcije max na liniji 43
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija i na liniji 45!
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija length na liniji 45!
+ERROR 03:15:57,497 - Semanicka greska - nije funkcija d na liniji 46!
+INFO  03:15:57,497 - Obradjuje se funkcija main na liniji 29

@@ -1,0 +1,23 @@
+INFO  05:46:48,366 - Compiling source file: C:\Users\Coa\Desktop\IR4PP1\projekat\sa100122dProjekatAX\workspace\MJCompiler\test\program.mj
+INFO  05:46:48,372 - #8 MJProgram
+INFO  05:46:48,372 - #8 int
+INFO  05:46:48,372 - #8 x
+INFO  05:46:48,372 - #8 int
+INFO  05:46:48,372 - #8 y
+INFO  05:46:48,373 - #8 int
+INFO  05:46:48,373 - #8 k
+INFO  05:46:48,373 - #8 int
+INFO  05:46:48,373 - #8 c
+INFO  05:46:48,373 - #8 c
+INFO  05:46:48,373 - #9 0
+INFO  05:46:48,374 - #8 return
+INFO  05:46:48,374 - #8 c
+INFO  05:46:48,374 - #9 3
+INFO  05:46:48,374 - #8 int
+INFO  05:46:48,374 - #8 main
+INFO  05:46:48,374 - #9 1
+INFO  05:46:48,374 - #8 x
+INFO  05:46:48,374 - #8 y
+INFO  05:46:48,375 - #9 3
+INFO  05:46:48,375 - #8 k
+INFO  05:46:48,375 - #9 2

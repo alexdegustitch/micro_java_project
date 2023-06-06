@@ -1,0 +1,53 @@
+program Program
+const int c = 10, d = 99; // konstanta 1 i 2
+int e; // globalna promenljiva
+{    	   
+   int max(int a, int b) { // funkcija koja vraca maksimum dva broja   		
+   		if (a > b) {
+   			return a;
+   		} else {
+   			return b;
+   		}
+   }
+   
+   int min(int a, int b) {
+   		if (a < b) {
+   			return a;
+		} else {
+			return b;
+		}
+   }
+   
+   void process(int a[], int n) int i; int temp; {     	
+    	i = 0;    	
+   		do {  // okretanje niza oko sredine
+   			temp = a[i];
+   			a[i] = a[n - i - 1];
+   			a[n - i - 1] = temp;
+   			i++; 
+   		} while (i < n / 2);
+   		
+   		i = 0;
+   		do { // ispis niza
+   			print(a[i]);
+   			i++;			
+   		} while (i < n);   		
+   }
+   
+   void main() int a[], length; int i; {
+   		read(e); // ucitati duzinu niza   		
+   		length = min(e, c);   				
+   		if (length > 0 && length <= d + 1) {
+   			a = new int [length];   	
+   			i = 0;	   		
+	   		do {
+	   		   read(a[i]);
+	   		   a[i] = max(a[i], 0);
+	   		   i++;
+	   		} while (i < length);
+	   		
+	   		process(a, length);  		
+   		}   		   		    		
+   		print(d); // ispis konstante 2   		
+   }
+}

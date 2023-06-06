@@ -1,0 +1,23 @@
+INFO  17:03:37,678 - Compiling source file: C:\Users\msi\Downloads\sa100122dProjekatAX\workspace\MJCompiler\test\program.mj
+INFO  17:03:37,690 - #8 MJProgram
+INFO  17:03:37,691 - #8 int
+INFO  17:03:37,691 - #8 x
+INFO  17:03:37,691 - #8 int
+INFO  17:03:37,691 - #8 y
+INFO  17:03:37,691 - #8 int
+INFO  17:03:37,691 - #8 k
+INFO  17:03:37,691 - #8 int
+INFO  17:03:37,692 - #8 c
+INFO  17:03:37,692 - #8 c
+INFO  17:03:37,692 - #9 0
+INFO  17:03:37,692 - #8 return
+INFO  17:03:37,692 - #8 c
+INFO  17:03:37,692 - #9 3
+INFO  17:03:37,692 - #8 int
+INFO  17:03:37,693 - #8 main
+INFO  17:03:37,693 - #9 1
+INFO  17:03:37,693 - #8 x
+INFO  17:03:37,693 - #8 y
+INFO  17:03:37,693 - #9 3
+INFO  17:03:37,694 - #8 k
+INFO  17:03:37,694 - #9 2

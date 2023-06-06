@@ -1,0 +1,1339 @@
+INFO  06:41:18,464 - #2 program
+INFO  06:41:18,464 - #8 Program
+INFO  06:41:18,464 - #20 {
+INFO  06:41:18,464 - #5 const
+INFO  06:41:18,464 - #8 int
+INFO  06:41:18,464 - #8 c
+INFO  06:41:18,474 - #24 =
+INFO  06:41:18,474 - #9 10
+INFO  06:41:18,474 - #27 ;
+INFO  06:41:18,474 - #5 const
+INFO  06:41:18,474 - #8 int
+INFO  06:41:18,474 - #8 d
+INFO  06:41:18,474 - #24 =
+INFO  06:41:18,474 - #9 99
+INFO  06:41:18,474 - #28 ,
+INFO  06:41:18,474 - #8 eps
+INFO  06:41:18,474 - #24 =
+INFO  06:41:18,474 - #9 2
+INFO  06:41:18,474 - #27 ;
+INFO  06:41:18,474 - #8 int
+INFO  06:41:18,474 - #8 e
+INFO  06:41:18,474 - #27 ;
+INFO  06:41:18,474 - #6 void
+INFO  06:41:18,474 - #8 test
+INFO  06:41:18,474 - #29 (
+INFO  06:41:18,474 - #30 )
+INFO  06:41:18,474 - #20 {
+INFO  06:41:18,474 - #8 int
+INFO  06:41:18,474 - #8 a
+INFO  06:41:18,474 - #28 ,
+INFO  06:41:18,474 - #8 b
+INFO  06:41:18,474 - #27 ;
+INFO  06:41:18,474 - #8 bool
+INFO  06:41:18,474 - #8 cond
+INFO  06:41:18,474 - #27 ;
+INFO  06:41:18,474 - #8 a
+INFO  06:41:18,474 - #24 =
+INFO  06:41:18,474 - #9 3
+INFO  06:41:18,474 - #27 ;
+INFO  06:41:18,474 - #8 b
+INFO  06:41:18,474 - #24 =
+INFO  06:41:18,474 - #9 5
+INFO  06:41:18,474 - #27 ;
+INFO  06:41:18,474 - #8 cond
+INFO  06:41:18,474 - #24 =
+INFO  06:41:18,474 - #11 true
+INFO  06:41:18,474 - #27 ;
+INFO  06:41:18,474 - #31 if
+INFO  06:41:18,474 - #29 (
+INFO  06:41:18,474 - #9 2
+INFO  06:41:18,474 - #17 *
+INFO  06:41:18,474 - #29 (
+INFO  06:41:18,484 - #8 a
+INFO  06:41:18,484 - #16 -
+INFO  06:41:18,484 - #8 b
+INFO  06:41:18,484 - #16 -
+INFO  06:41:18,484 - #9 1
+INFO  06:41:18,484 - #30 )
+INFO  06:41:18,484 - #16 -
+INFO  06:41:18,484 - #9 14
+INFO  06:41:18,484 - #38 >
+INFO  06:41:18,484 - #9 0
+INFO  06:41:18,484 - #14 ||
+INFO  06:41:18,484 - #8 cond
+INFO  06:41:18,484 - #30 )
+INFO  06:41:18,484 - #3 print
+INFO  06:41:18,484 - #29 (
+INFO  06:41:18,484 - #8 a
+INFO  06:41:18,484 - #15 +
+INFO  06:41:18,484 - #8 b
+INFO  06:41:18,494 - #30 )
+INFO  06:41:18,494 - #27 ;
+INFO  06:41:18,494 - #21 }
+INFO  06:41:18,494 - #8 int
+INFO  06:41:18,494 - #8 max
+INFO  06:41:18,494 - #29 (
+INFO  06:41:18,494 - #8 int
+INFO  06:41:18,494 - #8 a
+INFO  06:41:18,494 - #28 ,
+INFO  06:41:18,494 - #8 int
+INFO  06:41:18,494 - #8 b
+INFO  06:41:18,494 - #30 )
+INFO  06:41:18,494 - #20 {
+INFO  06:41:18,494 - #31 if
+INFO  06:41:18,494 - #29 (
+INFO  06:41:18,494 - #8 a
+INFO  06:41:18,494 - #38 >
+INFO  06:41:18,494 - #8 b
+INFO  06:41:18,494 - #30 )
+INFO  06:41:18,494 - #20 {
+INFO  06:41:18,494 - #37 return
+INFO  06:41:18,494 - #8 a
+INFO  06:41:18,494 - #27 ;
+INFO  06:41:18,494 - #21 }
+INFO  06:41:18,494 - #32 else
+INFO  06:41:18,494 - #37 return
+INFO  06:41:18,494 - #8 b
+INFO  06:41:18,494 - #27 ;
+INFO  06:41:18,494 - #21 }
+INFO  06:41:18,494 - #8 int
+INFO  06:41:18,494 - #8 min
+INFO  06:41:18,494 - #29 (
+INFO  06:41:18,494 - #8 int
+INFO  06:41:18,494 - #8 a
+INFO  06:41:18,494 - #28 ,
+INFO  06:41:18,494 - #8 int
+INFO  06:41:18,494 - #8 b
+INFO  06:41:18,494 - #30 )
+INFO  06:41:18,494 - #20 {
+INFO  06:41:18,494 - #31 if
+INFO  06:41:18,494 - #29 (
+INFO  06:41:18,494 - #8 a
+INFO  06:41:18,494 - #40 <
+INFO  06:41:18,494 - #8 b
+INFO  06:41:18,494 - #30 )
+INFO  06:41:18,494 - #20 {
+INFO  06:41:18,494 - #37 return
+INFO  06:41:18,494 - #8 a
+INFO  06:41:18,494 - #27 ;
+INFO  06:41:18,494 - #21 }
+INFO  06:41:18,494 - #32 else
+INFO  06:41:18,494 - #20 {
+INFO  06:41:18,494 - #37 return
+INFO  06:41:18,494 - #8 b
+INFO  06:41:18,494 - #27 ;
+INFO  06:41:18,494 - #21 }
+INFO  06:41:18,494 - #21 }
+INFO  06:41:18,494 - #6 void
+INFO  06:41:18,494 - #8 main
+INFO  06:41:18,494 - #29 (
+INFO  06:41:18,494 - #30 )
+INFO  06:41:18,494 - #20 {
+INFO  06:41:18,494 - #8 int
+INFO  06:41:18,494 - #8 a
+INFO  06:41:18,494 - #22 [
+INFO  06:41:18,494 - #23 ]
+INFO  06:41:18,494 - #27 ;
+INFO  06:41:18,494 - #8 int
+INFO  06:41:18,494 - #8 length
+INFO  06:41:18,494 - #27 ;
+INFO  06:41:18,494 - #8 int
+INFO  06:41:18,494 - #8 i
+INFO  06:41:18,504 - #27 ;
+INFO  06:41:18,504 - #8 length
+INFO  06:41:18,504 - #24 =
+INFO  06:41:18,504 - #8 c
+INFO  06:41:18,504 - #27 ;
+INFO  06:41:18,504 - #8 test
+INFO  06:41:18,504 - #29 (
+INFO  06:41:18,504 - #30 )
+INFO  06:41:18,504 - #27 ;
+INFO  06:41:18,504 - #31 if
+INFO  06:41:18,504 - #29 (
+INFO  06:41:18,504 - #8 length
+INFO  06:41:18,504 - #38 >
+INFO  06:41:18,504 - #9 0
+INFO  06:41:18,504 - #13 &&
+INFO  06:41:18,504 - #8 length
+INFO  06:41:18,504 - #42 <=
+INFO  06:41:18,504 - #8 d
+INFO  06:41:18,504 - #30 )
+INFO  06:41:18,504 - #8 a
+INFO  06:41:18,504 - #24 =
+INFO  06:41:18,504 - #7 new
+INFO  06:41:18,504 - #8 int
+INFO  06:41:18,504 - #22 [
+INFO  06:41:18,504 - #8 length
+INFO  06:41:18,504 - #23 ]
+INFO  06:41:18,504 - #27 ;
+INFO  06:41:18,504 - #32 else
+INFO  06:41:18,504 - #8 a
+INFO  06:41:18,504 - #24 =
+INFO  06:41:18,504 - #7 new
+INFO  06:41:18,504 - #8 int
+INFO  06:41:18,504 - #22 [
+INFO  06:41:18,504 - #9 5
+INFO  06:41:18,504 - #23 ]
+INFO  06:41:18,504 - #27 ;
+INFO  06:41:18,504 - #33 do
+INFO  06:41:18,504 - #20 {
+INFO  06:41:18,504 - #4 read
+INFO  06:41:18,504 - #29 (
+INFO  06:41:18,504 - #8 a
+INFO  06:41:18,504 - #22 [
+INFO  06:41:18,504 - #8 i
+INFO  06:41:18,504 - #23 ]
+INFO  06:41:18,504 - #30 )
+INFO  06:41:18,504 - #27 ;
+INFO  06:41:18,504 - #31 if
+INFO  06:41:18,504 - #29 (
+INFO  06:41:18,504 - #8 a
+INFO  06:41:18,504 - #22 [
+INFO  06:41:18,504 - #8 i
+INFO  06:41:18,504 - #23 ]
+INFO  06:41:18,504 - #19 %
+INFO  06:41:18,504 - #9 3
+INFO  06:41:18,504 - #39 ==
+INFO  06:41:18,504 - #9 0
+INFO  06:41:18,504 - #30 )
+INFO  06:41:18,504 - #3 print
+INFO  06:41:18,504 - #29 (
+INFO  06:41:18,504 - #8 a
+INFO  06:41:18,504 - #22 [
+INFO  06:41:18,504 - #8 i
+INFO  06:41:18,504 - #23 ]
+INFO  06:41:18,504 - #30 )
+INFO  06:41:18,504 - #27 ;
+INFO  06:41:18,504 - #32 else
+INFO  06:41:18,504 - #3 print
+INFO  06:41:18,504 - #29 (
+INFO  06:41:18,504 - #8 max
+INFO  06:41:18,504 - #29 (
+INFO  06:41:18,504 - #8 a
+INFO  06:41:18,504 - #22 [
+INFO  06:41:18,504 - #8 i
+INFO  06:41:18,504 - #23 ]
+INFO  06:41:18,504 - #28 ,
+INFO  06:41:18,504 - #9 0
+INFO  06:41:18,504 - #30 )
+INFO  06:41:18,504 - #30 )
+INFO  06:41:18,504 - #27 ;
+INFO  06:41:18,504 - #8 i
+INFO  06:41:18,504 - #25 ++
+INFO  06:41:18,504 - #27 ;
+INFO  06:41:18,504 - #21 }
+INFO  06:41:18,504 - #34 while
+INFO  06:41:18,504 - #29 (
+INFO  06:41:18,504 - #8 i
+INFO  06:41:18,504 - #42 <=
+INFO  06:41:18,504 - #8 length
+INFO  06:41:18,504 - #16 -
+INFO  06:41:18,504 - #9 1
+INFO  06:41:18,504 - #30 )
+INFO  06:41:18,504 - #27 ;
+INFO  06:41:18,504 - #3 print
+INFO  06:41:18,514 - #29 (
+INFO  06:41:18,514 - #8 d
+INFO  06:41:18,514 - #30 )
+INFO  06:41:18,514 - #27 ;
+INFO  06:41:18,514 - #21 }
+INFO  06:41:18,514 - #21 }
+INFO  06:41:18,524 - Pronadjen tip int u tabeli simbola na liniji 2
+INFO  06:41:18,524 - Deklarisana konstanta c na liniji 2
+INFO  06:41:18,524 - Pronadjen tip int u tabeli simbola na liniji 3
+INFO  06:41:18,524 - Deklarisana konstanta d na liniji 3
+INFO  06:41:18,524 - Deklarisana konstanta eps na liniji 3
+INFO  06:41:18,524 - Pronadjen tip int u tabeli simbola na liniji 4
+INFO  06:41:18,524 - Deklarisana promenljiva e na liniji 4
+INFO  06:41:18,524 - Pronadjen tip int u tabeli simbola na liniji 6
+INFO  06:41:18,524 - Deklarisana promenljiva a na liniji 6
+INFO  06:41:18,524 - Deklarisana promenljiva b na liniji 6
+ERROR 06:41:18,524 - Semanticka greska - nije pronadjen tip bool u tabeli simbola!
+INFO  06:41:18,524 - Deklarisana promenljiva cond na liniji 7
+INFO  06:41:18,524 - Pronadjen tip int u tabeli simbola na liniji 15
+INFO  06:41:18,524 - Pronadjen tip int u tabeli simbola na liniji 15
+INFO  06:41:18,524 - Pronadjen tip int u tabeli simbola na liniji 15
+INFO  06:41:18,524 - Pronadjen tip int u tabeli simbola na liniji 21
+INFO  06:41:18,524 - Pronadjen tip int u tabeli simbola na liniji 21
+INFO  06:41:18,534 - Pronadjen tip int u tabeli simbola na liniji 21
+INFO  06:41:18,534 - Pronadjen tip int u tabeli simbola na liniji 30
+INFO  06:41:18,534 - Deklarisan niz a na liniji 30
+INFO  06:41:18,534 - Pronadjen tip int u tabeli simbola na liniji 30
+INFO  06:41:18,534 - Deklarisana promenljiva length na liniji 30
+INFO  06:41:18,534 - Pronadjen tip int u tabeli simbola na liniji 31
+INFO  06:41:18,534 - Deklarisana promenljiva i na liniji 31
+INFO  06:41:18,534 - Pronadjen tip int u tabeli simbola na liniji 35
+INFO  06:41:18,534 - Pronadjen tip int u tabeli simbola na liniji 37
+INFO  18:38:21,984 - #2 program
+INFO  18:38:21,994 - #8 Program
+INFO  18:38:21,994 - #20 {
+INFO  18:38:21,994 - #5 const
+INFO  18:38:21,995 - #8 int
+INFO  18:38:21,995 - #8 c
+INFO  18:38:22,009 - #24 =
+INFO  18:38:22,009 - #9 10
+INFO  18:38:22,009 - #27 ;
+INFO  18:38:22,009 - #5 const
+INFO  18:38:22,024 - #8 int
+INFO  18:38:22,024 - #8 d
+INFO  18:38:22,024 - #24 =
+INFO  18:38:22,024 - #9 99
+INFO  18:38:22,025 - #28 ,
+INFO  18:38:22,025 - #8 eps
+INFO  18:38:22,025 - #24 =
+INFO  18:38:22,025 - #9 2
+INFO  18:38:22,025 - #27 ;
+INFO  18:38:22,025 - #8 int
+INFO  18:38:22,026 - #8 e
+INFO  18:38:22,026 - #27 ;
+INFO  18:38:22,026 - #6 void
+INFO  18:38:22,027 - #8 test
+INFO  18:38:22,027 - #29 (
+INFO  18:38:22,027 - #30 )
+INFO  18:38:22,027 - #20 {
+INFO  18:38:22,027 - #8 int
+INFO  18:38:22,027 - #8 a
+INFO  18:38:22,027 - #28 ,
+INFO  18:38:22,027 - #8 b
+INFO  18:38:22,027 - #27 ;
+INFO  18:38:22,028 - #8 bool
+INFO  18:38:22,028 - #8 cond
+INFO  18:38:22,028 - #27 ;
+INFO  18:38:22,028 - #8 a
+INFO  18:38:22,028 - #24 =
+INFO  18:38:22,029 - #9 3
+INFO  18:38:22,029 - #27 ;
+INFO  18:38:22,029 - #8 b
+INFO  18:38:22,029 - #24 =
+INFO  18:38:22,029 - #9 5
+INFO  18:38:22,030 - #27 ;
+INFO  18:38:22,030 - #8 cond
+INFO  18:38:22,030 - #24 =
+INFO  18:38:22,030 - #11 true
+INFO  18:38:22,030 - #27 ;
+INFO  18:38:22,038 - #31 if
+INFO  18:38:22,038 - #29 (
+INFO  18:38:22,039 - #9 2
+INFO  18:38:22,039 - #17 *
+INFO  18:38:22,039 - #29 (
+INFO  18:38:22,046 - #8 a
+INFO  18:38:22,046 - #16 -
+INFO  18:38:22,047 - #8 b
+INFO  18:38:22,054 - #16 -
+INFO  18:38:22,063 - #9 1
+INFO  18:38:22,063 - #30 )
+INFO  18:38:22,063 - #16 -
+INFO  18:38:22,073 - #9 14
+INFO  18:38:22,073 - #38 >
+INFO  18:38:22,073 - #9 0
+INFO  18:38:22,074 - #14 ||
+INFO  18:38:22,075 - #8 cond
+INFO  18:38:22,075 - #30 )
+INFO  18:38:22,076 - #3 print
+INFO  18:38:22,076 - #29 (
+INFO  18:38:22,076 - #8 a
+INFO  18:38:22,076 - #15 +
+INFO  18:38:22,076 - #8 b
+INFO  18:38:22,086 - #30 )
+INFO  18:38:22,086 - #27 ;
+INFO  18:38:22,086 - #21 }
+INFO  18:38:22,086 - #8 int
+INFO  18:38:22,086 - #8 max
+INFO  18:38:22,087 - #29 (
+INFO  18:38:22,087 - #8 int
+INFO  18:38:22,088 - #8 a
+INFO  18:38:22,088 - #28 ,
+INFO  18:38:22,089 - #8 int
+INFO  18:38:22,089 - #8 b
+INFO  18:38:22,089 - #30 )
+INFO  18:38:22,089 - #20 {
+INFO  18:38:22,089 - #31 if
+INFO  18:38:22,089 - #29 (
+INFO  18:38:22,089 - #8 a
+INFO  18:38:22,089 - #38 >
+INFO  18:38:22,089 - #8 b
+INFO  18:38:22,089 - #30 )
+INFO  18:38:22,089 - #20 {
+INFO  18:38:22,089 - #37 return
+INFO  18:38:22,089 - #8 a
+INFO  18:38:22,090 - #27 ;
+INFO  18:38:22,090 - #21 }
+INFO  18:38:22,090 - #32 else
+INFO  18:38:22,090 - #37 return
+INFO  18:38:22,090 - #8 b
+INFO  18:38:22,090 - #27 ;
+INFO  18:38:22,090 - #21 }
+INFO  18:38:22,090 - #8 int
+INFO  18:38:22,092 - #8 min
+INFO  18:38:22,092 - #29 (
+INFO  18:38:22,092 - #8 int
+INFO  18:38:22,092 - #8 a
+INFO  18:38:22,092 - #28 ,
+INFO  18:38:22,092 - #8 int
+INFO  18:38:22,092 - #8 b
+INFO  18:38:22,093 - #30 )
+INFO  18:38:22,093 - #20 {
+INFO  18:38:22,093 - #31 if
+INFO  18:38:22,093 - #29 (
+INFO  18:38:22,093 - #8 a
+INFO  18:38:22,093 - #40 <
+INFO  18:38:22,093 - #8 b
+INFO  18:38:22,105 - #30 )
+INFO  18:38:22,105 - #20 {
+INFO  18:38:22,105 - #37 return
+INFO  18:38:22,105 - #8 a
+INFO  18:38:22,105 - #27 ;
+INFO  18:38:22,106 - #21 }
+INFO  18:38:22,106 - #32 else
+INFO  18:38:22,106 - #20 {
+INFO  18:38:22,106 - #37 return
+INFO  18:38:22,106 - #8 b
+INFO  18:38:22,106 - #27 ;
+INFO  18:38:22,106 - #21 }
+INFO  18:38:22,106 - #21 }
+INFO  18:38:22,106 - #6 void
+INFO  18:38:22,106 - #8 main
+INFO  18:38:22,106 - #29 (
+INFO  18:38:22,106 - #30 )
+INFO  18:38:22,106 - #20 {
+INFO  18:38:22,107 - #8 int
+INFO  18:38:22,107 - #8 a
+INFO  18:38:22,107 - #22 [
+INFO  18:38:22,107 - #23 ]
+INFO  18:38:22,107 - #27 ;
+INFO  18:38:22,107 - #8 int
+INFO  18:38:22,107 - #8 length
+INFO  18:38:22,107 - #27 ;
+INFO  18:38:22,107 - #8 int
+INFO  18:38:22,108 - #8 i
+INFO  18:38:22,108 - #27 ;
+INFO  18:38:22,108 - #8 length
+INFO  18:38:22,108 - #24 =
+INFO  18:38:22,108 - #8 c
+INFO  18:38:22,108 - #27 ;
+INFO  18:38:22,108 - #8 test
+INFO  18:38:22,108 - #29 (
+INFO  18:38:22,108 - #30 )
+INFO  18:38:22,108 - #27 ;
+INFO  18:38:22,109 - #31 if
+INFO  18:38:22,109 - #29 (
+INFO  18:38:22,109 - #8 length
+INFO  18:38:22,109 - #38 >
+INFO  18:38:22,109 - #9 0
+INFO  18:38:22,109 - #13 &&
+INFO  18:38:22,109 - #8 length
+INFO  18:38:22,109 - #42 <=
+INFO  18:38:22,109 - #8 d
+INFO  18:38:22,116 - #30 )
+INFO  18:38:22,116 - #8 a
+INFO  18:38:22,117 - #24 =
+INFO  18:38:22,117 - #7 new
+INFO  18:38:22,117 - #8 int
+INFO  18:38:22,117 - #22 [
+INFO  18:38:22,117 - #8 length
+INFO  18:38:22,117 - #23 ]
+INFO  18:38:22,117 - #27 ;
+INFO  18:38:22,117 - #32 else
+INFO  18:38:22,117 - #8 a
+INFO  18:38:22,117 - #24 =
+INFO  18:38:22,117 - #7 new
+INFO  18:38:22,117 - #8 int
+INFO  18:38:22,117 - #22 [
+INFO  18:38:22,117 - #9 5
+INFO  18:38:22,117 - #23 ]
+INFO  18:38:22,117 - #27 ;
+INFO  18:38:22,118 - #33 do
+INFO  18:38:22,118 - #20 {
+INFO  18:38:22,118 - #4 read
+INFO  18:38:22,118 - #29 (
+INFO  18:38:22,118 - #8 a
+INFO  18:38:22,118 - #22 [
+INFO  18:38:22,118 - #8 i
+INFO  18:38:22,118 - #23 ]
+INFO  18:38:22,118 - #30 )
+INFO  18:38:22,118 - #27 ;
+INFO  18:38:22,118 - #31 if
+INFO  18:38:22,118 - #29 (
+INFO  18:38:22,118 - #8 a
+INFO  18:38:22,118 - #22 [
+INFO  18:38:22,118 - #8 i
+INFO  18:38:22,118 - #23 ]
+INFO  18:38:22,119 - #19 %
+INFO  18:38:22,119 - #9 3
+INFO  18:38:22,130 - #39 ==
+INFO  18:38:22,131 - #9 0
+INFO  18:38:22,138 - #30 )
+INFO  18:38:22,138 - #3 print
+INFO  18:38:22,138 - #29 (
+INFO  18:38:22,139 - #8 a
+INFO  18:38:22,139 - #22 [
+INFO  18:38:22,139 - #8 i
+INFO  18:38:22,139 - #23 ]
+INFO  18:38:22,139 - #30 )
+INFO  18:38:22,139 - #27 ;
+INFO  18:38:22,139 - #32 else
+INFO  18:38:22,139 - #3 print
+INFO  18:38:22,139 - #29 (
+INFO  18:38:22,139 - #8 max
+INFO  18:38:22,139 - #29 (
+INFO  18:38:22,139 - #8 a
+INFO  18:38:22,139 - #22 [
+INFO  18:38:22,139 - #8 i
+INFO  18:38:22,139 - #23 ]
+INFO  18:38:22,139 - #28 ,
+INFO  18:38:22,139 - #9 0
+INFO  18:38:22,139 - #30 )
+INFO  18:38:22,140 - #30 )
+INFO  18:38:22,140 - #27 ;
+INFO  18:38:22,140 - #8 i
+INFO  18:38:22,140 - #25 ++
+INFO  18:38:22,140 - #27 ;
+INFO  18:38:22,140 - #21 }
+INFO  18:38:22,140 - #34 while
+INFO  18:38:22,140 - #29 (
+INFO  18:38:22,140 - #8 i
+INFO  18:38:22,140 - #42 <=
+INFO  18:38:22,140 - #8 length
+INFO  18:38:22,140 - #16 -
+INFO  18:38:22,141 - #9 1
+INFO  18:38:22,141 - #30 )
+INFO  18:38:22,141 - #27 ;
+INFO  18:38:22,141 - #3 print
+INFO  18:38:22,141 - #29 (
+INFO  18:38:22,141 - #8 d
+INFO  18:38:22,141 - #30 )
+INFO  18:38:22,141 - #27 ;
+INFO  18:38:22,141 - #21 }
+INFO  18:38:22,141 - #21 }
+INFO  18:38:22,207 - Pronadjen tip int u tabeli simbola na liniji 2
+INFO  18:38:22,208 - Deklarisana konstanta c na liniji 2
+INFO  18:38:22,208 - Pronadjen tip int u tabeli simbola na liniji 3
+INFO  18:38:22,208 - Deklarisana konstanta d na liniji 3
+INFO  18:38:22,208 - Deklarisana konstanta eps na liniji 3
+INFO  18:38:22,208 - Pronadjen tip int u tabeli simbola na liniji 4
+INFO  18:38:22,208 - Deklarisana promenljiva e na liniji 4
+INFO  18:38:22,208 - Pronadjen tip int u tabeli simbola na liniji 6
+INFO  18:38:22,208 - Deklarisana promenljiva a na liniji 6
+INFO  18:38:22,209 - Deklarisana promenljiva b na liniji 6
+ERROR 18:38:22,209 - Semanticka greska - nije pronadjen tip bool u tabeli simbola!
+INFO  18:38:22,209 - Deklarisana promenljiva cond na liniji 7
+INFO  18:38:22,209 - Pronadjen tip int u tabeli simbola na liniji 15
+INFO  18:38:22,209 - Pronadjen tip int u tabeli simbola na liniji 15
+INFO  18:38:22,209 - Pronadjen tip int u tabeli simbola na liniji 15
+INFO  18:38:22,210 - Pronadjen tip int u tabeli simbola na liniji 21
+INFO  18:38:22,210 - Pronadjen tip int u tabeli simbola na liniji 21
+INFO  18:38:22,210 - Pronadjen tip int u tabeli simbola na liniji 21
+INFO  18:38:22,210 - Pronadjen tip int u tabeli simbola na liniji 30
+INFO  18:38:22,210 - Deklarisan niz a na liniji 30
+INFO  18:38:22,210 - Pronadjen tip int u tabeli simbola na liniji 30
+INFO  18:38:22,210 - Deklarisana promenljiva length na liniji 30
+INFO  18:38:22,210 - Pronadjen tip int u tabeli simbola na liniji 31
+INFO  18:38:22,210 - Deklarisana promenljiva i na liniji 31
+INFO  18:38:22,210 - Pronadjen tip int u tabeli simbola na liniji 35
+INFO  18:38:22,210 - Pronadjen tip int u tabeli simbola na liniji 37
+INFO  18:45:19,240 - #2 program
+INFO  18:45:19,246 - #8 Program
+INFO  18:45:19,246 - #20 {
+INFO  18:45:19,246 - #5 const
+INFO  18:45:19,247 - #8 int
+INFO  18:45:19,247 - #8 c
+INFO  18:45:19,249 - #24 =
+INFO  18:45:19,249 - #9 10
+INFO  18:45:19,249 - #27 ;
+INFO  18:45:19,250 - #5 const
+INFO  18:45:19,251 - #8 int
+INFO  18:45:19,252 - #8 d
+INFO  18:45:19,252 - #24 =
+INFO  18:45:19,252 - #9 99
+INFO  18:45:19,252 - #28 ,
+INFO  18:45:19,252 - #8 eps
+INFO  18:45:19,252 - #24 =
+INFO  18:45:19,252 - #9 2
+INFO  18:45:19,252 - #27 ;
+INFO  18:45:19,253 - #8 int
+INFO  18:45:19,253 - #8 e
+INFO  18:45:19,253 - #27 ;
+INFO  18:45:19,254 - #6 void
+INFO  18:45:19,255 - #8 test
+INFO  18:45:19,255 - #29 (
+INFO  18:45:19,255 - #30 )
+INFO  18:45:19,255 - #20 {
+INFO  18:45:19,255 - #8 int
+INFO  18:45:19,255 - #8 a
+INFO  18:45:19,255 - #28 ,
+INFO  18:45:19,255 - #8 b
+INFO  18:45:19,256 - #27 ;
+INFO  18:45:19,256 - #8 bool
+INFO  18:45:19,256 - #8 cond
+INFO  18:45:19,256 - #27 ;
+INFO  18:45:19,256 - #8 a
+INFO  18:45:19,258 - #24 =
+INFO  18:45:19,259 - #9 3
+INFO  18:45:19,259 - #27 ;
+INFO  18:45:19,259 - #8 b
+INFO  18:45:19,260 - #24 =
+INFO  18:45:19,260 - #9 5
+INFO  18:45:19,260 - #27 ;
+INFO  18:45:19,260 - #8 cond
+INFO  18:45:19,260 - #24 =
+INFO  18:45:19,263 - #11 true
+INFO  18:45:19,263 - #27 ;
+INFO  18:45:19,265 - #31 if
+INFO  18:45:19,266 - #29 (
+INFO  18:45:19,266 - #9 2
+INFO  18:45:19,266 - #17 *
+INFO  18:45:19,266 - #29 (
+INFO  18:45:19,268 - #8 a
+INFO  18:45:19,268 - #16 -
+INFO  18:45:19,271 - #8 b
+INFO  18:45:19,273 - #16 -
+INFO  18:45:19,275 - #9 1
+INFO  18:45:19,275 - #30 )
+INFO  18:45:19,276 - #16 -
+INFO  18:45:19,277 - #9 14
+INFO  18:45:19,277 - #38 >
+INFO  18:45:19,277 - #9 0
+INFO  18:45:19,279 - #14 ||
+INFO  18:45:19,279 - #8 cond
+INFO  18:45:19,280 - #30 )
+INFO  18:45:19,280 - #3 print
+INFO  18:45:19,280 - #29 (
+INFO  18:45:19,281 - #8 a
+INFO  18:45:19,281 - #15 +
+INFO  18:45:19,281 - #8 b
+INFO  18:45:19,282 - #30 )
+INFO  18:45:19,282 - #27 ;
+INFO  18:45:19,282 - #21 }
+INFO  18:45:19,282 - #8 int
+INFO  18:45:19,283 - #8 max
+INFO  18:45:19,283 - #29 (
+INFO  18:45:19,283 - #8 int
+INFO  18:45:19,285 - #8 a
+INFO  18:45:19,286 - #28 ,
+INFO  18:45:19,286 - #8 int
+INFO  18:45:19,286 - #8 b
+INFO  18:45:19,286 - #30 )
+INFO  18:45:19,286 - #20 {
+INFO  18:45:19,287 - #31 if
+INFO  18:45:19,287 - #29 (
+INFO  18:45:19,287 - #8 a
+INFO  18:45:19,287 - #38 >
+INFO  18:45:19,287 - #8 b
+INFO  18:45:19,287 - #30 )
+INFO  18:45:19,287 - #20 {
+INFO  18:45:19,287 - #37 return
+INFO  18:45:19,287 - #8 a
+INFO  18:45:19,287 - #27 ;
+INFO  18:45:19,288 - #21 }
+INFO  18:45:19,288 - #32 else
+INFO  18:45:19,288 - #37 return
+INFO  18:45:19,288 - #8 b
+INFO  18:45:19,288 - #27 ;
+INFO  18:45:19,289 - #21 }
+INFO  18:45:19,289 - #8 int
+INFO  18:45:19,290 - #8 min
+INFO  18:45:19,290 - #29 (
+INFO  18:45:19,290 - #8 int
+INFO  18:45:19,290 - #8 a
+INFO  18:45:19,290 - #28 ,
+INFO  18:45:19,290 - #8 int
+INFO  18:45:19,290 - #8 b
+INFO  18:45:19,290 - #30 )
+INFO  18:45:19,290 - #20 {
+INFO  18:45:19,290 - #31 if
+INFO  18:45:19,290 - #29 (
+INFO  18:45:19,290 - #8 a
+INFO  18:45:19,291 - #40 <
+INFO  18:45:19,291 - #8 b
+INFO  18:45:19,292 - #30 )
+INFO  18:45:19,292 - #20 {
+INFO  18:45:19,292 - #37 return
+INFO  18:45:19,292 - #8 a
+INFO  18:45:19,292 - #27 ;
+INFO  18:45:19,292 - #21 }
+INFO  18:45:19,292 - #32 else
+INFO  18:45:19,292 - #20 {
+INFO  18:45:19,292 - #37 return
+INFO  18:45:19,293 - #8 b
+INFO  18:45:19,293 - #27 ;
+INFO  18:45:19,293 - #21 }
+INFO  18:45:19,293 - #21 }
+INFO  18:45:19,293 - #6 void
+INFO  18:45:19,293 - #8 main
+INFO  18:45:19,293 - #29 (
+INFO  18:45:19,293 - #30 )
+INFO  18:45:19,293 - #20 {
+INFO  18:45:19,293 - #8 int
+INFO  18:45:19,293 - #8 a
+INFO  18:45:19,293 - #22 [
+INFO  18:45:19,294 - #23 ]
+INFO  18:45:19,294 - #27 ;
+INFO  18:45:19,294 - #8 int
+INFO  18:45:19,294 - #8 length
+INFO  18:45:19,294 - #27 ;
+INFO  18:45:19,294 - #8 int
+INFO  18:45:19,294 - #8 i
+INFO  18:45:19,294 - #27 ;
+INFO  18:45:19,294 - #8 length
+INFO  18:45:19,294 - #24 =
+INFO  18:45:19,294 - #8 c
+INFO  18:45:19,295 - #27 ;
+INFO  18:45:19,295 - #8 test
+INFO  18:45:19,295 - #29 (
+INFO  18:45:19,295 - #30 )
+INFO  18:45:19,295 - #27 ;
+INFO  18:45:19,295 - #31 if
+INFO  18:45:19,295 - #29 (
+INFO  18:45:19,295 - #8 length
+INFO  18:45:19,295 - #38 >
+INFO  18:45:19,295 - #9 0
+INFO  18:45:19,295 - #13 &&
+INFO  18:45:19,296 - #8 length
+INFO  18:45:19,296 - #42 <=
+INFO  18:45:19,296 - #8 d
+INFO  18:45:19,297 - #30 )
+INFO  18:45:19,297 - #8 a
+INFO  18:45:19,297 - #24 =
+INFO  18:45:19,297 - #7 new
+INFO  18:45:19,297 - #8 int
+INFO  18:45:19,297 - #22 [
+INFO  18:45:19,297 - #8 length
+INFO  18:45:19,297 - #23 ]
+INFO  18:45:19,297 - #27 ;
+INFO  18:45:19,298 - #32 else
+INFO  18:45:19,298 - #8 a
+INFO  18:45:19,298 - #24 =
+INFO  18:45:19,298 - #7 new
+INFO  18:45:19,298 - #8 int
+INFO  18:45:19,298 - #22 [
+INFO  18:45:19,298 - #9 5
+INFO  18:45:19,298 - #23 ]
+INFO  18:45:19,298 - #27 ;
+INFO  18:45:19,298 - #33 do
+INFO  18:45:19,298 - #20 {
+INFO  18:45:19,298 - #4 read
+INFO  18:45:19,298 - #29 (
+INFO  18:45:19,299 - #8 a
+INFO  18:45:19,299 - #22 [
+INFO  18:45:19,299 - #8 i
+INFO  18:45:19,299 - #23 ]
+INFO  18:45:19,299 - #30 )
+INFO  18:45:19,299 - #27 ;
+INFO  18:45:19,299 - #31 if
+INFO  18:45:19,299 - #29 (
+INFO  18:45:19,299 - #8 a
+INFO  18:45:19,299 - #22 [
+INFO  18:45:19,299 - #8 i
+INFO  18:45:19,300 - #23 ]
+INFO  18:45:19,300 - #19 %
+INFO  18:45:19,300 - #9 3
+INFO  18:45:19,301 - #39 ==
+INFO  18:45:19,301 - #9 0
+INFO  18:45:19,301 - #30 )
+INFO  18:45:19,302 - #3 print
+INFO  18:45:19,302 - #29 (
+INFO  18:45:19,302 - #8 a
+INFO  18:45:19,302 - #22 [
+INFO  18:45:19,302 - #8 i
+INFO  18:45:19,302 - #23 ]
+INFO  18:45:19,302 - #30 )
+INFO  18:45:19,302 - #27 ;
+INFO  18:45:19,302 - #32 else
+INFO  18:45:19,302 - #3 print
+INFO  18:45:19,302 - #29 (
+INFO  18:45:19,302 - #8 max
+INFO  18:45:19,302 - #29 (
+INFO  18:45:19,302 - #8 a
+INFO  18:45:19,302 - #22 [
+INFO  18:45:19,302 - #8 i
+INFO  18:45:19,303 - #23 ]
+INFO  18:45:19,303 - #28 ,
+INFO  18:45:19,303 - #9 0
+INFO  18:45:19,303 - #30 )
+INFO  18:45:19,303 - #30 )
+INFO  18:45:19,303 - #27 ;
+INFO  18:45:19,303 - #8 i
+INFO  18:45:19,303 - #25 ++
+INFO  18:45:19,303 - #27 ;
+INFO  18:45:19,304 - #21 }
+INFO  18:45:19,304 - #34 while
+INFO  18:45:19,304 - #29 (
+INFO  18:45:19,304 - #8 i
+INFO  18:45:19,304 - #42 <=
+INFO  18:45:19,304 - #8 length
+INFO  18:45:19,304 - #16 -
+INFO  18:45:19,304 - #9 1
+INFO  18:45:19,304 - #30 )
+INFO  18:45:19,304 - #27 ;
+INFO  18:45:19,305 - #3 print
+INFO  18:45:19,305 - #29 (
+INFO  18:45:19,305 - #8 d
+INFO  18:45:19,305 - #30 )
+INFO  18:45:19,305 - #27 ;
+INFO  18:45:19,305 - #21 }
+INFO  18:45:19,305 - #21 }
+INFO  18:45:19,346 - Pronadjen tip int u tabeli simbola na liniji 2
+INFO  18:45:19,347 - Deklarisana konstanta c na liniji 2
+INFO  18:45:19,347 - Pronadjen tip int u tabeli simbola na liniji 3
+INFO  18:45:19,347 - Deklarisana konstanta d na liniji 3
+INFO  18:45:19,347 - Deklarisana konstanta eps na liniji 3
+INFO  18:45:19,347 - Pronadjen tip int u tabeli simbola na liniji 4
+INFO  18:45:19,347 - Deklarisana promenljiva e na liniji 4
+INFO  18:45:19,348 - Pronadjen tip int u tabeli simbola na liniji 6
+INFO  18:45:19,348 - Deklarisana promenljiva a na liniji 6
+INFO  18:45:19,348 - Deklarisana promenljiva b na liniji 6
+ERROR 18:45:19,348 - Semanticka greska - nije pronadjen tip bool u tabeli simbola!
+INFO  18:45:19,348 - Deklarisana promenljiva cond na liniji 7
+INFO  18:45:19,349 - Pronadjen tip int u tabeli simbola na liniji 15
+INFO  18:45:19,349 - Pronadjen tip int u tabeli simbola na liniji 15
+INFO  18:45:19,349 - Pronadjen tip int u tabeli simbola na liniji 15
+INFO  18:45:19,349 - Pronadjen tip int u tabeli simbola na liniji 21
+INFO  18:45:19,349 - Pronadjen tip int u tabeli simbola na liniji 21
+INFO  18:45:19,349 - Pronadjen tip int u tabeli simbola na liniji 21
+INFO  18:45:19,349 - Pronadjen tip int u tabeli simbola na liniji 30
+INFO  18:45:19,349 - Deklarisan niz a na liniji 30
+INFO  18:45:19,349 - Pronadjen tip int u tabeli simbola na liniji 30
+INFO  18:45:19,349 - Deklarisana promenljiva length na liniji 30
+INFO  18:45:19,350 - Pronadjen tip int u tabeli simbola na liniji 31
+INFO  18:45:19,350 - Deklarisana promenljiva i na liniji 31
+INFO  18:45:19,350 - Pronadjen tip int u tabeli simbola na liniji 35
+INFO  18:45:19,350 - Pronadjen tip int u tabeli simbola na liniji 37
+INFO  19:14:33,484 - #2 program
+INFO  19:14:33,484 - #8 Program
+INFO  19:14:33,484 - #20 {
+INFO  19:14:33,484 - #5 const
+INFO  19:14:33,484 - #8 int
+INFO  19:14:33,484 - #8 c
+INFO  19:14:33,484 - #24 =
+INFO  19:14:33,484 - #9 10
+INFO  19:14:33,484 - #27 ;
+INFO  19:14:33,484 - #5 const
+INFO  19:14:33,489 - #8 int
+INFO  19:14:33,489 - #8 d
+INFO  19:14:33,489 - #24 =
+INFO  19:14:33,489 - #9 99
+INFO  19:14:33,489 - #28 ,
+INFO  19:14:33,489 - #8 eps
+INFO  19:14:33,489 - #24 =
+INFO  19:14:33,489 - #9 2
+INFO  19:14:33,489 - #27 ;
+INFO  19:14:33,489 - #8 int
+INFO  19:14:33,489 - #8 e
+INFO  19:14:33,489 - #27 ;
+INFO  19:14:33,489 - #6 void
+INFO  19:14:33,489 - #8 test
+INFO  19:14:33,489 - #29 (
+INFO  19:14:33,489 - #30 )
+INFO  19:14:33,489 - #20 {
+INFO  19:14:33,489 - #8 int
+INFO  19:14:33,489 - #8 a
+INFO  19:14:33,489 - #28 ,
+INFO  19:14:33,494 - #8 b
+INFO  19:14:33,494 - #27 ;
+INFO  19:14:33,494 - #8 bool
+INFO  19:14:33,494 - #8 cond
+INFO  19:14:33,494 - #27 ;
+INFO  19:14:33,494 - #8 a
+INFO  19:14:33,494 - #24 =
+INFO  19:14:33,494 - #9 3
+INFO  19:14:33,494 - #27 ;
+INFO  19:14:33,494 - #8 b
+INFO  19:14:33,494 - #24 =
+INFO  19:14:33,494 - #9 5
+INFO  19:14:33,494 - #27 ;
+INFO  19:14:33,494 - #8 cond
+INFO  19:14:33,494 - #24 =
+INFO  19:14:33,494 - #11 true
+INFO  19:14:33,494 - #27 ;
+INFO  19:14:33,494 - #31 if
+INFO  19:14:33,494 - #29 (
+INFO  19:14:33,494 - #9 2
+INFO  19:14:33,494 - #17 *
+INFO  19:14:33,494 - #29 (
+INFO  19:14:33,499 - #8 a
+INFO  19:14:33,499 - #16 -
+INFO  19:14:33,499 - #8 b
+INFO  19:14:33,499 - #16 -
+INFO  19:14:33,499 - #9 1
+INFO  19:14:33,499 - #30 )
+INFO  19:14:33,504 - #16 -
+INFO  19:14:33,504 - #9 14
+INFO  19:14:33,504 - #38 >
+INFO  19:14:33,504 - #9 0
+INFO  19:14:33,504 - #14 ||
+INFO  19:14:33,504 - #8 cond
+INFO  19:14:33,504 - #30 )
+INFO  19:14:33,504 - #3 print
+INFO  19:14:33,504 - #29 (
+INFO  19:14:33,504 - #8 a
+INFO  19:14:33,504 - #15 +
+INFO  19:14:33,504 - #8 b
+INFO  19:14:33,509 - #30 )
+INFO  19:14:33,509 - #27 ;
+INFO  19:14:33,509 - #21 }
+INFO  19:14:33,509 - #8 int
+INFO  19:14:33,509 - #8 max
+INFO  19:14:33,509 - #29 (
+INFO  19:14:33,509 - #8 int
+INFO  19:14:33,509 - #8 a
+INFO  19:14:33,509 - #28 ,
+INFO  19:14:33,509 - #8 int
+INFO  19:14:33,509 - #8 b
+INFO  19:14:33,509 - #30 )
+INFO  19:14:33,509 - #20 {
+INFO  19:14:33,509 - #31 if
+INFO  19:14:33,509 - #29 (
+INFO  19:14:33,509 - #8 a
+INFO  19:14:33,509 - #38 >
+INFO  19:14:33,509 - #8 b
+INFO  19:14:33,509 - #30 )
+INFO  19:14:33,509 - #20 {
+INFO  19:14:33,509 - #37 return
+INFO  19:14:33,509 - #8 a
+INFO  19:14:33,509 - #27 ;
+INFO  19:14:33,509 - #21 }
+INFO  19:14:33,514 - #32 else
+INFO  19:14:33,514 - #37 return
+INFO  19:14:33,514 - #8 b
+INFO  19:14:33,514 - #27 ;
+INFO  19:14:33,514 - #21 }
+INFO  19:14:33,514 - #8 int
+INFO  19:14:33,514 - #8 min
+INFO  19:14:33,514 - #29 (
+INFO  19:14:33,514 - #8 int
+INFO  19:14:33,514 - #8 a
+INFO  19:14:33,514 - #28 ,
+INFO  19:14:33,514 - #8 int
+INFO  19:14:33,514 - #8 b
+INFO  19:14:33,514 - #30 )
+INFO  19:14:33,514 - #20 {
+INFO  19:14:33,514 - #31 if
+INFO  19:14:33,514 - #29 (
+INFO  19:14:33,514 - #8 a
+INFO  19:14:33,514 - #40 <
+INFO  19:14:33,514 - #8 b
+INFO  19:14:33,514 - #30 )
+INFO  19:14:33,514 - #20 {
+INFO  19:14:33,514 - #37 return
+INFO  19:14:33,514 - #8 a
+INFO  19:14:33,514 - #27 ;
+INFO  19:14:33,514 - #21 }
+INFO  19:14:33,514 - #32 else
+INFO  19:14:33,514 - #20 {
+INFO  19:14:33,514 - #37 return
+INFO  19:14:33,514 - #8 b
+INFO  19:14:33,514 - #27 ;
+INFO  19:14:33,514 - #21 }
+INFO  19:14:33,514 - #21 }
+INFO  19:14:33,514 - #6 void
+INFO  19:14:33,514 - #8 main
+INFO  19:14:33,514 - #29 (
+INFO  19:14:33,514 - #30 )
+INFO  19:14:33,514 - #20 {
+INFO  19:14:33,514 - #8 int
+INFO  19:14:33,514 - #8 a
+INFO  19:14:33,519 - #22 [
+INFO  19:14:33,519 - #23 ]
+INFO  19:14:33,519 - #27 ;
+INFO  19:14:33,519 - #8 int
+INFO  19:14:33,519 - #8 length
+INFO  19:14:33,519 - #27 ;
+INFO  19:14:33,519 - #8 int
+INFO  19:14:33,519 - #8 i
+INFO  19:14:33,519 - #27 ;
+INFO  19:14:33,519 - #8 length
+INFO  19:14:33,519 - #24 =
+INFO  19:14:33,519 - #8 c
+INFO  19:14:33,519 - #27 ;
+INFO  19:14:33,519 - #8 test
+INFO  19:14:33,519 - #29 (
+INFO  19:14:33,519 - #30 )
+INFO  19:14:33,519 - #27 ;
+INFO  19:14:33,519 - #31 if
+INFO  19:14:33,519 - #29 (
+INFO  19:14:33,519 - #8 length
+INFO  19:14:33,519 - #38 >
+INFO  19:14:33,519 - #9 0
+INFO  19:14:33,519 - #13 &&
+INFO  19:14:33,519 - #8 length
+INFO  19:14:33,519 - #42 <=
+INFO  19:14:33,519 - #8 d
+INFO  19:14:33,519 - #30 )
+INFO  19:14:33,519 - #8 a
+INFO  19:14:33,519 - #24 =
+INFO  19:14:33,519 - #7 new
+INFO  19:14:33,519 - #8 int
+INFO  19:14:33,519 - #22 [
+INFO  19:14:33,519 - #8 length
+INFO  19:14:33,519 - #23 ]
+INFO  19:14:33,519 - #27 ;
+INFO  19:14:33,519 - #32 else
+INFO  19:14:33,519 - #8 a
+INFO  19:14:33,519 - #24 =
+INFO  19:14:33,519 - #7 new
+INFO  19:14:33,519 - #8 int
+INFO  19:14:33,519 - #22 [
+INFO  19:14:33,519 - #9 5
+INFO  19:14:33,519 - #23 ]
+INFO  19:14:33,519 - #27 ;
+INFO  19:14:33,519 - #33 do
+INFO  19:14:33,519 - #20 {
+INFO  19:14:33,519 - #4 read
+INFO  19:14:33,524 - #29 (
+INFO  19:14:33,524 - #8 a
+INFO  19:14:33,524 - #22 [
+INFO  19:14:33,524 - #8 i
+INFO  19:14:33,524 - #23 ]
+INFO  19:14:33,524 - #30 )
+INFO  19:14:33,524 - #27 ;
+INFO  19:14:33,524 - #31 if
+INFO  19:14:33,524 - #29 (
+INFO  19:14:33,524 - #8 a
+INFO  19:14:33,524 - #22 [
+INFO  19:14:33,524 - #8 i
+INFO  19:14:33,524 - #23 ]
+INFO  19:14:33,524 - #19 %
+INFO  19:14:33,524 - #9 3
+INFO  19:14:33,524 - #39 ==
+INFO  19:14:33,524 - #9 0
+INFO  19:14:33,524 - #30 )
+INFO  19:14:33,524 - #3 print
+INFO  19:14:33,524 - #29 (
+INFO  19:14:33,524 - #8 a
+INFO  19:14:33,524 - #22 [
+INFO  19:14:33,524 - #8 i
+INFO  19:14:33,524 - #23 ]
+INFO  19:14:33,524 - #30 )
+INFO  19:14:33,524 - #27 ;
+INFO  19:14:33,524 - #32 else
+INFO  19:14:33,524 - #3 print
+INFO  19:14:33,524 - #29 (
+INFO  19:14:33,524 - #8 max
+INFO  19:14:33,524 - #29 (
+INFO  19:14:33,524 - #8 a
+INFO  19:14:33,524 - #22 [
+INFO  19:14:33,524 - #8 i
+INFO  19:14:33,524 - #23 ]
+INFO  19:14:33,524 - #28 ,
+INFO  19:14:33,524 - #9 0
+INFO  19:14:33,524 - #30 )
+INFO  19:14:33,524 - #30 )
+INFO  19:14:33,524 - #27 ;
+INFO  19:14:33,524 - #8 i
+INFO  19:14:33,524 - #25 ++
+INFO  19:14:33,524 - #27 ;
+INFO  19:14:33,524 - #21 }
+INFO  19:14:33,524 - #34 while
+INFO  19:14:33,524 - #29 (
+INFO  19:14:33,524 - #8 i
+INFO  19:14:33,529 - #42 <=
+INFO  19:14:33,529 - #8 length
+INFO  19:14:33,529 - #16 -
+INFO  19:14:33,529 - #9 1
+INFO  19:14:33,529 - #30 )
+INFO  19:14:33,529 - #27 ;
+INFO  19:14:33,529 - #3 print
+INFO  19:14:33,529 - #29 (
+INFO  19:14:33,529 - #8 d
+INFO  19:14:33,529 - #30 )
+INFO  19:14:33,529 - #27 ;
+INFO  19:14:33,529 - #21 }
+INFO  19:14:33,529 - #21 }
+INFO  19:14:33,539 - Pronadjen tip int u tabeli simbola na liniji 2
+INFO  19:14:33,539 - Deklarisana konstanta c na liniji 2
+INFO  19:14:33,539 - Pronadjen tip int u tabeli simbola na liniji 3
+INFO  19:14:33,539 - Deklarisana konstanta d na liniji 3
+INFO  19:14:33,539 - Deklarisana konstanta eps na liniji 3
+INFO  19:14:33,539 - Pronadjen tip int u tabeli simbola na liniji 4
+INFO  19:14:33,539 - Deklarisana promenljiva e na liniji 4
+INFO  19:14:33,539 - Pronadjen tip int u tabeli simbola na liniji 6
+INFO  19:14:33,539 - Deklarisana promenljiva a na liniji 6
+INFO  19:14:33,539 - Deklarisana promenljiva b na liniji 6
+ERROR 19:14:33,539 - Semanticka greska - nije pronadjen tip bool u tabeli simbola!
+INFO  19:14:33,539 - Deklarisana promenljiva cond na liniji 7
+INFO  19:14:33,539 - Pronadjen tip int u tabeli simbola na liniji 15
+INFO  19:14:33,539 - Pronadjen tip int u tabeli simbola na liniji 15
+INFO  19:14:33,539 - Pronadjen tip int u tabeli simbola na liniji 15
+INFO  19:14:33,539 - Pronadjen tip int u tabeli simbola na liniji 21
+INFO  19:14:33,539 - Pronadjen tip int u tabeli simbola na liniji 21
+INFO  19:14:33,539 - Pronadjen tip int u tabeli simbola na liniji 21
+INFO  19:14:33,539 - Pronadjen tip int u tabeli simbola na liniji 30
+INFO  19:14:33,539 - Deklarisan niz a na liniji 30
+INFO  19:14:33,539 - Pronadjen tip int u tabeli simbola na liniji 30
+INFO  19:14:33,539 - Deklarisana promenljiva length na liniji 30
+INFO  19:14:33,539 - Pronadjen tip int u tabeli simbola na liniji 31
+INFO  19:14:33,539 - Deklarisana promenljiva i na liniji 31
+INFO  19:14:33,539 - Pronadjen tip int u tabeli simbola na liniji 35
+INFO  19:14:33,539 - Pronadjen tip int u tabeli simbola na liniji 37
+INFO  19:33:11,030 - #2 program
+INFO  19:33:11,030 - #8 Program
+INFO  19:33:11,030 - #20 {
+INFO  19:33:11,030 - #5 const
+INFO  19:33:11,030 - #8 int
+INFO  19:33:11,030 - #8 c
+INFO  19:33:11,035 - #24 =
+INFO  19:33:11,035 - #9 10
+INFO  19:33:11,035 - #27 ;
+INFO  19:33:11,035 - #5 const
+INFO  19:33:11,035 - #8 int
+INFO  19:33:11,035 - #8 d
+INFO  19:33:11,035 - #24 =
+INFO  19:33:11,035 - #9 99
+INFO  19:33:11,035 - #28 ,
+INFO  19:33:11,035 - #8 eps
+INFO  19:33:11,035 - #24 =
+INFO  19:33:11,035 - #9 2
+INFO  19:33:11,035 - #27 ;
+INFO  19:33:11,035 - #8 int
+INFO  19:33:11,035 - #8 e
+INFO  19:33:11,035 - #27 ;
+INFO  19:33:11,035 - #6 void
+INFO  19:33:11,040 - #8 test
+INFO  19:33:11,040 - #29 (
+INFO  19:33:11,040 - #30 )
+INFO  19:33:11,040 - #20 {
+INFO  19:33:11,040 - #8 int
+INFO  19:33:11,040 - #8 a
+INFO  19:33:11,040 - #28 ,
+INFO  19:33:11,040 - #8 b
+INFO  19:33:11,040 - #27 ;
+INFO  19:33:11,040 - #8 bool
+INFO  19:33:11,040 - #8 cond
+INFO  19:33:11,040 - #27 ;
+INFO  19:33:11,040 - #8 a
+INFO  19:33:11,040 - #24 =
+INFO  19:33:11,040 - #9 3
+INFO  19:33:11,040 - #27 ;
+INFO  19:33:11,040 - #8 b
+INFO  19:33:11,040 - #24 =
+INFO  19:33:11,040 - #9 5
+INFO  19:33:11,040 - #27 ;
+INFO  19:33:11,040 - #8 cond
+INFO  19:33:11,040 - #24 =
+INFO  19:33:11,040 - #11 true
+INFO  19:33:11,040 - #27 ;
+INFO  19:33:11,040 - #31 if
+INFO  19:33:11,045 - #29 (
+INFO  19:33:11,045 - #9 2
+INFO  19:33:11,045 - #17 *
+INFO  19:33:11,045 - #29 (
+INFO  19:33:11,045 - #8 a
+INFO  19:33:11,045 - #16 -
+INFO  19:33:11,045 - #8 b
+INFO  19:33:11,045 - #16 -
+INFO  19:33:11,045 - #9 1
+INFO  19:33:11,045 - #30 )
+INFO  19:33:11,045 - #16 -
+INFO  19:33:11,050 - #9 14
+INFO  19:33:11,050 - #38 >
+INFO  19:33:11,050 - #9 0
+INFO  19:33:11,050 - #14 ||
+INFO  19:33:11,050 - #8 cond
+INFO  19:33:11,050 - #30 )
+INFO  19:33:11,050 - #3 print
+INFO  19:33:11,050 - #29 (
+INFO  19:33:11,050 - #8 a
+INFO  19:33:11,050 - #15 +
+INFO  19:33:11,050 - #8 b
+INFO  19:33:11,055 - #30 )
+INFO  19:33:11,055 - #27 ;
+INFO  19:33:11,055 - #21 }
+INFO  19:33:11,055 - #8 int
+INFO  19:33:11,055 - #8 max
+INFO  19:33:11,055 - #29 (
+INFO  19:33:11,055 - #8 int
+INFO  19:33:11,055 - #8 a
+INFO  19:33:11,055 - #28 ,
+INFO  19:33:11,055 - #8 int
+INFO  19:33:11,055 - #8 b
+INFO  19:33:11,055 - #30 )
+INFO  19:33:11,055 - #20 {
+INFO  19:33:11,055 - #31 if
+INFO  19:33:11,055 - #29 (
+INFO  19:33:11,055 - #8 a
+INFO  19:33:11,055 - #38 >
+INFO  19:33:11,055 - #8 b
+INFO  19:33:11,055 - #30 )
+INFO  19:33:11,055 - #20 {
+INFO  19:33:11,055 - #37 return
+INFO  19:33:11,055 - #8 a
+INFO  19:33:11,055 - #27 ;
+INFO  19:33:11,055 - #21 }
+INFO  19:33:11,060 - #32 else
+INFO  19:33:11,060 - #37 return
+INFO  19:33:11,060 - #8 b
+INFO  19:33:11,060 - #27 ;
+INFO  19:33:11,060 - #21 }
+INFO  19:33:11,060 - #8 int
+INFO  19:33:11,060 - #8 min
+INFO  19:33:11,060 - #29 (
+INFO  19:33:11,060 - #8 int
+INFO  19:33:11,060 - #8 a
+INFO  19:33:11,060 - #28 ,
+INFO  19:33:11,060 - #8 int
+INFO  19:33:11,060 - #8 b
+INFO  19:33:11,060 - #30 )
+INFO  19:33:11,060 - #20 {
+INFO  19:33:11,060 - #31 if
+INFO  19:33:11,060 - #29 (
+INFO  19:33:11,060 - #8 a
+INFO  19:33:11,060 - #40 <
+INFO  19:33:11,060 - #8 b
+INFO  19:33:11,060 - #30 )
+INFO  19:33:11,060 - #20 {
+INFO  19:33:11,060 - #37 return
+INFO  19:33:11,060 - #8 a
+INFO  19:33:11,060 - #27 ;
+INFO  19:33:11,060 - #21 }
+INFO  19:33:11,060 - #32 else
+INFO  19:33:11,060 - #20 {
+INFO  19:33:11,060 - #37 return
+INFO  19:33:11,060 - #8 b
+INFO  19:33:11,060 - #27 ;
+INFO  19:33:11,060 - #21 }
+INFO  19:33:11,060 - #21 }
+INFO  19:33:11,060 - #6 void
+INFO  19:33:11,060 - #8 main
+INFO  19:33:11,060 - #29 (
+INFO  19:33:11,060 - #30 )
+INFO  19:33:11,060 - #20 {
+INFO  19:33:11,060 - #8 int
+INFO  19:33:11,060 - #8 a
+INFO  19:33:11,060 - #22 [
+INFO  19:33:11,060 - #23 ]
+INFO  19:33:11,060 - #27 ;
+INFO  19:33:11,060 - #8 int
+INFO  19:33:11,060 - #8 length
+INFO  19:33:11,060 - #27 ;
+INFO  19:33:11,060 - #8 int
+INFO  19:33:11,060 - #8 i
+INFO  19:33:11,060 - #27 ;
+INFO  19:33:11,065 - #8 length
+INFO  19:33:11,065 - #24 =
+INFO  19:33:11,065 - #8 c
+INFO  19:33:11,065 - #27 ;
+INFO  19:33:11,065 - #8 test
+INFO  19:33:11,065 - #29 (
+INFO  19:33:11,065 - #30 )
+INFO  19:33:11,065 - #27 ;
+INFO  19:33:11,065 - #31 if
+INFO  19:33:11,065 - #29 (
+INFO  19:33:11,065 - #8 length
+INFO  19:33:11,065 - #38 >
+INFO  19:33:11,065 - #9 0
+INFO  19:33:11,065 - #13 &&
+INFO  19:33:11,065 - #8 length
+INFO  19:33:11,065 - #42 <=
+INFO  19:33:11,065 - #8 d
+INFO  19:33:11,065 - #30 )
+INFO  19:33:11,065 - #8 a
+INFO  19:33:11,065 - #24 =
+INFO  19:33:11,065 - #7 new
+INFO  19:33:11,065 - #8 int
+INFO  19:33:11,065 - #22 [
+INFO  19:33:11,065 - #8 length
+INFO  19:33:11,065 - #23 ]
+INFO  19:33:11,065 - #27 ;
+INFO  19:33:11,065 - #32 else
+INFO  19:33:11,065 - #8 a
+INFO  19:33:11,065 - #24 =
+INFO  19:33:11,065 - #7 new
+INFO  19:33:11,065 - #8 int
+INFO  19:33:11,065 - #22 [
+INFO  19:33:11,065 - #9 5
+INFO  19:33:11,065 - #23 ]
+INFO  19:33:11,065 - #27 ;
+INFO  19:33:11,065 - #33 do
+INFO  19:33:11,065 - #20 {
+INFO  19:33:11,065 - #4 read
+INFO  19:33:11,065 - #29 (
+INFO  19:33:11,065 - #8 a
+INFO  19:33:11,065 - #22 [
+INFO  19:33:11,065 - #8 i
+INFO  19:33:11,065 - #23 ]
+INFO  19:33:11,065 - #30 )
+INFO  19:33:11,065 - #27 ;
+INFO  19:33:11,065 - #31 if
+INFO  19:33:11,065 - #29 (
+INFO  19:33:11,065 - #8 a
+INFO  19:33:11,065 - #22 [
+INFO  19:33:11,065 - #8 i
+INFO  19:33:11,065 - #23 ]
+INFO  19:33:11,070 - #19 %
+INFO  19:33:11,070 - #9 3
+INFO  19:33:11,070 - #39 ==
+INFO  19:33:11,070 - #9 0
+INFO  19:33:11,070 - #30 )
+INFO  19:33:11,070 - #3 print
+INFO  19:33:11,070 - #29 (
+INFO  19:33:11,070 - #8 a
+INFO  19:33:11,070 - #22 [
+INFO  19:33:11,070 - #8 i
+INFO  19:33:11,070 - #23 ]
+INFO  19:33:11,070 - #30 )
+INFO  19:33:11,070 - #27 ;
+INFO  19:33:11,070 - #32 else
+INFO  19:33:11,070 - #3 print
+INFO  19:33:11,070 - #29 (
+INFO  19:33:11,070 - #8 max
+INFO  19:33:11,070 - #29 (
+INFO  19:33:11,070 - #8 a
+INFO  19:33:11,070 - #22 [
+INFO  19:33:11,070 - #8 i
+INFO  19:33:11,070 - #23 ]
+INFO  19:33:11,070 - #28 ,
+INFO  19:33:11,070 - #9 0
+INFO  19:33:11,070 - #30 )
+INFO  19:33:11,070 - #30 )
+INFO  19:33:11,070 - #27 ;
+INFO  19:33:11,070 - #8 i
+INFO  19:33:11,070 - #25 ++
+INFO  19:33:11,070 - #27 ;
+INFO  19:33:11,070 - #21 }
+INFO  19:33:11,070 - #34 while
+INFO  19:33:11,070 - #29 (
+INFO  19:33:11,070 - #8 i
+INFO  19:33:11,070 - #42 <=
+INFO  19:33:11,070 - #8 length
+INFO  19:33:11,070 - #16 -
+INFO  19:33:11,070 - #9 1
+INFO  19:33:11,070 - #30 )
+INFO  19:33:11,070 - #27 ;
+INFO  19:33:11,070 - #3 print
+INFO  19:33:11,070 - #29 (
+INFO  19:33:11,070 - #8 d
+INFO  19:33:11,070 - #30 )
+INFO  19:33:11,070 - #27 ;
+INFO  19:33:11,070 - #21 }
+INFO  19:33:11,070 - #21 }
+INFO  19:33:11,085 - Pronadjen tip int u tabeli simbola na liniji 2
+INFO  19:33:11,085 - Deklarisana konstanta c na liniji 2
+INFO  19:33:11,085 - Pronadjen tip int u tabeli simbola na liniji 3
+INFO  19:33:11,085 - Deklarisana konstanta d na liniji 3
+INFO  19:33:11,085 - Deklarisana konstanta eps na liniji 3
+INFO  19:33:11,085 - Pronadjen tip int u tabeli simbola na liniji 4
+INFO  19:33:11,085 - Deklarisana promenljiva e na liniji 4
+INFO  19:33:11,085 - Pronadjen tip int u tabeli simbola na liniji 6
+INFO  19:33:11,085 - Deklarisana promenljiva a na liniji 6
+INFO  19:33:11,085 - Deklarisana promenljiva b na liniji 6
+ERROR 19:33:11,085 - Semanticka greska - nije pronadjen tip bool u tabeli simbola!
+INFO  19:33:11,085 - Deklarisana promenljiva cond na liniji 7
+INFO  19:33:11,085 - Obradjuje se procedura test na liniji 5
+INFO  19:33:11,085 - Pronadjen tip int u tabeli simbola na liniji 15
+INFO  19:33:11,085 - Pronadjen tip int u tabeli simbola na liniji 15
+INFO  19:33:11,085 - Pronadjen tip int u tabeli simbola na liniji 15
+INFO  19:33:11,085 - Obradjuje se funkcija max na liniji 15
+INFO  19:33:11,085 - Pronadjen tip int u tabeli simbola na liniji 21
+INFO  19:33:11,085 - Pronadjen tip int u tabeli simbola na liniji 21
+INFO  19:33:11,085 - Pronadjen tip int u tabeli simbola na liniji 21
+INFO  19:33:11,085 - Obradjuje se funkcija min na liniji 21
+INFO  19:33:11,085 - Pronadjen tip int u tabeli simbola na liniji 30
+INFO  19:33:11,085 - Deklarisan niz a na liniji 30
+INFO  19:33:11,085 - Pronadjen tip int u tabeli simbola na liniji 30
+INFO  19:33:11,085 - Deklarisana promenljiva length na liniji 30
+INFO  19:33:11,085 - Pronadjen tip int u tabeli simbola na liniji 31
+INFO  19:33:11,085 - Deklarisana promenljiva i na liniji 31
+INFO  19:33:11,085 - Pronadjen tip int u tabeli simbola na liniji 35
+INFO  19:33:11,085 - Pronadjen tip int u tabeli simbola na liniji 37
+INFO  19:33:11,085 - Obradjuje se procedura main na liniji 29
